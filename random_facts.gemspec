@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["billkall@gmail.com"]
   spec.summary       = %q{A random facts generator}
   spec.description   = %q{A gem to provide random facts based on requested parameters}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/arcanoid/random_facts"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
