@@ -1,6 +1,6 @@
 # RandomFacts
 
-TODO: Write a gem description
+This is a gem that allows a user to request random facts with optional parameters such as max size of returned results array.
 
 ## Installation
 
