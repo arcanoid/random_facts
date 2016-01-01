@@ -11,14 +11,16 @@ module RandomFacts
       final_data = []
 
       # if options type is given filter out only the facts that refer to that kind of type
-      if options[:type].present?
-        filtered_data = data_hash['facts'].select { |fact| fact['type'] == options[:type] }
-      else
+      if options[:type].nil?
         filtered_data = data_hash['facts']
+      else
+        filtered_data = data_hash['facts'].select { |fact| fact['type'] == options[:type] }
       end
 
       # if option size is given try to produce random numbers to select
-      if options[:size].present? && filtered_data.size > 0
+      if options[:size].nil? || filtered_data.size == 0
+        final_data = filtered_data
+      else
         while random_numbers.size < options[:size]
           number = rand(filtered_data.size - 1)
           unless random_numbers.include? number
@@ -29,8 +31,6 @@ module RandomFacts
         random_numbers.each do |index|
           final_data << filtered_data[index]
         end
-      else
-        final_data = filtered_data
       end
 
       final_data.map { |fact| fact['fact'] }
