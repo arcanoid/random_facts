@@ -5,16 +5,15 @@ module RandomFacts
     ROOT = File.expand_path("../..", __FILE__)
 
     def self.process(options = {})
-      file = File.read("#{ROOT}/data/facts.json")
-      data_hash = JSON.parse(file)
+      data_hash = read_all_hash_files
       random_numbers = []
       final_data = []
 
       # if options type is given filter out only the facts that refer to that kind of type
       if options[:type].nil?
-        filtered_data = data_hash['facts']
+        filtered_data = data_hash
       else
-        filtered_data = data_hash['facts'].select { |fact| fact['type'] == options[:type] }
+        filtered_data = data_hash.select { |fact| fact['type'] == options[:type] }
       end
 
       # if option size is given try to produce random numbers to select
@@ -37,9 +36,20 @@ module RandomFacts
     end
 
     def self.valid_types
-      file = File.read("#{ROOT}/data/facts.json")
-      data_hash = JSON.parse(file)
-      data_hash['facts'].collect { |fact| fact['type'] }.uniq.sort
+      data_hash = read_all_hash_files
+      data_hash.collect { |fact| fact['type'] }.uniq.sort
+    end
+
+    def self.read_all_hash_files
+      files_to_read = Dir["#{ROOT}/data/*.json"]
+      data = []
+
+      files_to_read.each do |file_to_read|
+        file = File.read(file_to_read)
+        data << JSON.parse(file).flatten
+      end
+
+      data.flatten
     end
   end
 end

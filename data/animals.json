@@ -1,0 +1,4566 @@
+[
+  {
+    "type": "animals",
+    "fact": "It's possible to lead a cow upstairs...but not downstairs."
+  },
+  {
+    "type": "animals",
+    "fact": "Dogs have four toes on their hind feet, and five on their front feet."
+  },
+  {
+    "type": "animals",
+    "fact": "The ant can lift 50 times its own weight, can pull 30 times its own weight and always falls over on its right side when intoxicated."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach will live nine days without it's head, before it starves to death."
+  },
+  {
+    "type": "animals",
+    "fact": "Butterflies taste with their feet."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants are the only mamals that can't jump."
+  },
+  {
+    "type": "animals",
+    "fact": "Starfish don't have brains."
+  },
+  {
+    "type": "animals",
+    "fact": "Polar bears are left handed."
+  },
+  {
+    "type": "animals",
+    "fact": "A duck's quack doesn't echo, and no one knows why."
+  },
+  {
+    "type": "animals",
+    "fact": "An ostrich's eye is bigger that it's brain."
+  },
+  {
+    "type": "animals",
+    "fact": "The longest recorded flight of a chicken is thirteen seconds."
+  },
+  {
+    "type": "animals",
+    "fact": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they could be confused at a crime scene."
+  },
+  {
+    "type": "animals",
+    "fact": "Snails can sleep for 3 years without eating"
+  },
+  {
+    "type": "animals",
+    "fact": "Porcupines float in water."
+  },
+  {
+    "type": "animals",
+    "fact": "Armadillos are the only animal besides humans that can get leprosy."
+  },
+  {
+    "type": "animals",
+    "fact": "Many hamsters only blink one eye at a time."
+  },
+  {
+    "type": "animals",
+    "fact": "A pregnant goldfish is called a twit."
+  },
+  {
+    "type": "animals",
+    "fact": "A male emperor moth can smell a female emperor moth up to 7 miles away."
+  },
+  {
+    "type": "animals",
+    "fact": "A giraffe can clean its ears with its 21-inch tongue!"
+  },
+  {
+    "type": "animals",
+    "fact": "Orcas (killer whales) kill sharks by torpedoing up into to shark's stomach from underneath, causing the shark to explode."
+  },
+  {
+    "type": "animals",
+    "fact": "Ten percent of the Russian government's income comes from the sale of vodka."
+  },
+  {
+    "type": "animals",
+    "fact": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth.Then the frog uses its forearms to dig out all of the stomach's contents and then swallows the stomach back down again."
+  },
+  {
+    "type": "animals",
+    "fact": "If NASA sent birds into space they would soon die; they need gravity to swallow."
+  },
+  {
+    "type": "animals",
+    "fact": "Studies show that if a cat falls off the seventh floor of a building, it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realise what is occurring, relax and correct itself."
+  },
+  {
+    "type": "animals",
+    "fact": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason."
+  },
+  {
+    "type": "animals",
+    "fact": "The very first bomb dropped by the Allies on Berlin during World War II killed the only elephant in the Berlin Zoo."
+  },
+  {
+    "type": "animals",
+    "fact": "More people are killed annually by donkeys than die in aircrashes."
+  },
+  {
+    "type": "animals",
+    "fact": "Certain frogs can be frozen solid, then thawed, and survive."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat's urine glows under a black light."
+  },
+  {
+    "type": "animals",
+    "fact": "A shark can detect one part of blood in 100 million parts of water."
+  },
+  {
+    "type": "animals",
+    "fact": "A rat can last longer without water than a camel."
+  },
+  {
+    "type": "animals",
+    "fact": "To escape the grip of a crocodile's jaws, push your thumbs into its eyeballs - it will let you go instantly."
+  },
+  {
+    "type": "animals",
+    "fact": "Beetles taste like apples, wasps like pine nuts, and worms like fried bacon."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1386, a pig in France was executed by public hanging for the murder of a child"
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach can live several weeks with its head cut off."
+  },
+  {
+    "type": "animals",
+    "fact": "The average person will accidentally eat just under a pound of insects every year."
+  },
+  {
+    "type": "animals",
+    "fact": "A dragonfly has a lifespan of 24 hours."
+  },
+  {
+    "type": "animals",
+    "fact": "The male gypsy moth can \"smell\" the virgin female gypsy moth from 1.8 miles away."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers have striped skin, not just striped fur."
+  },
+  {
+    "type": "animals",
+    "fact": "A cow gives nearly 200,000 glasses of milk in her lifetime."
+  },
+  {
+    "type": "animals",
+    "fact": "Earthworms have 5 hearts."
+  },
+  {
+    "type": "animals",
+    "fact": "A hedgehog’s heart beats 300 times a minute on average."
+  },
+  {
+    "type": "animals",
+    "fact": "In an analysis of 200000 ostriches over 80 years, not one tried to bury its head in the sand."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach will live nine days without its head before it starves to death."
+  },
+  {
+    "type": "animals",
+    "fact": "Certain species of male butterflies produce scents that serve in attracting females during courtship."
+  },
+  {
+    "type": "animals",
+    "fact": "Male bees will try to attract sex partners with orchid fragrance."
+  },
+  {
+    "type": "animals",
+    "fact": "The cheetah is the only cat that can't retract its claws."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat uses its whiskers to determine if a space is too small to squeeze through."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has 32 muscles in each ear."
+  },
+  {
+    "type": "animals",
+    "fact": "A house fly lives only two weeks."
+  },
+  {
+    "type": "animals",
+    "fact": "The female praying mantis devours the male while they are mating. The male sometimes continues copulating even after the female has bitten his head and part of his upper torso!"
+  },
+  {
+    "type": "animals",
+    "fact": "A male spider's penis is located at the end of one of its legs."
+  },
+  {
+    "type": "animals",
+    "fact": "Ants keep slaves. Certain species, the so-called sanguinary ants in particular, raid the nests of other ant tribes, kill the queen, and kidnap many of the workers. The workers are brought back to the captors' hive, where they are coerced into performing menial tasks."
+  },
+  {
+    "type": "animals",
+    "fact": "Every night, wasps bite into the stem of a plant, lock their mandibles into position, stretch out at right angles to the stem, and, with legs dangling, fall asleep."
+  },
+  {
+    "type": "animals",
+    "fact": "In rainy climates, some breeds of termites attach special overhanging eaves to their nests. These eaves deflect downpours and keep the nests dry. The compass termite, an Australian breed, builds its nest in the shape of an axe head, the sides of which always point north and south. African termites in search of water will bore holes as deep as 130 feet into the Earth until they find the water table."
+  },
+  {
+    "type": "animals",
+    "fact": "After mating, the female black widow turns on her partner and devours him. The female may dispatch as many as twenty-five suitors a day in this manner."
+  },
+  {
+    "type": "animals",
+    "fact": "Termites are not related to ants. They are part of the cockroach family."
+  },
+  {
+    "type": "animals",
+    "fact": "In a beehive, only 1 and a half ounces of wax are used to build a comb that will hold 4 pounds of honey."
+  },
+  {
+    "type": "animals",
+    "fact": "According to the United States Department of Agriculture, the best time to spray household insects is at 4:00 pm. Insects are most active and vulnerable at this time."
+  },
+  {
+    "type": "animals",
+    "fact": "Only female bees work. Males remain in the hive and literally do nothing, their only mission in life being to fertilize the queen bee on her maiden flight. For this purpose literally thousands of males are hatched, out of which only one or two mate with the queen. After they have served their function, the males are not allowed back into the hive but are left outside, where they starve to death."
+  },
+  {
+    "type": "animals",
+    "fact": "Flies prefer to breed in the center of a room. This is why experts advise placing flypaper away from corners."
+  },
+  {
+    "type": "animals",
+    "fact": "Queen termites may live for fifty years."
+  },
+  {
+    "type": "animals",
+    "fact": "The Mexican fishing spider attaches itself to a small leaf, floats across a pond as if on a raft, and from this vantage point hunts its prey, large tadpoles and small fish."
+  },
+  {
+    "type": "animals",
+    "fact": "Cockroaches have lived on Earth for 250 million years without changing in any way whatsoever."
+  },
+  {
+    "type": "animals",
+    "fact": "The caterpillar has more than 2,000 muscles."
+  },
+  {
+    "type": "animals",
+    "fact": "The deer botfly can fly faster than a jet plane. It has been clocked at a speed of 818 miles per hour. It crosses 400 yards in once second and moves 13 miles in a minute. The deer botfly flies so fast that it is almost invisible to the human eye."
+  },
+  {
+    "type": "animals",
+    "fact": "There are more beetles on Earth than any other living creature. The number of species alone is nearly a quarter-million (the United States has 28,000 species)"
+  },
+  {
+    "type": "animals",
+    "fact": "A grasshopper can leap over obstacles 500 times its own height. In relation to its size it has the greatest jumping ability of all creatures."
+  },
+  {
+    "type": "animals",
+    "fact": "An ant can lift 50 times its own weight. A bee can handle 300 times its own weight, which is equivalent to a human being pulling a 10 ton trailer."
+  },
+  {
+    "type": "animals",
+    "fact": "There are 5 million different species of insects in the world. The insect population of the world is at least 1,000,000,000,000,000,000. The weight of the world's insect population exceeds that of man by a factor of twelve."
+  },
+  {
+    "type": "animals",
+    "fact": "The animal with the largest brain in proportion to its body size is the ant."
+  },
+  {
+    "type": "animals",
+    "fact": "The honeybee kill more people each year world-wide than poisonous snakes."
+  },
+  {
+    "type": "animals",
+    "fact": "Bees can see ultraviolet light."
+  },
+  {
+    "type": "animals",
+    "fact": "There are more than 100,000 different species of butterflies."
+  },
+  {
+    "type": "animals",
+    "fact": "The leaf-cutter ant sometimes makes anthills 16 feet deep and an acre wide."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach can live several weeks with its head cut off. The common house fly cannot survive in Alaska. It is too cold. Those that do appear there are brought in by boat or plane and perish without reproducing. Mosquitoes, on the other hand, love cold weather. Specimens have been found near the North Pole."
+  },
+  {
+    "type": "animals",
+    "fact": "The bumblebee does not die when it stings—it can sting again and again. In bumblebee hives, the entire colony, except for the queen, dies at the end of each summer. Each year an entirely new colony of bees must be produced."
+  },
+  {
+    "type": "animals",
+    "fact": "If one places a minute amount of liquor on a scorpion, it will instantly go mad and sting itself to death."
+  },
+  {
+    "type": "animals",
+    "fact": "A flea can jump 200 times the length of its own body. This is equivalent to a person jumping almost a quarter of a mile."
+  },
+  {
+    "type": "animals",
+    "fact": "Mosquitoes are attracted to the color of blue twice as much as to any other color."
+  },
+  {
+    "type": "animals",
+    "fact": "A male emperor moth can detect and find a female of his species a mile away."
+  },
+  {
+    "type": "animals",
+    "fact": "It would take 27,000 spiders, each spinning a single web, to produce a pound of web."
+  },
+  {
+    "type": "animals",
+    "fact": "Bees have five eyes. There are three small eyes on the top of a bee's head and two larger ones in front."
+  },
+  {
+    "type": "animals",
+    "fact": "A queen bee may lay as many as 3,000 eggs in a single day."
+  },
+  {
+    "type": "animals",
+    "fact": "Ants stretch when they wake up. They also appear to yawn in a very human manner before taking up the tasks of the day."
+  },
+  {
+    "type": "animals",
+    "fact": "In September, 1951, seventeen-month-old Mark Bennet of Vancouver, B.C., was stung 447 times by wasps and lived. He was released from the hospital after twenty days of treatment."
+  },
+  {
+    "type": "animals",
+    "fact": "Cicadas have their hearing organs in their stomaches, at the base of the abdomen. Crickets have their hearing organs in their knees, or, more precisely, in the oval stilts of their forelegs."
+  },
+  {
+    "type": "animals",
+    "fact": "The bombardier beetle, when disturbed, defends itself by emitting a series of explosions, sometimes setting off four or five reports in succession. The noises sound like miniature popgun blasts and are accompanied by a cloud of reddish-colored, vile-smelling fluid."
+  },
+  {
+    "type": "animals",
+    "fact": "Spiders never spin webs in structures made of chestnut wood. That is why so many European Chateux were built with chestnut beams—spider webs on a 50 foot beamed ceiling can be difficult to clean!"
+  },
+  {
+    "type": "animals",
+    "fact": "The reason a fly swatter is an efficient tool for killing flies while the human hand is not is as follows: a fly's tactile sense is controlled by numerous sensory hairs covering its entire body. These hairs are especially sensitive to air pressure. The movement of a hand or any other solid object creates fluctuations of air and warns the fly well in advance of the blow. The fly swatter, however, has many holes arranged along its surface, so that it displaces little air as it bears down on its victim. Thus the fly is caught unaware."
+  },
+  {
+    "type": "animals",
+    "fact": "The snail mates only once in its entire life. When it does mate, however, it may take as long as twelve hours to consummate the act."
+  },
+  {
+    "type": "animals",
+    "fact": "When leeches mate, the leech playing the male role (leeches are hermaphrodites and can assume either sex) clings to the body of the female and deposits a sac of sperm on her skin. This sac produces a strong, flesh-deteriorating enzyme that eats a hole through the female's skin and fertilizes the eggs within her body."
+  },
+  {
+    "type": "animals",
+    "fact": "The Earthworm can clear and aerate half a pound of soil in a day. (There are, on average, 3 million worms per acre of fertile soil)"
+  },
+  {
+    "type": "animals",
+    "fact": "The worm is hermaphroditic, or bisexual; it can self-fertilize or mate with another of its species."
+  },
+  {
+    "type": "animals",
+    "fact": "The worm has several sets of vital organs throughout its body, which is why it can be cut in half and still survive. If it is cut in the middle, its two ends will usually regenerate; if it is not cut in the middle one segment will live. However, if it is cut in too many places the whole worm will die."
+  },
+  {
+    "type": "animals",
+    "fact": "A hundred tons of barnacles collect on the bottom of a steamship every year."
+  },
+  {
+    "type": "animals",
+    "fact": "Lobsters do feel pain when boiled alive. By soaking them in salt water before cooking, however, you can anesthetize them."
+  },
+  {
+    "type": "animals",
+    "fact": "When young abalones feed on red seaweed their shells turn red."
+  },
+  {
+    "type": "animals",
+    "fact": "A 4-inch abalone can grip a rock with a force of 400 pounds. Two grown men are incapable of prying it up."
+  },
+  {
+    "type": "animals",
+    "fact": "The starfish is the only animal capable of turning its stomach inside-out. As it approaches its prey (usually a member of the mollusk family), the starfish reverses its viscera, protrudes them through its mouth, and projects them under the shell of its victim. Then it slowly devours the fleshy underparts of the helpless mollusk by a process of absorption."
+  },
+  {
+    "type": "animals",
+    "fact": "Sea worms mate in the following way: at mating time, males and females swarm together. Suddenly the females turn on the males and bite their tails off. The tails contain the males' testes and sperm. When they are swallowed and acted upon by the females' digestive juices, they fertilize her eggs."
+  },
+  {
+    "type": "animals",
+    "fact": "Snails have teeth. They are arranged in rows along the snail's tongue and are used like a file to saw or slice through the snail's food."
+  },
+  {
+    "type": "animals",
+    "fact": "At birth barnacles look like water fleas. In the next stage of their development they have three eyes and twelve legs. In their third stage they have twenty-four legs and no eyes. Barnacles stay fastened to the same object for their entire lives."
+  },
+  {
+    "type": "animals",
+    "fact": "Genuine ivory does not come only from elephants. It can also come from the tusks of a boar or a walrus."
+  },
+  {
+    "type": "animals",
+    "fact": "A horse can sleep standing up."
+  },
+  {
+    "type": "animals",
+    "fact": "A rat can go without water longer than a camel can."
+  },
+  {
+    "type": "animals",
+    "fact": "An elephant may consume 500 pounds of hay and 60 gallons of water in a single day."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have no ability to taste sweet things."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephant Herds post their own sentries. When danger threatens, the sentry raises its trunk and though it may be as far as a half-mile away, the rest of the herd is instantly alerted. How this communication takes place is not understood."
+  },
+  {
+    "type": "animals",
+    "fact": "The Whale has the slowest metabolism of all animals. Despite its great size, it lives on one of the smallest of all creatures, the microscopic plankton found throughout the sea."
+  },
+  {
+    "type": "animals",
+    "fact": "A horse focuses its eye by changing the angle of its head not by changing the shape of the lens of the eye, as humans do."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest living species of kangaroo has a head the size of a sheep's and may stand 7 feet tall. An extinct species of kangaroo had a head the size of a Shetland pony's and reached a height of more than 10 feet. There are miniature kanagroos, such as the musk kangaroo, that are no bigger than a jackrabbit."
+  },
+  {
+    "type": "animals",
+    "fact": "Greyhounds have the best eyesight of any breed of dog."
+  },
+  {
+    "type": "animals",
+    "fact": "Every 9.6 years there is a peak in Canada's wildlife population, especially among muskrats, red fox, skunks, mink, lynx, and rabbits. The population of grasshoppers in the world tends to rise and fall rhythmically in 9.2 year cycles."
+  },
+  {
+    "type": "animals",
+    "fact": "A rodent's teeth never stop growing. They are worn down by the animal's constant gnawing on bark, leaves, and other vegetable matter."
+  },
+  {
+    "type": "animals",
+    "fact": "One million stray dogs and 500,000 stray cats live in New York City metropolitan area. There are about 100 million dogs and cats in the United States. Americans spend more than 5.5 billion on their pets each year. Every hour, 12,500 puppies are born in the US."
+  },
+  {
+    "type": "animals",
+    "fact": "Deer have no gall bladders."
+  },
+  {
+    "type": "animals",
+    "fact": "A mole can dig a tunnel 300 feet long in one night."
+  },
+  {
+    "type": "animals",
+    "fact": "The average porcupine has more than 30,000 quills. Porcupines are excellent swimmers because their quills are hollow and serve as pontoons to keep them afloat."
+  },
+  {
+    "type": "animals",
+    "fact": "Wildlife biologists estimate that as many as five out of six fawns starve to death during a hard winter in Vermont."
+  },
+  {
+    "type": "animals",
+    "fact": "The now-extinct ancestor of the horse, eohippus, had a short neck, a pug muzzle, and stood no higher than a medium sized dog."
+  },
+  {
+    "type": "animals",
+    "fact": "The kinkajou's tail is twice as long as its body. Every night it wraps itself in its tail and uses it as a pillow."
+  },
+  {
+    "type": "animals",
+    "fact": "The ring-tailed lemur, a primate found only on the island of Madagascar, meows like a cat."
+  },
+  {
+    "type": "animals",
+    "fact": "There is no sing cat called a panther. The name is commonly applied to the leopard, but it is also used to refer to the puma and the jaguar. A black panther is really a black leopard."
+  },
+  {
+    "type": "animals",
+    "fact": "Guinea pigs were first domesticated by the Incas, who used them for food, in sacrifices, and as household pets."
+  },
+  {
+    "type": "animals",
+    "fact": "A male baboon can kill a leopard."
+  },
+  {
+    "type": "animals",
+    "fact": "The hippopotamus is born underwater."
+  },
+  {
+    "type": "animals",
+    "fact": "Cows have four stomachs. Often when a calf is born the farmer will make it swallow a magnet. This is to attract the various nails, staples, tacks, bits of wire, and so on that the cow may ingest while grazing. (This odd hunger is known to farmers as “hardware disease”) When the animal is slaughtered, the butcher will remove the magnet along with the metallic debris and sell the mass of iron and steel for scrap."
+  },
+  {
+    "type": "animals",
+    "fact": "The hippopotamus is, next to the elephant, the heaviest of all land mammals, larger even than the rhinoceros. It may weigh as much as 8,000 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "The hippopotamus Is a close relative of the pig. Can open its mouth wide enough to accommodate a 4-foot-tall child. Has skin as inch and a half thick, so solid that most bullets cannot penetrate it. Has a stomach 10 feet long, capable of holding 6 bushels of grass."
+  },
+  {
+    "type": "animals",
+    "fact": "The crocodile is a cannibal; it will occasionally eat other crocodiles. Does not chew its food, but swallows it whole. It carries several pounds of small stones in its stomach to aid in grinding up and digesting its nourishment. Does cry tears, but they are crocodile tears—not real tears at all, but glandular excretions that serve to expel excess salt from the eyes."
+  },
+  {
+    "type": "animals",
+    "fact": "The crocodile continually grows new sets of teeth to replace old teeth."
+  },
+  {
+    "type": "animals",
+    "fact": "The crocodile cannot move its tongue (a crocodile's tongue is rooted to the base of its mouth)."
+  },
+  {
+    "type": "animals",
+    "fact": "The crocodile is surprisingly fast on land. If pursued by a crocodile, a person should run in a zig zag motion, for the crocodile has little or no ability to make sudden changes of direction."
+  },
+  {
+    "type": "animals",
+    "fact": "The frigate bird can fly at a speed of 260 miles per hour. The snail moves at a rate of 0.000362005 miles per hour. The fastest animal on four legs is the cheetah, which races 70 miles per hour over short distances and can accelerate to 45 miles per hour in two seconds. An elephant, despite its ponderous appearance, can do 25 miles per hour on an open stretch, and a charging rhino has been clocked at 30. The fastest of all fish in the sea is the swordfish, streaming forward at 68 miles per hour. Man's best speed in the water is 4.1 miles per hour; the maximum speed at which a human being can run on land is 24 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "A squirrel has no color vision; it sees only in black and white. Every part of its field of vision, however, is in perfect focus, not just straight ahead, as with man."
+  },
+  {
+    "type": "animals",
+    "fact": "An ox is a castrated bull, A mule is a sterile cross between a male ass and a female horse. A donkey is an ass, but an ass is not always a donkey. The word “ass” refers to any of several hoofed mammals of the genus Equus, including the onager."
+  },
+  {
+    "type": "animals",
+    "fact": "A baby turkey is called a “poult.” A group of lions is known as a “pride”, and a group of hogs is a “herd”. Geese in collection are a “gaggle,” and when in the air they are a “skein”. A gathering of foxes is referred to as a “skunkel,” a gathering of quail as a “covey.” A baby kangaroo is a “joey”. A baby fish is a “fry”."
+  },
+  {
+    "type": "animals",
+    "fact": "A kangaroo cannot jump if its tail is lifted off the ground. It needs its tail for pushing off."
+  },
+  {
+    "type": "animals",
+    "fact": "A snake has no ears. However, its tongue is extremely sensitive to sound vibrations, and by constantly flicking its tongue the snake picks up these sound waves. In this sense a snake “hears” with its tongue."
+  },
+  {
+    "type": "animals",
+    "fact": "Contrary to popular belief, dogs do not sweat by salivating, They sweat through the pads of their feet."
+  },
+  {
+    "type": "animals",
+    "fact": "When a hippopotamus exerts itself, gets angry, or stays out of the water for too long, it exudes red sweat like mucus through its skin."
+  },
+  {
+    "type": "animals",
+    "fact": "Every day of the year, 100 whales are killed by whale fisherman."
+  },
+  {
+    "type": "animals",
+    "fact": "A newborn Chinese water deer is so small it can almost be held in the palm of the hand."
+  },
+  {
+    "type": "animals",
+    "fact": "Every year more people are killed in Africa by crocodiles than by lions."
+  },
+  {
+    "type": "animals",
+    "fact": "Antlers and horns are not the same. Horns grow throughout an animal's life and are found on both the male and female of a species (such as a cow). Antlers, composed of a different chemical substance, are shed every year. Usually, though not invariably, they are found on males."
+  },
+  {
+    "type": "animals",
+    "fact": "A hippopotamus can run faster than a man."
+  },
+  {
+    "type": "animals",
+    "fact": "The Mojave ground squirrel, found mainly the American West, hibernates for two-thirds of every year."
+  },
+  {
+    "type": "animals",
+    "fact": "The sea lion can swim 6,000 miles, stopping only to sleep."
+  },
+  {
+    "type": "animals",
+    "fact": "The sea lion is susceptible to sunburn, and if put on board a ship will get as seasick as man."
+  },
+  {
+    "type": "animals",
+    "fact": "Male sea lions may have more than 100 wives and sometimes go three months without eating."
+  },
+  {
+    "type": "animals",
+    "fact": "There once were more sea lions on earth than people."
+  },
+  {
+    "type": "animals",
+    "fact": "The venom of the king cobra is so deadly that one gram of it can kill 150 people. Just to handle the substance can put one in coma."
+  },
+  {
+    "type": "animals",
+    "fact": "A whale's heart beats only nine times a minute."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat uses its whiskers to determine if a space is too small to squeeze through. The whiskers act as feelers or antennae, helping the animal to judge the precise width of any narrow passage."
+  },
+  {
+    "type": "animals",
+    "fact": "Of all known forms of animal life ever to inhabit the Earth, only about 10 percent still exist today."
+  },
+  {
+    "type": "animals",
+    "fact": "The lesser mole rat not only digs an entire subterranean house for itself, complete with storerooms, halls, bedrooms, and a “wedding chamber” where all mating takes place, but actually constructs a separate bathroom which, when filled, is sealed off from the rest of the house."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants are covered with hair. Although it is not apparent from a distance, at close range one can discern a thin coat of light hairs covering practically every part of an elephant's body."
+  },
+  {
+    "type": "animals",
+    "fact": "Male monkeys lose the hair on their heads the same way men do."
+  },
+  {
+    "type": "animals",
+    "fact": "The flying snake of Java and Malaysia is able to flatten itself out like a ribbon and sail like a glider from tree to tree."
+  },
+  {
+    "type": "animals",
+    "fact": "A good milking cow will give nearly 6,000 quarts of milk every year."
+  },
+  {
+    "type": "animals",
+    "fact": "There are buffalo in Poland. They live mainly in the area of the Bialowieza Forest and are known as zubra. The well-known Polish vodka Zubrowka, which means “buffalo brand,: takes its name from these animals."
+  },
+  {
+    "type": "animals",
+    "fact": "Sheep will not drink from running water. Hence the line in the Twenty-thrid Psalm: “He leadeth me beside the still waters.”"
+  },
+  {
+    "type": "animals",
+    "fact": "A completely blind chameleon will still take on the colors of its environment."
+  },
+  {
+    "type": "animals",
+    "fact": "Camels were used as pack animals in Nevada and Arizona as late as 1870."
+  },
+  {
+    "type": "animals",
+    "fact": "Male moose have antlers 7 feet across. The antlers often weigh 60 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "The fur of the vicuña, a small member of the camel family which lives only in the Andes Mountains of Peru, is so fine that each hair is less than two-thousandths of an inch thick. The animal was considered sacred by the Incas, and only royalty could wear its fleece."
+  },
+  {
+    "type": "animals",
+    "fact": "A female mouse may spawn as many as ten litters of eight to ten young during her lifetime--which generally is less than a year. The gestation period is three weeks, and the young mice reach maturity in only ten weeks."
+  },
+  {
+    "type": "animals",
+    "fact": "The chameleon, a small lizard generally measuring 6 or 7 inches, has a tongue several inches longer than its body. With a thrust of this remarkable appendage it can catch insects some 10 inches away."
+  },
+  {
+    "type": "animals",
+    "fact": "The bat is the only mammal that can fly."
+  },
+  {
+    "type": "animals",
+    "fact": "A pig is a hog—hog is a generic name for all swine--but a hog is not a pig. In the terminology of hog raising, a pig is a baby hog less than ten weeks old."
+  },
+  {
+    "type": "animals",
+    "fact": "The bottle-nosed whale can dive to a depth of 3,000 feet in two minutes."
+  },
+  {
+    "type": "animals",
+    "fact": "The chow is the only dog that has a black tongue. The tongues of all other dogs are pink."
+  },
+  {
+    "type": "animals",
+    "fact": "Kangaroo rats never drink water. Like their relatives the pocket mice, they carry their own water source within them, producing fluids from the food they eat and the air they breathe."
+  },
+  {
+    "type": "animals",
+    "fact": "More than 99.9 percent of all animal species that have ever lived on Earth were extinct before the coming of man."
+  },
+  {
+    "type": "animals",
+    "fact": "Almost half the pigs in the world are kept by farmers in China."
+  },
+  {
+    "type": "animals",
+    "fact": "A skunk will not bite and throw its scent at the same time."
+  },
+  {
+    "type": "animals",
+    "fact": "A crocodile weighing 120 pounds exerts a force of about 1,540 pounds between its jaws. A human being's jaws exert a force of only 40 to 80 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "A python can swallow a rabbit whole and may eat as many as 150 mice in a six-month period."
+  },
+  {
+    "type": "animals",
+    "fact": "From 1890 to 1900, 20 tons of ivory were shipped every year from Siberia to London. All of this ivory was taken from the remains of woolly mammoths, which have been extinct since the Ice Age."
+  },
+  {
+    "type": "animals",
+    "fact": "Most varieties of snake can go an entire year without eating a single morsel of food."
+  },
+  {
+    "type": "animals",
+    "fact": "A rat can fall from a five-story building without injury. Two rats can become the progenitors of 15,000 rats in less than a year."
+  },
+  {
+    "type": "animals",
+    "fact": "No one has ever been able to domesticate the African Elephant. Only the Indian elephant can be trained by man."
+  },
+  {
+    "type": "animals",
+    "fact": "According to tests made at the Institute for the Study of Animal Problems in Washington, D.C., dogs and cats, like people, are either right-handed or left-handed—that is, these animals favor either right or left paws."
+  },
+  {
+    "type": "animals",
+    "fact": "How to classify the platypus, a native of Australia and Tasmania, is a problem that has puzzled biologists and zoologists since the animal was discovered in the eighteenth century. This strange animal has characteristics of both mammals and birds. For instance, the platypus lays eggs, as birds do. Yet platypus mothers nurse their young, a typical mammalian characteristic. (However, the platypus has no nipples. The mother secrets milk from stomach glands and the baby laps it up.) The platypus has a leathery, duck like bill (from which it gets the name “duck billed platypus”), and its feet are webbed like those of aquatic birds. Bu at the end of the webs are claws just like a cat's or a racoon's. After much argument, scientists finally decided that the platypus merited classification as a mammal—but only marginally."
+  },
+  {
+    "type": "animals",
+    "fact": "At birth, baby kangaroos are only about an inch long—no bigger than a large waterbug or a queen bee."
+  },
+  {
+    "type": "animals",
+    "fact": "A full-grown moose may be 8 feet high at the shoulder and weigh almost a ton. The male moose sheds its antlers every winter and grows a new set the following summer."
+  },
+  {
+    "type": "animals",
+    "fact": "A herd of sixty cows is capable of producing a ton of milk in less than a day."
+  },
+  {
+    "type": "animals",
+    "fact": "A giraffe can go without water longer than a camel can."
+  },
+  {
+    "type": "animals",
+    "fact": "Through the giraffe's neck is about 7 feet long, it contains the same number of vertebrae as a mouse's—seven. The giraffe's tongue is 18 inches long. It can open and close its nostrils at will, can run faster than a horse, and makes almost no sound whatsoever. The first giraffe ever seen in the West was brought to Rome about 46 B.C. By no less a personage than Julius Caesar."
+  },
+  {
+    "type": "animals",
+    "fact": "The blue whale weighs as much as thirty elephants and is as long as three Greyhound buses."
+  },
+  {
+    "type": "animals",
+    "fact": "An anteater is nearly 6 feet long, yet its mouth is only an inch wide."
+  },
+  {
+    "type": "animals",
+    "fact": "A lion in the wild usually makes no more than twenty kills a year."
+  },
+  {
+    "type": "animals",
+    "fact": "Turtles, water snakes, crocodiles, alligators, frogs, porpoises, dolphins, whales, and several other water going creatures will drown if kept underwater too long. Unlike fish, these animals require a certain amount of air in order to survive."
+  },
+  {
+    "type": "animals",
+    "fact": "Lanolin, an essential ingredient of many expensive cosmetics, is, in its native form, a foul-smelling, waxy, tar like substance extracted from the fleece of sheep."
+  },
+  {
+    "type": "animals",
+    "fact": "Some dinosaurs lived to be more than a hundred years old."
+  },
+  {
+    "type": "animals",
+    "fact": "The stegosaurus, a giant dinosaur that grew to more than 18 feet long and was armed with enormous bony plates on its neck, back, and tail, has a brain that weighed only 2 onces and was no bigger than a walnut."
+  },
+  {
+    "type": "animals",
+    "fact": "There is a rare variety of ivory that comes from the male narwhal, a whale that inhabits Arctic waters. In infancy, this formidable creature loses all its teeth but two upper incisors. One of these continues to grow forward through the narwhal's upper lip, twisting corkscrew fashion, until it develops into a spiral tusk that may reach 9 feet, almost two-thirds the length of the whale's body. Eighteenth- and nineteenth-century whale hunters stalked the creature for its precious ivory, and there are many tales of men being impaled on narwhal tusks and carried into sea."
+  },
+  {
+    "type": "animals",
+    "fact": "Nose prints are usually used to identify dogs in the same way finger prints are used to identify human beings. Breeders and trainers keep a dog's nose prints on file as part of its permanent record, and insurance companies require them whenever a dog is to be bonded. At one time paw prints were used as a means of canine identification, but these proved less accurate than noses."
+  },
+  {
+    "type": "animals",
+    "fact": "The weasel and the ermine are the same animal. This mammal's coat changes with the seasons—in its white winter coat it is known as an ermine, in its brown coat it is a weasel."
+  },
+  {
+    "type": "animals",
+    "fact": "A newborn polar bear cub weighs only twice as much as a newborn human—about 15 pounds. Yet when fully grown, polar bears reach weights up to 1,600 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "Garter snakes, though reptiles, do not lay eggs. They bear live young, just as mammals do."
+  },
+  {
+    "type": "animals",
+    "fact": "The polar bear is one of the only large land mammals that has absolutely no fear of man. It will stalk people at every chance and has been known to charge large groups of hunters, sometimes into heavy gunfire, not slowing down even after its vital organs have been hit repeatedly."
+  },
+  {
+    "type": "animals",
+    "fact": "The smell of a skunk can be detected by a human a mile away."
+  },
+  {
+    "type": "animals",
+    "fact": "Despite their ferocity and reputation, however, sharks rarely attack man. Three times as many people are killed each year by lightning as are killed by sharks. A hundred more people die from bee stings each year than from shark bites."
+  },
+  {
+    "type": "animals",
+    "fact": "Atlantic salmon are able to leap 15 feet high."
+  },
+  {
+    "type": "animals",
+    "fact": "Most tropical marine fish could survive in a tank filled with human blood."
+  },
+  {
+    "type": "animals",
+    "fact": "An electric eel can produce a shock of more than 600 volts, five times more powerful than a household outlet. It not only uses this power to kill its prey but to locate it as well—through it is born with eyes, it is blind as an adult and employs its electricity to find food in much the same way as man uses radar."
+  },
+  {
+    "type": "animals",
+    "fact": "Minnows have teeth in their throat."
+  },
+  {
+    "type": "animals",
+    "fact": "The lungfish can live out of water in a state of suspended animation for three years."
+  },
+  {
+    "type": "animals",
+    "fact": "A marine catfish can taste with any part of its body. The female marine catfish hatches her eggs in her mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "The garfish has green bones."
+  },
+  {
+    "type": "animals",
+    "fact": "All freshwater eels, both the European and American species, are born in the same place, a seaweed- and vine-clogged section of the ocean south of Bermuda known as the Sargasso Sea. From this location, the eels migrate to various parts of the world, the American eels to North America, the European eels to Europe. The trips may take as long as three years. Once they arrive at their destination, the males remain at the river mouths while the females move farther upstream, finally settling in small island lakes and ponds. They remain there for ten to fifteen years, until they receive a strange instinctive call back to the sea. Swimming against great river currents, leaping upward like salmon, sometimes leaving the water altogether to crawl along great stretches of land, the female eel finally makes her way back to the sea, where she joins the male. Then they swim together directly to the Sargasso Sea. Here they mate, spawn, and die."
+  },
+  {
+    "type": "animals",
+    "fact": "The lantern fish has a glowing spot on the front of its head that acts like a miner's lamp when the fish is swimming in dark waters. This “lamp” is so powerful that it can shed light for a distance as great as 2 feet. Experiments have shown that when confined to an aquarium, the lantern fish can project enough light to allow a person to read a book in an otherwise totally darkened room."
+  },
+  {
+    "type": "animals",
+    "fact": "The average hummingbird weights less than a penny. It has a body temperature of 111 degrees and beats its wings more than 75 times a second. Its newborn are the size of bumblebees and its nest is the size of a walnut. The hummingbird is the only bird that can fly backward."
+  },
+  {
+    "type": "animals",
+    "fact": "When attacked, the petrel, a giant bird of the Antarctic, repels its enemies either by regurgitating food in their faces or by squirting a jet of viscous oil from its nostrils with a force great enough to known down a person."
+  },
+  {
+    "type": "animals",
+    "fact": "Bald eagles are not bald. The top of their head is covered with slicked-down white feathers; from a distance they appear hairless."
+  },
+  {
+    "type": "animals",
+    "fact": "An eagle can attack, kill, and carry away an animal as large as a young deer. The harpy eagle of South America feeds on monkeys."
+  },
+  {
+    "type": "animals",
+    "fact": "The penculine titmouse of Africa builds its home in such a sturdy manner that Masai tribesmen use their nests for purses and carrying cases."
+  },
+  {
+    "type": "animals",
+    "fact": "The female knot-tying weaverbird will refuse to mate with a male who has built a shoddy nest. If spurned, the male must take the nest apart and completely rebuild it in order to win the affections of the female."
+  },
+  {
+    "type": "animals",
+    "fact": "The tailorbird of Africa makes its nest by sewing together two broad leaves. It uses fiber as the thread and its bill as the needle."
+  },
+  {
+    "type": "animals",
+    "fact": "In one year, hens in America lay enough eggs to encircle the globe a hundred times."
+  },
+  {
+    "type": "animals",
+    "fact": "Males bowerbirds build and decorate nests to be used exclusively for mating. They ornament the nests with flowers, bits of string, berries, feathers, even pieces of glass or brightly colored papers. After these decorations are in place, the male bowerbird paints the entire nest with blueberry juice that has extracted by pressing the berries in his beak. After the courtship and mating have taken place, the nest is deserted and a separate one is constructed for rearing the young."
+  },
+  {
+    "type": "animals",
+    "fact": "The penguin has an apparatus above its eyes that enables it to transform salt water into fresh. The penguin takes only one mate during its life and is such a conscientious parent that it will, if necessary, starve to death in order to provide its children with food."
+  },
+  {
+    "type": "animals",
+    "fact": "The albatross drinks sea water. It has a special desalinization apparatus that strains out and excretes all excess salt."
+  },
+  {
+    "type": "animals",
+    "fact": "The optimum depth of birdbath water, says the Audubon Society of America, is 2 and a half inches. Less water makes it difficult for birds to take a bath; more makes them afraid."
+  },
+  {
+    "type": "animals",
+    "fact": "Ducks will lay eggs only in the early mornings."
+  },
+  {
+    "type": "animals",
+    "fact": "An ostrich egg can make eleven and a half omelets."
+  },
+  {
+    "type": "animals",
+    "fact": "The bateleur eagle of Africa hunts over a territory of 250 square miles a day."
+  },
+  {
+    "type": "animals",
+    "fact": "A bird sees everything at once in total focus. Whereas the human eye is globular and must adjust to varying distances, the bird's eye is flat and can take in everything at once in a single glance."
+  },
+  {
+    "type": "animals",
+    "fact": "Utility workers in the desert of southern California have developed a unique system for finding gas leaks. The desert areas of South California are heavily populated by a bird known as the turkey buzzard, which has an exceptionally keen sense of smell. The utility companies add a substance to the natural gas (which is odorless in its pure state) that gives it a smell that arouses the turkey buzzard's mating instincts. Whenever there is a break in the line, vast numbers of excited birds are drawn to the spot. By looking for the clusters of these anxious birds, linemen are able to determine the precise location of the leak."
+  },
+  {
+    "type": "animals",
+    "fact": "Flamingos are not naturally pink. They get their color from their food, tiny blue-green algae that turn pink during digestion."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1880 there were approximately 2 billion passenger pigeons in the United States. By 1914, the species was extinct."
+  },
+  {
+    "type": "animals",
+    "fact": "Parrots, most famous of all talking birds, rarely acquire a vocabulary of more than twenty words."
+  },
+  {
+    "type": "animals",
+    "fact": "A robin has almost 3,000 feathers."
+  },
+  {
+    "type": "animals",
+    "fact": "An ostrich may weight as much as 300 pounds. Its intestinal tract is 45 feet long."
+  },
+  {
+    "type": "animals",
+    "fact": "A bird “ chews” with its stomach. Since most birds do not have teeth, a bird routinely swallows small pebbles and gravel. These grits become vigorously agitated in the bird's stomach and server to grind food as it passes through the digestive system."
+  },
+  {
+    "type": "animals",
+    "fact": "The ruby-throated humming bird moves its wings at a rate of 200 wing beats per second."
+  },
+  {
+    "type": "animals",
+    "fact": "Hens do not have to be impregnated to lay eggs. The rooster is necessary only to fertilize the egg."
+  },
+  {
+    "type": "animals",
+    "fact": "It may take more than two days for a chick to break out of its shell."
+  },
+  {
+    "type": "animals",
+    "fact": "The bird with the largest population in the world is the red billed quela, an inhabitant of Africa. To farmers red-billed quelas are known as “feathered locusts,” for they travel in flocks that number in the millions and leave devastation behind them whenever they land on crops. At last count there were approximately 10 billion of these birds in existence. The only other bird with nearly so great a population was the passenger pigeon, which in 1840 had a population of about 9 billion. As a result of excessive hunting by man, the passenger pigeon was extinct less than eighty years later."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1956 a white leghorn chicken belonging to a farmer in Vineland, New Jersey, laid an egg that weighed more than a pound. This is the largest chicken egg recorded to date."
+  },
+  {
+    "type": "animals",
+    "fact": "There are no penguins at the North Pole. In fact, there are no penguins anywhere in the Northern Hemisphere. All seventeen varieties of the bird are found below the equator, primarily in Antarctica."
+  },
+  {
+    "type": "animals",
+    "fact": "90 percent of all species that have become extinct have been birds."
+  },
+  {
+    "type": "animals",
+    "fact": "More turkeys are raised in California than in any other state in the United States."
+  },
+  {
+    "type": "animals",
+    "fact": "Smearing a small amount of dog feces on an insect bite will relieve the itching and swelling."
+  },
+  {
+    "type": "animals",
+    "fact": "Catfish are the only animals that naturally have an odd number of whiskers."
+  },
+  {
+    "type": "animals",
+    "fact": "Nearly three percent of the ice in Antarctic glaciers is penguin urine."
+  },
+  {
+    "type": "animals",
+    "fact": "A crocodile can’t poke its tongue out :p"
+  },
+  {
+    "type": "animals",
+    "fact": "Sea otters hold hands when they sleep so they don’t drift away from each other."
+  },
+  {
+    "type": "animals",
+    "fact": "A small child could swim through the veins of a blue whale."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach can live nine days without its head before it starves to death."
+  },
+  {
+    "type": "animals",
+    "fact": "A polar bear’s skin is black. Its fur is not white but actually clear."
+  },
+  {
+    "type": "animals",
+    "fact": "If you keep a goldfish in a dark room, it will eventually turn white."
+  },
+  {
+    "type": "animals",
+    "fact": "Cows fart on average about 300 times a day. Humans fart, on average, only 8 times per day."
+  },
+  {
+    "type": "animals",
+    "fact": "If you keep a goldfish in the dark room, it will eventually turn white."
+  },
+  {
+    "type": "animals",
+    "fact": "Baboons cannot throw overhand."
+  },
+  {
+    "type": "animals",
+    "fact": "A spider has transparent blood."
+  },
+  {
+    "type": "animals",
+    "fact": "A giraffe can kill a lion with one swift (and damned hard) kick."
+  },
+  {
+    "type": "animals",
+    "fact": "An electric eel will short-circuit itself if put into salt water."
+  },
+  {
+    "type": "animals",
+    "fact": "A termite can live 30 years. Better go see the Orkin Man soon."
+  },
+  {
+    "type": "animals",
+    "fact": "It takes the average snail 115 days to travel a mile."
+  },
+  {
+    "type": "animals",
+    "fact": "Most snakes can go without eating for an entire year."
+  },
+  {
+    "type": "animals",
+    "fact": "Most monkeys are nearsighted."
+  },
+  {
+    "type": "animals",
+    "fact": "Giraffes can’t swim."
+  },
+  {
+    "type": "animals",
+    "fact": "A gorilla sleeps about 70 percent of its twenty-three year life span."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can’t taste sweet things."
+  },
+  {
+    "type": "animals",
+    "fact": "The Disney dog, Pluto, was originally named Rover."
+  },
+  {
+    "type": "animals",
+    "fact": "A female African elephant can be pregnant for almost two years."
+  },
+  {
+    "type": "animals",
+    "fact": "Only the female mosquito bites."
+  },
+  {
+    "type": "animals",
+    "fact": "A hummingbird cannot stand on its feet as they are not strong enough to hold them up on a flat surface.  I also have a hummingbird feeder in my back yard."
+  },
+  {
+    "type": "animals",
+    "fact": "Flamingos can only eat when their heads are upside down."
+  },
+  {
+    "type": "animals",
+    "fact": "Dinosaurs probably lived to be between 75 to 300 years of age. Scientists figured this out from looking at the structure of their bones."
+  },
+  {
+    "type": "animals",
+    "fact": "One way to tell the age of a fish is by looking at its scales. They have growth rings just like trees. These are called circuli. Clusters of them are called annuli. Each annuli show one year."
+  },
+  {
+    "type": "animals",
+    "fact": "The northern fur seal, rather than using a layer of fat to keep it warm, depends on its thick fur with some 300,000 hairs per square inch."
+  },
+  {
+    "type": "animals",
+    "fact": "The chameleon has a tongue that is 1.5 times the length of its body!"
+  },
+  {
+    "type": "animals",
+    "fact": "Did you know porpoises could surf? They are frequently seen riding the bow wave of a ship. They make no swimming motions and can ride the wake for more than an hour. They can also turn on their side or flip completely around. Surfâ€™s up porpe!"
+  },
+  {
+    "type": "animals",
+    "fact": "Fish swimming at depths of 15,000 feet (almost 3 miles down!) can withstand a pressure of 7,000 pounds per square inch. They are able to live in these crushing depths by pumping gas into their swim bladder."
+  },
+  {
+    "type": "animals",
+    "fact": "You may have heard someone say, “It's raining cats and dogs.” There have been actual documented cases from all over the world of fish, frogs, dead birds, snakes, snails, beetles, worms and jellyfish raining down from the sky in great numbers, but no reports of showers of cats or dogs."
+  },
+  {
+    "type": "animals",
+    "fact": "The blue whale, the largest animal to have ever existed, is 96 feet long and weights 125 tons. This is as much as 4 large dinosaurs (Brontosauri), 23 elephants, 230 cows or 1800 men."
+  },
+  {
+    "type": "animals",
+    "fact": "Some animals produce their own lights, called bioluminescence. The Brazilian railroad worm has a red light on its head and green lights down its side. All it needs to drive on the street is a turn signal."
+  },
+  {
+    "type": "animals",
+    "fact": "The fastest bird is the peregrine falcon. It can fly at a speed of 168-217 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest egg laid by a living bird is that of the North African Ostrich. It is 6 to 8 inches in length and 4 to 6 inches in diameter. The smallest is that of the hummingbird. It is less than 0.39 inches in diameter."
+  },
+  {
+    "type": "animals",
+    "fact": "Whether an alligator is a male or female can be determined by the temperature of the nest where the egg is hatched â€“ 90 to 93 degrees will make it a male; 82 to 86 degrees will turn it into a female."
+  },
+  {
+    "type": "animals",
+    "fact": "Animals with some of the longest lives are the Marionâ€™s tortoise (152 years), the fin whale (116 years) and the deep-sea clam (100 years)."
+  },
+  {
+    "type": "animals",
+    "fact": "An electric eel can produce a shock of 600 volts. Thatâ€™s enough to stun large animals â€“ even knock a horse off its feet."
+  },
+  {
+    "type": "animals",
+    "fact": "Cows can sleep standing up."
+  },
+  {
+    "type": "animals",
+    "fact": "Salamanders are known to come out of wood when it was burning inside a fireplace, this is because Salamanders hibernate in wood."
+  },
+  {
+    "type": "animals",
+    "fact": "Some frogs can pull their eyes into their throat and help push food down!"
+  },
+  {
+    "type": "animals",
+    "fact": "An African adult elephant eats about six hundred pounds of food a day; thatâ€™s four percent of the elephantâ€™s body weight!"
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest fish in the world are the pygmy goby and the Luzon goby, from the Philippines, which are only one-half-inch long when they are full grown."
+  },
+  {
+    "type": "animals",
+    "fact": "The 14-foot-long narwhal is a whale whose tooth can reach up to eight feet long!"
+  },
+  {
+    "type": "animals",
+    "fact": "Chimpanzees use tools more than any other animal except man."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants purr like cats do, as a means of communication."
+  },
+  {
+    "type": "animals",
+    "fact": "The mandrill baboon has a red nose, blue cheeks, and an orange beard!"
+  },
+  {
+    "type": "animals",
+    "fact": "Hummingbirds flap their wings between 50 and 70 times a second!"
+  },
+  {
+    "type": "animals",
+    "fact": "When an octopus gets angry, it shoots a stream of black “ink”."
+  },
+  {
+    "type": "animals",
+    "fact": "There are about 100 billion birds in the world, and about 6 billion of them make their homes in the United States."
+  },
+  {
+    "type": "animals",
+    "fact": "The emperor penguin is playful, and often times lies on its chest and side to slide along the ice and snow."
+  },
+  {
+    "type": "animals",
+    "fact": "The leatherback is the biggest sea turtle, and it can weigh as much as 1,500 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "The snapping shrimp, only 1 1/2 inches long, makes a noise with its one big claw, which sounds exactly like a firecracker."
+  },
+  {
+    "type": "animals",
+    "fact": "Flying fish actually glide on wind currents above the surface of the water, sometimes up to 20 feet above the surface."
+  },
+  {
+    "type": "animals",
+    "fact": "Sea snakes are the most poisonous snakes in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "Adult male giraffes bang their long necks together in a form of ritual fighting, during which no harm is done to either giraffe."
+  },
+  {
+    "type": "animals",
+    "fact": "The stonefish, which lives off the coast of Australia, is the most poisonous fish in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "The black-necked cobra, which lives mostly in Africa, spits its venom into the eyes of its victim, to cause it blindness."
+  },
+  {
+    "type": "animals",
+    "fact": "When two lovebirds appear to be kissing, they are actually grooming each other with their bills to keep clean and neat."
+  },
+  {
+    "type": "animals",
+    "fact": "A bird called the bee eater in areas of Africa thinks that riding around on the backs of other animals is fun!"
+  },
+  {
+    "type": "animals",
+    "fact": "The dipper bird builds nests behind waterfalls for protection."
+  },
+  {
+    "type": "animals",
+    "fact": "Vultures can soar for hours without one beat of their wings."
+  },
+  {
+    "type": "animals",
+    "fact": "Sea horses pull themselves around with their chins leading them."
+  },
+  {
+    "type": "animals",
+    "fact": "Foxes sometimes nip at the heals of cattle so the stomping of the cattle makes mice and other rodents come out of the ground, for the fox to eat."
+  },
+  {
+    "type": "animals",
+    "fact": "The guanaco of South America, a cousin of the camel, has pads on its feet to keep its feet from burning on desert sand or freezing in mountain snow."
+  },
+  {
+    "type": "animals",
+    "fact": "The fiddler crab can grow a new claw when it loses one of its own."
+  },
+  {
+    "type": "animals",
+    "fact": "Blue jays often forget where they hide winter supplies of food."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest bird egg ever laid was laid millions of years ago by the Madagascar, or the elephant bird."
+  },
+  {
+    "type": "animals",
+    "fact": "Today, the ostrich is the bird that lays the largest eggs."
+  },
+  {
+    "type": "animals",
+    "fact": "Scallops swim with jet-propelled speed by clapping its shell open and shut."
+  },
+  {
+    "type": "animals",
+    "fact": "Some ducks and geese can fly as much as 332 miles a day!"
+  },
+  {
+    "type": "animals",
+    "fact": "The lung fish can live out of water for as long as four years!"
+  },
+  {
+    "type": "animals",
+    "fact": "The Egyptian vulture uses stones to smash ostrich eggs."
+  },
+  {
+    "type": "animals",
+    "fact": "Birds save energy by flying in a “V” formation."
+  },
+  {
+    "type": "animals",
+    "fact": "Theodore Roosevelt was the U.S. President with the most pets, including a lion, hyena, wildcat, five bears, and many more!"
+  },
+  {
+    "type": "animals",
+    "fact": "Killer Whales are the only sea animal that outranks the Tiger Shark as top predator of the sea."
+  },
+  {
+    "type": "animals",
+    "fact": "Salamanders breath through their skin."
+  },
+  {
+    "type": "animals",
+    "fact": "People used to think the Manatee was a mermaid."
+  },
+  {
+    "type": "animals",
+    "fact": "Some fish have eyes that are the same size as their stomach!"
+  },
+  {
+    "type": "animals",
+    "fact": "A female seahorse lets her husband store her babies inside his stomach!"
+  },
+  {
+    "type": "animals",
+    "fact": "There are as many hairs per square inch on your body as a chimpanzee.You don’t see all of them because most are too fine and light to be noticed."
+  },
+  {
+    "type": "animals",
+    "fact": "The bee frog of Africa is no bigger than a bee."
+  },
+  {
+    "type": "animals",
+    "fact": "An okapi’s tongue can grow to be 17 inches long."
+  },
+  {
+    "type": "animals",
+    "fact": "Cows have four-chambered stomachs."
+  },
+  {
+    "type": "animals",
+    "fact": "Fish have gel-slime on their bodies that protects them from parasites."
+  },
+  {
+    "type": "animals",
+    "fact": "An owl’s eyes are bigger than its brain."
+  },
+  {
+    "type": "animals",
+    "fact": "The faster kangaroos hop, the less energy they use."
+  },
+  {
+    "type": "animals",
+    "fact": "The flying fox of Africa has a wingspan of fifty inches!"
+  },
+  {
+    "type": "animals",
+    "fact": "Giraffes have black tongues."
+  },
+  {
+    "type": "animals",
+    "fact": "Some frogs can be frozen solid, then thawed, and continue living."
+  },
+  {
+    "type": "animals",
+    "fact": "Ostriches stick their heads in the sand to look for water."
+  },
+  {
+    "type": "animals",
+    "fact": "A duck’s quack has no echo."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can make over 100 vocal sounds, while dogs can only make 10."
+  },
+  {
+    "type": "animals",
+    "fact": "Texas horned toads can shoot blood out of the corners of their eyes."
+  },
+  {
+    "type": "animals",
+    "fact": "Starfish have eight eyes–one at the end of each leg."
+  },
+  {
+    "type": "animals",
+    "fact": "The only bird that can fly backwards is the Hummingbird."
+  },
+  {
+    "type": "animals",
+    "fact": "Alligators cannot move backwards."
+  },
+  {
+    "type": "animals",
+    "fact": "A starfish doesn’t have a brain."
+  },
+  {
+    "type": "animals",
+    "fact": "The Arctic tern flies an average of 22,000 miles a year!"
+  },
+  {
+    "type": "animals",
+    "fact": "A hummingbird weighs less than a penny!"
+  },
+  {
+    "type": "animals",
+    "fact": "Camels have three sets of eyelids."
+  },
+  {
+    "type": "animals",
+    "fact": "The flying fox is a bat with a wing span over five feet."
+  },
+  {
+    "type": "animals",
+    "fact": "On ostrich’s egg weighs 3 1/2 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "A giant squid’s eyes are bigger than dinner plates."
+  },
+  {
+    "type": "animals",
+    "fact": "Dogs sweat only through their tongues."
+  },
+  {
+    "type": "animals",
+    "fact": "A kangaroo can jump 45 feet!"
+  },
+  {
+    "type": "animals",
+    "fact": "A rabbit’s teeth never stop growing."
+  },
+  {
+    "type": "animals",
+    "fact": "You can lead a cow up a stairwell but not down a stairwell."
+  },
+  {
+    "type": "animals",
+    "fact": "Dogs can’t see colors. They’re color blind."
+  },
+  {
+    "type": "animals",
+    "fact": "Squirrels can’t remember where they hide half of their nuts."
+  },
+  {
+    "type": "animals",
+    "fact": "The stegosaurus had a brain the size of a walnut!"
+  },
+  {
+    "type": "animals",
+    "fact": "Bats always turn left when they leave their caves."
+  },
+  {
+    "type": "animals",
+    "fact": "Octopuses have 3 hearts."
+  },
+  {
+    "type": "animals",
+    "fact": "A giraffe’s tongue can measure 21 inches."
+  },
+  {
+    "type": "animals",
+    "fact": "Baby robins eat 14 feet of earthworms every day!"
+  },
+  {
+    "type": "animals",
+    "fact": "Some wild tigers can eat up to 40 pounds of meat at a time, and not eat again for several days."
+  },
+  {
+    "type": "animals",
+    "fact": "The first animal sent up to outer space was a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "The blue whale is the largest animal that ever lived (it could reach 100 feet long and weight up to 150 tons!)"
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest frog is less than 3/8 of an inch in length."
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest cat is the Singapuras and weighs only 4 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "Most hamsters blink one eye at a time."
+  },
+  {
+    "type": "animals",
+    "fact": "Cows have four stomachs."
+  },
+  {
+    "type": "animals",
+    "fact": "Only one mammal can’t jump — the elephant."
+  },
+  {
+    "type": "animals",
+    "fact": "Dragonflies can fly up to 50 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "A goldfish can live up to 40 years."
+  },
+  {
+    "type": "animals",
+    "fact": "A peregrine falcon can reach speeds up to 200 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "A skunk can spray its stench twelve feet away."
+  },
+  {
+    "type": "animals",
+    "fact": "Female lions do 90% of the hunting."
+  },
+  {
+    "type": "animals",
+    "fact": "A gecko uses its tounge to clean its eyeballs!"
+  },
+  {
+    "type": "animals",
+    "fact": "Night butterflies have ears on their wings so they can avoid bats."
+  },
+  {
+    "type": "animals",
+    "fact": "Monarch caterpillars shed their skin four times before they become a chrysalis, growing over 2700 times their original size."
+  },
+  {
+    "type": "animals",
+    "fact": "There may be as many as 3,000 different kinds of insects — more than all the other animal and plant species combined."
+  },
+  {
+    "type": "animals",
+    "fact": "Of the huge numbers of insects, only a tiny amount, one percent, are harmful to humans. Most insects are harmless or actually beneficial. For example, without bees to pollinate flowers, plants would not have a way of reproducing and we wouldn’t have anything to eat!"
+  },
+  {
+    "type": "animals",
+    "fact": "Locusts can eat their own weight in food in a day. A person eats his own body weight in about half a year."
+  },
+  {
+    "type": "animals",
+    "fact": "The earliest fossil cockroach is about 280 million years old â€“ 80 million years older than the first dinosaurs!"
+  },
+  {
+    "type": "animals",
+    "fact": "The desert locust is the world’s most destructive insect. It can eat it’s own weight in food every day. Large swarms can gobble up to 20,000 tons of grain and plants in a day."
+  },
+  {
+    "type": "animals",
+    "fact": "The honeybee has to travel an average of 43,000 miles to collect enough nectar to make a pound of honey!"
+  },
+  {
+    "type": "animals",
+    "fact": "Out of every 1,000 Mosquitos, one female carries a disease that could be fatal to humans."
+  },
+  {
+    "type": "animals",
+    "fact": "The average housefly lives for one month."
+  },
+  {
+    "type": "animals",
+    "fact": "There is only one insect that can turn its head — the praying mantis."
+  },
+  {
+    "type": "animals",
+    "fact": "A slug has four noses."
+  },
+  {
+    "type": "animals",
+    "fact": "Some male spiders pluck their cobwebs like a guitar, to attract female spiders."
+  },
+  {
+    "type": "animals",
+    "fact": "A mosquito flaps its wings 500 times a second."
+  },
+  {
+    "type": "animals",
+    "fact": "Only male crickets can chirp."
+  },
+  {
+    "type": "animals",
+    "fact": "About 80% of the Earth’s animals are insects!"
+  },
+  {
+    "type": "animals",
+    "fact": "The common garden worm has five pairs of hearts."
+  },
+  {
+    "type": "animals",
+    "fact": "The earliest fossil cockroach is about 280 million years old – 80 million years older than the first dinosaurs!"
+  },
+  {
+    "type": "animals",
+    "fact": "The praying mantis is the only insect that can look behind its shoulders."
+  },
+  {
+    "type": "animals",
+    "fact": "One kind of insect called a spittlebug, lays its eggs in a big nest of saliva bubbles. I guess no predator would look for a meal in there!"
+  },
+  {
+    "type": "animals",
+    "fact": "A snail can sleep for 3 years straight!"
+  },
+  {
+    "type": "animals",
+    "fact": "The heaviest insect in the world weights 2.5 ounces."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach can live for up to 3 weeks without its head!"
+  },
+  {
+    "type": "animals",
+    "fact": "A butterfly has its taste receptors in its feet!"
+  },
+  {
+    "type": "animals",
+    "fact": "The mayfly only lives for 8 hours!"
+  },
+  {
+    "type": "animals",
+    "fact": "The female black widow’s poison is 15 times deadlier than a rattlesnake’s!"
+  },
+  {
+    "type": "animals",
+    "fact": "There are worms in Australia that are over 4 Feet Long!"
+  },
+  {
+    "type": "animals",
+    "fact": "The weight of all the termites in the world outweigh the weight of all humans 10 to 1!"
+  },
+  {
+    "type": "animals",
+    "fact": "The language of a society changes slowly but steadily with the result that an educated person will not be able to read or understand words in his language written 500 years ago."
+  },
+  {
+    "type": "animals",
+    "fact": "You may have heard someone say, “It’s raining cats and dogs.” There have been actual documented cases from all over the world of fish, frogs, dead birds, snakes, snails, beetles, worms and jellyfish raining down from the sky in great numbers, but no reports of showers of cats or dogs."
+  },
+  {
+    "type": "animals",
+    "fact": "Once in England, because of a water spout, it rained frogs!"
+  },
+  {
+    "type": "animals",
+    "fact": "Cows sometimes sit down in a field when they know it’s going to rain. (that way, they are saving a dry spot to sit for themselves)."
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest dog recorded was a Yorkie and was only 4 inches tall. The biggest dog weighed 344 pounds- more than two full grown men!"
+  },
+  {
+    "type": "animals",
+    "fact": "Over 10,000 birds a year die from smashing into windows!"
+  },
+  {
+    "type": "animals",
+    "fact": "Pintos and Palominos are colors, not breeds, of horses."
+  },
+  {
+    "type": "animals",
+    "fact": "The top speed of a racing pigeon in flight is 110mph."
+  },
+  {
+    "type": "animals",
+    "fact": "A bison can jump as high as 6 feet off the ground."
+  },
+  {
+    "type": "animals",
+    "fact": "Dragonflies breathe through gills in their rectum."
+  },
+  {
+    "type": "animals",
+    "fact": "A kangaroo can't jump or walk backwards because of their thick tail. For that matter, they can't walk at all."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+  },
+  {
+    "type": "animals",
+    "fact": "Mother cats teach their kittens to use the litter box."
+  },
+  {
+    "type": "animals",
+    "fact": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life."
+  },
+  {
+    "type": "animals",
+    "fact": "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship."
+  },
+  {
+    "type": "animals",
+    "fact": "When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years."
+  },
+  {
+    "type": "animals",
+    "fact": "Neutering a cat extends its life span by two or three years."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can't taste sweets."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats must have fat in their diet because they can't produce it on their own."
+  },
+  {
+    "type": "animals",
+    "fact": "Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew."
+  },
+  {
+    "type": "animals",
+    "fact": "Tylenol and chocolate are both poisionous to cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Many cats cannot properly digest cow's milk. Milk and milk products give them diarrhea."
+  },
+  {
+    "type": "animals",
+    "fact": "The average cat food meal is the equivalent to about five mice."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication. They reproduce by shedding a link from the end of their long bodies. This link crawls out the cat's anus, and sheds hundreds of eggs. These eggs are injested by flea larvae, and the cycles continues. Humans may get these tapeworms too, but only if they eat infected fleas. Cats with tapeworms should be dewormed by a veterinarian."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can get tapeworms from eating mice. If your cat catches a mouse it is best to take the prize away from it."
+  },
+  {
+    "type": "animals",
+    "fact": "A form of AIDS exists in cats."
+  },
+  {
+    "type": "animals",
+    "fact": "The color of the points in Siamese cats is heat related. Cool areas are darker."
+  },
+  {
+    "type": "animals",
+    "fact": "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points."
+  },
+  {
+    "type": "animals",
+    "fact": "People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better."
+  },
+  {
+    "type": "animals",
+    "fact": "Studies now show that the allergen in cats is related to their scent glands. Cats have scent glands on their faces and at the base of their tails. Entire male cats generate the most scent. If this secretion from the scent glands is the allergen, allergic people should tolerate spayed female cats the best."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year."
+  },
+  {
+    "type": "animals",
+    "fact": "Many people fear catching a protozoan disease, Toxoplasmosis, from cats. This disease can cause illness in the human, but more seriously, can cause birth defects in the unborn. Toxoplasmosis is a common disease, sometimes spread through the feces of cats. It is caused most often from eating raw or rare beef. Pregnant women and people with a depressed immune system should not touch the cat litter box. Other than that, there is no reason that these people have to avoid cats."
+  },
+  {
+    "type": "animals",
+    "fact": "The ancestor of all domestic cats is the African Wild Cat which still exists today."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, killing a cat was a crime punishable by death."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found."
+  },
+  {
+    "type": "animals",
+    "fact": "In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares."
+  },
+  {
+    "type": "animals",
+    "fact": "The first cat show was in 1871 at the Crystal Palace in London."
+  },
+  {
+    "type": "animals",
+    "fact": "Today there are about 100 distinct breeds of the domestic cat."
+  },
+  {
+    "type": "animals",
+    "fact": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats bury their feces to cover their trails from predators."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly."
+  },
+  {
+    "type": "animals",
+    "fact": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat."
+  },
+  {
+    "type": "animals",
+    "fact": "Abraham Lincoln loved cats. He had four of them while he lived in the White House."
+  },
+  {
+    "type": "animals",
+    "fact": "Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have an average of 24 whiskers, arranged in four horizontal rows on each side."
+  },
+  {
+    "type": "animals",
+    "fact": "The word \"cat\" in various languages: French: chat; German: katze; Italian: gatto; Spanish/Portugese: gato; Yiddish: kats; Maltese: qattus; Swedish/Norwegian: katt; Dutch: kat; Icelandic: kottur; Greek: catta; Hindu: katas; Japanese:neko; Polish: kot; Ukranian: kotuk; Hawiian: popoki; Russian: koshka; Latin: cattus; Egyptian: mau; Turkish: kedi; Armenian: Gatz; Chinese: mio; Arabic: biss; Indonesian: qitta; Bulgarian: kotka; Malay: kucing; Thai/Vietnamese: meo; Romanian: pisica; Lithuanian: katinas; Czech: kocka; Slovak: macka; Armenian: gatz; Basque: catua; Estonian: kass; Finnish: kissa; Swahili: paka."
+  },
+  {
+    "type": "animals",
+    "fact": "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!"
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn."
+  },
+  {
+    "type": "animals",
+    "fact": "Purring not always means happiness. Purring could mean a cat is in terrible pain such as during childbirth. Kitten will purr to their mother to let her know they are getting enough milk while nursing. Purring is a process of inhaling and exhaling, usually performed while the mouth is closed. But don't worry, if your cat is purring while your gently petting her and holding her close to you - that is a happy cat!"
+  },
+  {
+    "type": "animals",
+    "fact": "The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air."
+  },
+  {
+    "type": "animals",
+    "fact": "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their talk horizontally or tucked between their legs while walking."
+  },
+  {
+    "type": "animals",
+    "fact": "A happy cat holds her tail high and steady."
+  },
+  {
+    "type": "animals",
+    "fact": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat families usually play best in even numbers. Cats and kittens should be aquired in pairs whenever possible."
+  },
+  {
+    "type": "animals",
+    "fact": "Baking chocolate is the most dangerous chocolate to your cat."
+  },
+  {
+    "type": "animals",
+    "fact": "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute."
+  },
+  {
+    "type": "animals",
+    "fact": "Jaguars are the only big cats that don't roar."
+  },
+  {
+    "type": "animals",
+    "fact": "A cats field of vision is about 185 degrees."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically."
+  },
+  {
+    "type": "animals",
+    "fact": "The Maine Coone is the only native American long haired breed."
+  },
+  {
+    "type": "animals",
+    "fact": "The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat."
+  },
+  {
+    "type": "animals",
+    "fact": "Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq."
+  },
+  {
+    "type": "animals",
+    "fact": "Retractable claws are a physical phenomenon that sets cats apart from the rest of the animal kingdom. I n the cat family, only cheetahs cannot retract their claws."
+  },
+  {
+    "type": "animals",
+    "fact": "Not every cat gets \"high\" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene, no joy."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can sprint at about thirty-one miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have been domesticated for half as long as dogs have been."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can spend five or more hours a day grooming himself."
+  },
+  {
+    "type": "animals",
+    "fact": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads."
+  },
+  {
+    "type": "animals",
+    "fact": "Both humans and cats have identical regions in the brain responsible for emotion."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human; humans have 206, and the cat - 230."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 vertebrae--5 more than humans have."
+  },
+  {
+    "type": "animals",
+    "fact": "In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 220° field of view where humans only have 180°."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats' sense of smell is 14 times stronger than that of humans."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 permanent teeth, while adult humans have 32."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 vertebrae, while humans only have 25."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 230 bones in their bodies, this is 24 more than humans."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have a body temperature of between 101 and 102.2 °F (38 and 39 °C)."
+  },
+  {
+    "type": "animals",
+    "fact": "The lifespan of cats are usually between 15 and 20 years."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have a heart rate of between 120 - 240 beats per minute. (This varies highly between different breeds cats)"
+  },
+  {
+    "type": "animals",
+    "fact": "Cats take between 20 - 40 breaths per minute in an inactive state. (This varies highly between different breeds cats)"
+  },
+  {
+    "type": "animals",
+    "fact": "The print on a cat's nose is like that of a fingerprint of a human, each is unique."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have a top speed of about 30 mp/h (48.28 km/h)."
+  },
+  {
+    "type": "animals",
+    "fact": "The cheetah is the world's fastest land mammal. It can run at speeds of up to 70 miles an hour (113 kilometers an hour)."
+  },
+  {
+    "type": "animals",
+    "fact": "An adult lion's roar can be heard up to five miles (eight kilometers) away."
+  },
+  {
+    "type": "animals",
+    "fact": "Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound."
+  },
+  {
+    "type": "animals",
+    "fact": "A tiger's stripes are like fingerprints—no two animals have the same pattern."
+  },
+  {
+    "type": "animals",
+    "fact": "The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree."
+  },
+  {
+    "type": "animals",
+    "fact": "The Amur leopard is one of the most endangered animals in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters)."
+  },
+  {
+    "type": "animals",
+    "fact": "The name 'jaguar' comes from a Native American word meaning 'he who kills with one leap.'"
+  },
+  {
+    "type": "animals",
+    "fact": "In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity."
+  },
+  {
+    "type": "animals",
+    "fact": "The mountain lion and the cheetah share an ancestor."
+  },
+  {
+    "type": "animals",
+    "fact": "Cheetahs do not roar, as the other big cats do. Instead, they purr."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers are excellent swimmers and do not avoid water."
+  },
+  {
+    "type": "animals",
+    "fact": "A female Amur leopard gives birth to one to four cubs in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "Fossil records from two million years ago show evidence of jaguars."
+  },
+  {
+    "type": "animals",
+    "fact": "Lions are the only cats that live in groups, called prides. Every female within the pride is usually related."
+  },
+  {
+    "type": "animals",
+    "fact": "The leopard is the most widespread of all big cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine."
+  },
+  {
+    "type": "animals",
+    "fact": "Unlike other cats, lions have a tuft of hair at the end of their tails."
+  },
+  {
+    "type": "animals",
+    "fact": "After humans, mountain lions have the largest range of any mammal in the Western Hemisphere."
+  },
+  {
+    "type": "animals",
+    "fact": "The wick of a trick candle has small amounts of magnesium in them. When you light the candle, you are also lighting the magnesium. When someone tries to blow out the flame, the magnesium inside the wick continues to burn and, in just a split second (or two or three), relights the wick."
+  },
+  {
+    "type": "animals",
+    "fact": "Ostriches are often not taken seriously. They can run faster than horses, and the males can roar like lions."
+  },
+  {
+    "type": "animals",
+    "fact": "Seals used for their fur get extremely sick when taken aboard ships."
+  },
+  {
+    "type": "animals",
+    "fact": "Sloths take two weeks to digest their food."
+  },
+  {
+    "type": "animals",
+    "fact": "Guinea pigs and rabbits can't sweat."
+  },
+  {
+    "type": "animals",
+    "fact": "The pet food company Ralston Purina recently introduced, from its subsidiary Purina Philippines, power chicken feed designed to help roosters build muscles for cockfighting, which is popular in many areas of the world."
+  },
+  {
+    "type": "animals",
+    "fact": "Sharks and rays are the only animals known to man that don't get cancer. Scientists believe this has something to do with the fact that they don't have bones, but cartilage."
+  },
+  {
+    "type": "animals",
+    "fact": "The porpoise is second to man as the most intelligent animal on the planet."
+  },
+  {
+    "type": "animals",
+    "fact": "Young beavers stay with their parents for the first two years of their lives before going out on their own."
+  },
+  {
+    "type": "animals",
+    "fact": "Skunks can accurately spray their smelly fluid as far as ten feet."
+  },
+  {
+    "type": "animals",
+    "fact": "Gopher snakes in Arizona are not poisonous, but when frightened they may hiss and shake their tails like rattlesnakes."
+  },
+  {
+    "type": "animals",
+    "fact": "On average, dogs have better eyesight than humans, although not as colorful."
+  },
+  {
+    "type": "animals",
+    "fact": "The duckbill platypus can store as many as six hundred worms in the pouches of its cheeks."
+  },
+  {
+    "type": "animals",
+    "fact": "The lifespan of a squirrel is about nine years."
+  },
+  {
+    "type": "animals",
+    "fact": "North American oysters do not make pearls of any value."
+  },
+  {
+    "type": "animals",
+    "fact": "Human birth control pills work on gorillas."
+  },
+  {
+    "type": "animals",
+    "fact": "Many sharks lay eggs, but hammerheads give birth to live babies that look like very small duplicates of their parents. Young hammerheads are usually born headfirst, with the tip of their hammer-shaped head folded backward to make them more streamlined for birth."
+  },
+  {
+    "type": "animals",
+    "fact": "Gorillas sleep as much as fourteen hours per day."
+  },
+  {
+    "type": "animals",
+    "fact": "A biological reserve has been made for golden toads because they are so rare."
+  },
+  {
+    "type": "animals",
+    "fact": "There are more than fifty different kinds of kangaroos."
+  },
+  {
+    "type": "animals",
+    "fact": "Jellyfish like salt water. A rainy season often reduces the jellyfish population by putting more fresh water into normally salty waters where they live."
+  },
+  {
+    "type": "animals",
+    "fact": "The female lion does ninety percent of the hunting."
+  },
+  {
+    "type": "animals",
+    "fact": "The odds of seeing three albino deer at once are one in seventy-nine billion, yet one man in Boulder Junction, Wisconsin, took a picture of three albino deer in the woods."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of twelve or more cows is called a flink."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats often rub up against people and furniture to lay their scent and mark their territory. They do it this way, as opposed to the way dogs do it, because they have scent glands in their faces."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats sleep up to eighteen hours a day, but never quite as deep as humans. Instead, they fall asleep quickly and wake up intermittently to check to see if their environment is still safe."
+  },
+  {
+    "type": "animals",
+    "fact": "Catnip, or Nepeta cataria, is an herb with nepetalactone in it. Many think that when cats inhale nepetalactone, it affects hormones that arouse sexual feelings, or at least alter their brain functioning to make them feel 'high'. Catnip was originally made, using nepetalactone as a natural bug repellant, but roaming cats would rip up the plants before they could be put to their intended task."
+  },
+  {
+    "type": "animals",
+    "fact": "The nematode Caenorhabditis elegans ages the equivalent of five human years for every day they live, so they usually die after about fourteen days. When stressed, though, the worm goes into a comatose state that can last for two or more months. The human equivalent would be to sleep for about two hundred years."
+  },
+  {
+    "type": "animals",
+    "fact": "Orcas (killer whales) kill sharks by torpedoing up into the shark's stomach from underneath, causing the shark to explode."
+  },
+  {
+    "type": "animals",
+    "fact": "A pig's penis is shaped like a corkscrew."
+  },
+  {
+    "type": "animals",
+    "fact": "A baby eel is called an elver, a baby oyster is called a spat."
+  },
+  {
+    "type": "animals",
+    "fact": "The name of the dog on the Cracker Jack box is Bingo"
+  },
+  {
+    "type": "animals",
+    "fact": "The gene for the Siamese coloration in animals such as cats, rats or rabbits is heat sensitive. Warmth produces a lighter color than does cold. Putting tape temporarily on Siamese rabbit's ear will make the fur on that ear lighter than on the other one."
+  },
+  {
+    "type": "animals",
+    "fact": "A robin's egg is blue, but if you put it in vinegar for thirty days it turns yellow."
+  },
+  {
+    "type": "animals",
+    "fact": "Montana mountain goats will butt heads so hard their hooves fall off."
+  },
+  {
+    "type": "animals",
+    "fact": "Spider Monkies like banana daquiries."
+  },
+  {
+    "type": "animals",
+    "fact": "The legbones of a bat are so thin that no bat can walk."
+  },
+  {
+    "type": "animals",
+    "fact": "Fossilized dinosaur droppings are called coprolites, and are actually fairly common."
+  },
+  {
+    "type": "animals",
+    "fact": "Rabbits love licorice."
+  },
+  {
+    "type": "animals",
+    "fact": "Reindeer milk has more fat than cow milk."
+  },
+  {
+    "type": "animals",
+    "fact": "The female ferret is referred to as a jill."
+  },
+  {
+    "type": "animals",
+    "fact": "When a female horse and male donkey mate, the offspring is called a mule, but when a male horse and female donkey mate, the offspring is called a hinny."
+  },
+  {
+    "type": "animals",
+    "fact": "The way to get more mules is to mate a male donkey with a female horse."
+  },
+  {
+    "type": "animals",
+    "fact": "Pigs, walruses and light-colored horses can be sunburned."
+  },
+  {
+    "type": "animals",
+    "fact": "A type of jellyfish found off the coast of England is the longest animal in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "Crows have the largest cerebral hemispheres, relative to body size, of any avian family."
+  },
+  {
+    "type": "animals",
+    "fact": "A flamingo can eat only when its head is upside down."
+  },
+  {
+    "type": "animals",
+    "fact": "Dalmatian dogs are born pure white, they don't start getting spots until they are three or four days old."
+  },
+  {
+    "type": "animals",
+    "fact": "An elephant can be pregnant for up to two years."
+  },
+  {
+    "type": "animals",
+    "fact": "Today's cattle are descended from two species: wild aurochs - fierce and agile herd animals that populated Asia, North Africa and Europe - and eotragus - an antelope-like, Asian forest creature."
+  },
+  {
+    "type": "animals",
+    "fact": "The anteater, aardvark, spiny anteater (echidna), and scaly anteater (pangolin) are completely unrelated - in fact, the closest relatives to anteaters are sloths and armadillos, the closest relative to the spiny anteater is the platypus, and the aardvark is in an order all by itself."
+  },
+  {
+    "type": "animals",
+    "fact": "Octopi have gardens."
+  },
+  {
+    "type": "animals",
+    "fact": "When a giraffe's baby is born it falls from a height of six feet, normally without being hurt."
+  },
+  {
+    "type": "animals",
+    "fact": "A whale's penis is called a dork."
+  },
+  {
+    "type": "animals",
+    "fact": "Some carnivores, rodents, bats and insectivores have a penis bone, called a baculum."
+  },
+  {
+    "type": "animals",
+    "fact": "A barnacle has the largest penis of any other animal in the world in relation to its size."
+  },
+  {
+    "type": "animals",
+    "fact": "Iguanas, koalas and Komodo dragons all have two penises. In fact, they have a single penis, but it is split in two (pretty much 'Y'-shaped.) This organ is known as a hemipenes. Snakes also share this interesting feature. Apparently, the dual penis is for ease of left-handed or right-handed mating. Also, at least in snakes, the semen does not flow through a vessel (like in mammals), but rather, a groove."
+  },
+  {
+    "type": "animals",
+    "fact": "Some female hyenas have a pseudo-penis."
+  },
+  {
+    "type": "animals",
+    "fact": "One way to tell seals and sea lions apart is that, sea lions have external ears and testicles."
+  },
+  {
+    "type": "animals",
+    "fact": "A pound of armadillo meat contains 780 calories."
+  },
+  {
+    "type": "animals",
+    "fact": "Most armadillos seen dead on the road did not get hit by the wheels. When an armidillo is frightened it jumps straight into the air."
+  },
+  {
+    "type": "animals",
+    "fact": "Armadillos can be housebroken."
+  },
+  {
+    "type": "animals",
+    "fact": "Armadillos have four babies at a time, always all the same sex. They are perfect quadruplets, the fertilized cell split into quarters, resulting in four identical armadillos."
+  },
+  {
+    "type": "animals",
+    "fact": "Armadillos get an average of 18.5 hours of sleep per day."
+  },
+  {
+    "type": "animals",
+    "fact": "Armadillos can walk underwater."
+  },
+  {
+    "type": "animals",
+    "fact": "There are more beetles than any other kind of creature in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "Orcas kill sharks by torpedoing up into the shark's stomach from underneath, causing the shark to explode."
+  },
+  {
+    "type": "animals",
+    "fact": "Shrimps' hearts are in their heads."
+  },
+  {
+    "type": "animals",
+    "fact": "The newest dog breed is the Bull Boxer, first bred in the United states in 1990-91."
+  },
+  {
+    "type": "animals",
+    "fact": "The pet ferret (Mustela putorias furo) was domesticated more than 500 years before the house cat."
+  },
+  {
+    "type": "animals",
+    "fact": "The Pug dog is thought to have gotten its name from looking like the pug monkey."
+  },
+  {
+    "type": "animals",
+    "fact": "There are more bald eagles in the province of British Columbia then there are in the whole United States."
+  },
+  {
+    "type": "animals",
+    "fact": "The housefly hums in the middle octave, key of F."
+  },
+  {
+    "type": "animals",
+    "fact": "Police dogs are trained to react to commands in a foreign language; commonly German but more recently Hungarian."
+  },
+  {
+    "type": "animals",
+    "fact": "Female orcas live twice as long as male orcas. The larger numbers of female orcas in a pod are because of the female's longer lifespan, not because the males have collected a harem."
+  },
+  {
+    "type": "animals",
+    "fact": "Most spiders belong to the orb weaver spider family, Family Aranidae. This is pronounced \"A Rainy Day.\""
+  },
+  {
+    "type": "animals",
+    "fact": "The first word spoken by an ape in the movie Planet of the Apes was \"Smile\"."
+  },
+  {
+    "type": "animals",
+    "fact": "Hummingbirds are the only animals able to fly backwards."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's jaws cannot move sideways."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats in Halifax, Nova Scotia, have a very high probability of having six toes."
+  },
+  {
+    "type": "animals",
+    "fact": "The \"wild\" horses of western North America are actually feral, not wild."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants have been found swimming miles from shore in the Indian Ocean."
+  },
+  {
+    "type": "animals",
+    "fact": "The muzzle of a lion is like a fingerprint -- no two lions have the same pattern of whiskers."
+  },
+  {
+    "type": "animals",
+    "fact": "There is a type of parrot in New Zealand that likes to eat the rubber strips that line car windows."
+  },
+  {
+    "type": "animals",
+    "fact": "The only way to stop the pain of the flathead fish's sting is by rubbing the same fish's slime on the wound it gave you."
+  },
+  {
+    "type": "animals",
+    "fact": "There were no squirrels on Nantucket Island, Massachusetts until 1989."
+  },
+  {
+    "type": "animals",
+    "fact": "When angered, the ears of Tazmanian devils turn a pinkish-red."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has four rows of whiskers."
+  },
+  {
+    "type": "animals",
+    "fact": "An iguana can stay under water for twenty-eight minutes."
+  },
+  {
+    "type": "animals",
+    "fact": "Roosters can't crow if they can't fully extend their necks."
+  },
+  {
+    "type": "animals",
+    "fact": "There are only three types of snakes on the island of Tasmania and all are deadly poisonous."
+  },
+  {
+    "type": "animals",
+    "fact": "Emus have double-plumed feathers, and they lay emerald/forest green eggs."
+  },
+  {
+    "type": "animals",
+    "fact": "Dalmatian dog originate from Dalmatian coast of Croatia."
+  },
+  {
+    "type": "animals",
+    "fact": "No animal, once frozen solid (i.e., water solidifies and turns to ice) survives when thawed, because the ice crystals formed inside cells would break open the cell membranes. However there are certain frogs that can survive the experience of being frozen. These frogs make special proteins which prevent the formation of ice (or at least keep the crystals from becoming very large), so that they actually never freeze even though their body temperature is below zero Celsius. The water in them remains liquid: a phenomenon known as 'supercooling.' If you disturb one of these frogs (just touching them even), the water in them quickly freezes solid and they die."
+  },
+  {
+    "type": "animals",
+    "fact": "A kind of tortoise in the Galapagos Islands has an upturned shell at its neck so it can reach its head up to eat cactus branches."
+  },
+  {
+    "type": "animals",
+    "fact": "The common goldfish is the only animal that can see both infra-red and ultra-violet light."
+  },
+  {
+    "type": "animals",
+    "fact": "The pupil of an octopus' eye is rectangular."
+  },
+  {
+    "type": "animals",
+    "fact": "Camel's milk does not curdle."
+  },
+  {
+    "type": "animals",
+    "fact": "Hamsters love to eat crickets."
+  },
+  {
+    "type": "animals",
+    "fact": "An animal epidemic is called an epizootic."
+  },
+  {
+    "type": "animals",
+    "fact": "Goat's eyes have rectangular pupils."
+  },
+  {
+    "type": "animals",
+    "fact": "Other than humans, black lemurs are the only primates that may have blue eyes."
+  },
+  {
+    "type": "animals",
+    "fact": "The United States has never lost a war in which mules were used."
+  },
+  {
+    "type": "animals",
+    "fact": "Tweety used to be a baby bird without feathers until the censors made him have feathers because he \"looked naked.\""
+  },
+  {
+    "type": "animals",
+    "fact": "The Mola Mola, or Ocean Sunfish, lays up to 5,000,000 eggs at one time."
+  },
+  {
+    "type": "animals",
+    "fact": "When opossums are playing opossum, they are not \"playing.\" They actually pass out from sheer terror."
+  },
+  {
+    "type": "animals",
+    "fact": "Stag beetles have stronger mandibles than humans."
+  },
+  {
+    "type": "animals",
+    "fact": "The only continent without reptiles or snakes is Antarctica."
+  },
+  {
+    "type": "animals",
+    "fact": "It is possible to lead a cow upstairs but not downstairs, because a cows' knees can't bend properly to walk back down."
+  },
+  {
+    "type": "animals",
+    "fact": "Rhinos are in the same family as horses, and are thought to have inspired the myth of the unicorn."
+  },
+  {
+    "type": "animals",
+    "fact": "The word for \"dog\" in the Australian aboriginal language Mbabaran happens to be \"dog.\""
+  },
+  {
+    "type": "animals",
+    "fact": "The names of the three wise monkeys are: Mizaru: See no evil, Mikazaru: Hear no evil, and Mazaru: Speak no evil."
+  },
+  {
+    "type": "animals",
+    "fact": "Camels have three eyelids to protect themselves from blowing sand. It takes forty minutes to hard boil an ostrich egg."
+  },
+  {
+    "type": "animals",
+    "fact": "The bat on the Bacardi symbol is there because the soil where the sugar cane grows is fertile from the excessive guano (bat droppings.)"
+  },
+  {
+    "type": "animals",
+    "fact": "The cheetah is the only cat in the world that can't retract its claws."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of geese on the ground is gaggle, a group of geese in the air is skein."
+  },
+  {
+    "type": "animals",
+    "fact": "Dogs and humans are the only animals with prostates."
+  },
+  {
+    "type": "animals",
+    "fact": "The placement of a donkey's eyes in its' heads enables it to see all four feet at all times."
+  },
+  {
+    "type": "animals",
+    "fact": "The underside of a horse's hoof is called a frog. The frog peels off several times a year with new growth."
+  },
+  {
+    "type": "animals",
+    "fact": "The cells which make up the antlers of a moose are the fastest growing animal cells in nature."
+  },
+  {
+    "type": "animals",
+    "fact": "Basenji dogs and Australian dingoes are virtually identical."
+  },
+  {
+    "type": "animals",
+    "fact": "Hippopotamuses do eighty percent of their vocalizations under water."
+  },
+  {
+    "type": "animals",
+    "fact": "A hedgehog's heart beats 300 times a minute on average."
+  },
+  {
+    "type": "animals",
+    "fact": "You can tell a girl crab from a boy crab by their stomachs. A girl has a beehive and a boy has a lighthouse."
+  },
+  {
+    "type": "animals",
+    "fact": "Mongooses were brought to Hawai'i to kill rats. This plan failed because rats are nocturnal while the mongoose hunts during the day."
+  },
+  {
+    "type": "animals",
+    "fact": "The world's smallest mammal is the bumblebee bat of Thailand, weighing less than a penny."
+  },
+  {
+    "type": "animals",
+    "fact": "The Honey Badger can withstand hundreds of African bee stings that would kill any other animal."
+  },
+  {
+    "type": "animals",
+    "fact": "Ancient Egyptians shaved their eyebrows to mourn the deaths of their cats."
+  },
+  {
+    "type": "animals",
+    "fact": "You should not eat a crawfish with a straight tail. It was dead before it was cooked."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can hear ultrasound."
+  },
+  {
+    "type": "animals",
+    "fact": "The Sumatran tiger has the most stripes of all the tiger subspecies, and the Siberian tiger has the fewest."
+  },
+  {
+    "type": "animals",
+    "fact": "A tiger's paw prints are called pug marks."
+  },
+  {
+    "type": "animals",
+    "fact": "The closest relative to the manatee is the elephant, scientists think the elephant crawled back into the sea to become a manatee."
+  },
+  {
+    "type": "animals",
+    "fact": "All elephants walk on tip-toe, because the back portion of their foot is made up of all fat and no bone."
+  },
+  {
+    "type": "animals",
+    "fact": "An elephant can consume 500 pounds of hay, and 60 gallons of water in a single day."
+  },
+  {
+    "type": "animals",
+    "fact": "There’s an ant colony that spans three continents"
+  },
+  {
+    "type": "animals",
+    "fact": "Dart-boards are made out of horsehair."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of unicorns is called a blessing."
+  },
+  {
+    "type": "animals",
+    "fact": "Twelve or more cows are known as a \"flink.\""
+  },
+  {
+    "type": "animals",
+    "fact": "A group of rhinos is called a crash."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "type": "animals",
+    "fact": "A group of ravens is called a unkindness"
+  },
+  {
+    "type": "animals",
+    "fact": "Jellyfish have no brains, yet they can tell light from dark, and sence movement."
+  },
+  {
+    "type": "animals",
+    "fact": "A dogs sense of smell is one of the keenest in nature. If a pot of stew was cooking on a stove, a human would smell the stew, while the dog could smell the beef, carrots, peas, potatoes, spices, and all the other individual ingredients in the stew. In fact, if you unfolded and laid out the delicate membranes from inside a dogs nose, the membranes would be larger than the dog itself."
+  },
+  {
+    "type": "animals",
+    "fact": "Donkeys kill more people annually than plane crashes."
+  },
+  {
+    "type": "animals",
+    "fact": "Walt Disney was afraid of mice."
+  },
+  {
+    "type": "animals",
+    "fact": "Turtles can breathe through their butts"
+  },
+  {
+    "type": "animals",
+    "fact": "A crocodile cannot stick out its tongue."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have over one hundred vocal sounds. Dogs only have about 10."
+  },
+  {
+    "type": "animals",
+    "fact": "The cost of raising a medium-size dog to the age of eleven: $6,400"
+  },
+  {
+    "type": "animals",
+    "fact": "An Alligator can run as fast as a horse."
+  },
+  {
+    "type": "animals",
+    "fact": "Sheep refuse to drink from running water."
+  },
+  {
+    "type": "animals",
+    "fact": "Snakes sleep with both eyes open."
+  },
+  {
+    "type": "animals",
+    "fact": "A rhinoceros beetle can push 850 times its own weight; that's about equivalent to a man pushing a tank."
+  },
+  {
+    "type": "animals",
+    "fact": "Giraffes were originally known as \"cameleopards.\""
+  },
+  {
+    "type": "animals",
+    "fact": "A killer whale can eat 2000 pounds of food in one sitting."
+  },
+  {
+    "type": "animals",
+    "fact": "The average speed of a butterfly is about 12 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "Ribbon worms can turn themselves completely inside out."
+  },
+  {
+    "type": "animals",
+    "fact": "Banana spiders are considered the deadliest in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "An antlion larva doesn't have an anus."
+  },
+  {
+    "type": "animals",
+    "fact": "Adult mayflies live from half an hour to a few days before dying."
+  },
+  {
+    "type": "animals",
+    "fact": "Cicadas have five eyes."
+  },
+  {
+    "type": "animals",
+    "fact": "Dolphins will gather in gangs and kill porpoises by ramming them repeatedly, just for fun."
+  },
+  {
+    "type": "animals",
+    "fact": "The beef tapeworm can reach forty feet in length. Other species can reach one hundred."
+  },
+  {
+    "type": "animals",
+    "fact": "More people are killed by donkeys annually than die in plane crashes."
+  },
+  {
+    "type": "animals",
+    "fact": "Odds of being killed by a dog: 1 in 700,000."
+  },
+  {
+    "type": "animals",
+    "fact": "Termites eat through wood 2 times faster when listening to rock music."
+  },
+  {
+    "type": "animals",
+    "fact": "The giant squid, found usually in the deep reaches of the oceans, has the largest eye of any animal."
+  },
+  {
+    "type": "animals",
+    "fact": "There is a sea squirt found in the seas near Japan that digests its own brain. When the sea squirt is mature, it permanently attaches itself to a rock. At this point it does not need to move anymore and has no need for a brain. So, waste not want not, it eats it."
+  },
+  {
+    "type": "animals",
+    "fact": "A male gypsy moth can smell a female gypsy moth in heat up to a mile and a half away."
+  },
+  {
+    "type": "animals",
+    "fact": "A squirrel cannot contract or carry the rabies virus."
+  },
+  {
+    "type": "animals",
+    "fact": "1 in 5,000 north Atlantic lobsters are born bright blue."
+  },
+  {
+    "type": "animals",
+    "fact": "The brown myotis bats when born are equivalent to a woman giving birth to a 30 pound baby."
+  },
+  {
+    "type": "animals",
+    "fact": "If you keep a Goldfish in the dark room, it will eventually turn white."
+  },
+  {
+    "type": "animals",
+    "fact": "A Horse has 18 more bones than a Human."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants are the only mammals that can't jump."
+  },
+  {
+    "type": "animals",
+    "fact": "A polar bears skin is black. Its fur is not white, but actually clear."
+  },
+  {
+    "type": "animals",
+    "fact": "Rats can't vomit. That's why rat poison works so well."
+  },
+  {
+    "type": "animals",
+    "fact": "Giraffes have no vocal chords."
+  },
+  {
+    "type": "animals",
+    "fact": "A full-grown bear can run as fast as a horse."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest known butterfly is Queen Alexandra's Birdwing from New Guinea, which has a wingspan of approximately 11 inches (28 cm)."
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest butterfly, the Dwarf Blue from Africa, has a wingspan of only 1 / 2 inches (1 cm)."
+  },
+  {
+    "type": "animals",
+    "fact": "The distance between an alligators eyes in inches, is directly proportional to the length of the alligator in feet"
+  },
+  {
+    "type": "animals",
+    "fact": "The world smallest mammal is the bumblebee bat of Thailand, weighing less than a penny."
+  },
+  {
+    "type": "animals",
+    "fact": "The Hippopotamus does 80% of their vocalizations under water."
+  },
+  {
+    "type": "animals",
+    "fact": "The cells that make up the antlers of a moose are the fastest growing animal cells in nature."
+  },
+  {
+    "type": "animals",
+    "fact": "Scientists in Brazil have reported the emergence of a species of super-flea; they are bigger than cockroaches and can jump 20 feet (6 m)."
+  },
+  {
+    "type": "animals",
+    "fact": "The average flea can jump up to 150 times its own length. To match that a human would have to jump 1,000 feet (305 m)."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach can live 9 days without its head before it starves to death."
+  },
+  {
+    "type": "animals",
+    "fact": "A hippo can run faster than a man can."
+  },
+  {
+    "type": "animals",
+    "fact": "A jellyfish is 95% water."
+  },
+  {
+    "type": "animals",
+    "fact": "A blue whales heart only beats nine times per minute."
+  },
+  {
+    "type": "animals",
+    "fact": "Rodent's teeth never stop growing."
+  },
+  {
+    "type": "animals",
+    "fact": "A shark can grow a new set of teeth in a week."
+  },
+  {
+    "type": "animals",
+    "fact": "A starfish can turn its stomach inside out."
+  },
+  {
+    "type": "animals",
+    "fact": "Some ribbon worms will eat themselves if they can't find any food."
+  },
+  {
+    "type": "animals",
+    "fact": "Owls are one of the only birds that can see the color blue."
+  },
+  {
+    "type": "animals",
+    "fact": "The penguin is the only bird that can swim but can't fly."
+  },
+  {
+    "type": "animals",
+    "fact": "Emus and kangaroos can't walk backwards."
+  },
+  {
+    "type": "animals",
+    "fact": "A mole can dig a tunnel 300 feet (91 m) long in just one night."
+  },
+  {
+    "type": "animals",
+    "fact": "Sharkskin has tiny tooth-like scales all over."
+  },
+  {
+    "type": "animals",
+    "fact": "Lacking a collarbone, the deer mouse can flatten its body so much it can squeeze into an opening one quarter of an inch high."
+  },
+  {
+    "type": "animals",
+    "fact": "The orca is the largest member of the dolphin family, and is not really a whale. Due to its size, however, the orca is frequently included in discussions of whales."
+  },
+  {
+    "type": "animals",
+    "fact": "Vegetarian mammals produce more methane than carnivorous mammals. In other words, they fart more."
+  },
+  {
+    "type": "animals",
+    "fact": "Flies jump backwards when they take off."
+  },
+  {
+    "type": "animals",
+    "fact": "More than 20,000,000 seahorses are harvested each year for folk medicinal purposes. The world seahorse population has dropped 70% in the past 10 years."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest insects that ever lived on the earth were giant dragonflies with wingspans of over 3 feet (91 cm)."
+  },
+  {
+    "type": "animals",
+    "fact": "The blue whale is the largest animal that ever lived, reaching 100 feet (30 m) in length and weighing 150 tons. The largest dinosaur, Argentinosaurus, was estimated to weigh 110 tons."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats, camels, and giraffes are the only animals in the world that walk right foot, right foot, left foot, left foot, rather than right foot, left foot."
+  },
+  {
+    "type": "animals",
+    "fact": "The catfish has the most taste buds of all animals, having over 27,000 of them."
+  },
+  {
+    "type": "animals",
+    "fact": " Honeybees have hair on their eyes."
+  },
+  {
+    "type": "animals",
+    "fact": "To reach rivers and lakes where they spend most of their lives, many newborn eels swim for up to 3,000 miles (4,827 k) nonstop."
+  },
+  {
+    "type": "animals",
+    "fact": "A male rabbit is called a \"buck\" and a female rabbit is called a \"doe.\""
+  },
+  {
+    "type": "animals",
+    "fact": "In 1681, the last dodo bird died."
+  },
+  {
+    "type": "animals",
+    "fact": "The snail mates only once in its entire life."
+  },
+  {
+    "type": "animals",
+    "fact": "The waste produced by one chicken in its lifetime can supply enough electricity to run a 100-watt bulb for 5 hours."
+  },
+  {
+    "type": "animals",
+    "fact": "Scorpions can withstand 200 times more nuclear radiation than humans can."
+  },
+  {
+    "type": "animals",
+    "fact": "The average garden-variety caterpillar has 248 muscles in its head."
+  },
+  {
+    "type": "animals",
+    "fact": "A kangaroo can't jump unless its tail is touching the ground."
+  },
+  {
+    "type": "animals",
+    "fact": "Dolphins don't automatically breath; they have to tell themselves to do it."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats sleep 16 to 18 hours per day."
+  },
+  {
+    "type": "animals",
+    "fact": "No other animal gives us more by-products than the pig. These by-products include pig suede, buttons, glass, paint brushes, crayons, chalk and insulation to name a few."
+  },
+  {
+    "type": "animals",
+    "fact": "The poison arrow frog has enough poison to kill about 2,200 people."
+  },
+  {
+    "type": "animals",
+    "fact": "A kangaroo can jump up to 10 feet (3 m) high and leap up to 26 feet (8 m)."
+  },
+  {
+    "type": "animals",
+    "fact": "The Queen termite can live up to 50 years and have 30,000 children every day."
+  },
+  {
+    "type": "animals",
+    "fact": "The cockroach's favorite food is the glue on the back of stamps."
+  },
+  {
+    "type": "animals",
+    "fact": "Tuna swim at a steady rate of 9 miles (14 km) per hour until they die and they never stop moving. Some Scientists estimate that a 15-year-old tuna must have traveled 1,000,000 miles (1,609,000 km)."
+  },
+  {
+    "type": "animals",
+    "fact": "An adult hippo can bite a 12-foot (3.6 m) adult male crocodile in half."
+  },
+  {
+    "type": "animals",
+    "fact": "The Australian Emu holds the land speed record for birds at 31 miles (50 km) per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "At full speed, a Cheetah takes strides of 26 feet (8 m)."
+  },
+  {
+    "type": "animals",
+    "fact": "Of the 4,000 species of mammals on the planet, the are 900 different species of bats."
+  },
+  {
+    "type": "animals",
+    "fact": "Termites are affected by music. They will eat your house twice as fast if you play loud music."
+  },
+  {
+    "type": "animals",
+    "fact": "Rabbits digest their food twice (if you know what I mean) for two reasons: they don't get all the nutrients the first time around and because they need a high bacterial count in their stomach, which they get from, that's right, poop."
+  },
+  {
+    "type": "animals",
+    "fact": "The name \"Kangaroo\" came about when some of the first white settlers saw this strange animal hopping along and they asked the Aborigines what it was called. They replied with \"Kanguru\", which in their language means \"I don't know\"."
+  },
+  {
+    "type": "animals",
+    "fact": "The blue whale is the largest animal that ever lived, reaching 100 feet (30.4 m) in length and weighing 150 tons. The largest dinosaur, Argentinosaurus, was estimated to weigh 110 tons."
+  },
+  {
+    "type": "animals",
+    "fact": "The smallest butterfly, the Dwarf Blue from Africa, has a wingspan of only one-half inch."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest turtle ever found weighed 2,016 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest insects that ever lived on the earth were giant dragonflies with wingspans of over 3 feet (1 m)."
+  },
+  {
+    "type": "animals",
+    "fact": "When snakes are born with two heads, they fight each other for food."
+  },
+  {
+    "type": "animals",
+    "fact": "There are twice as many kangaroos in Australia as there are people. The kangaroo population is estimated at about 40 million."
+  },
+  {
+    "type": "animals",
+    "fact": "If you had enough water to fill one million goldfish bowls, you could fill an entire stadium."
+  },
+  {
+    "type": "animals",
+    "fact": "The elephant is the only animal with 4 knees."
+  },
+  {
+    "type": "animals",
+    "fact": "Emu's and Kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason"
+  },
+  {
+    "type": "animals",
+    "fact": "An animal epidemic is called a epizootic"
+  },
+  {
+    "type": "animals",
+    "fact": "Neither rats or horses can vomit."
+  },
+  {
+    "type": "animals",
+    "fact": "A sheep, a duck and a rooster were the first animals on a hot air balloon."
+  },
+  {
+    "type": "animals",
+    "fact": "A square mile of fertile land has up to 32 million earthworms in it."
+  },
+  {
+    "type": "animals",
+    "fact": "Snakes can't blink."
+  },
+  {
+    "type": "animals",
+    "fact": "A crocodile can't stick it's tongue out"
+  },
+  {
+    "type": "animals",
+    "fact": "Turtles can breathe through their backsides"
+  },
+  {
+    "type": "animals",
+    "fact": "A Chameleon's tongue is twice the length of its body"
+  },
+  {
+    "type": "animals",
+    "fact": "A Crocodile's tongue is attached to the roof of its mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "Basilisks are often known as Jesus Christ lizards because of their ability to run on water."
+  },
+  {
+    "type": "animals",
+    "fact": "Certain Frogs can be frozen solid, thawed out and can still live."
+  },
+  {
+    "type": "animals",
+    "fact": "The Horned Lizard squirts blood from its eyes to scare predators."
+  },
+  {
+    "type": "animals",
+    "fact": "Salamanders breather through their skin"
+  },
+  {
+    "type": "animals",
+    "fact": "Dragonfly's average lifespan is just 24 hours and it is nicknamed the Devil's darning Needle."
+  },
+  {
+    "type": "animals",
+    "fact": "Butterflies taste with their feet"
+  },
+  {
+    "type": "animals",
+    "fact": "Snails can sleep for 3 years without eating."
+  },
+  {
+    "type": "animals",
+    "fact": "Over 90% of all Vietnamese Walking Sticks (those're insects, by the way) are FEMALE. The reason is that they don't need males to reproduce. Each female lays eggs which are already fertile, being clones of herself."
+  },
+  {
+    "type": "animals",
+    "fact": "A dragonfly has a lifespan of 4 - 7 weeks."
+  },
+  {
+    "type": "animals",
+    "fact": "A species of Australian Dragonfly has been clocked at a speed of 36 m.p.h"
+  },
+  {
+    "type": "animals",
+    "fact": "A single strand of a Golden spider's web is a s strong as an equivalent piece of steel wire."
+  },
+  {
+    "type": "animals",
+    "fact": "Butterflies taste with hind feet."
+  },
+  {
+    "type": "animals",
+    "fact": "Caterpillars have around 4000 muscles."
+  },
+  {
+    "type": "animals",
+    "fact": "A Slug has 4 noses."
+  },
+  {
+    "type": "animals",
+    "fact": "An Ant can lift ten times its own weight."
+  },
+  {
+    "type": "animals",
+    "fact": "The Praying mantis is the only insect that can turn its head."
+  },
+  {
+    "type": "animals",
+    "fact": "A cockroach's favourite food is the glue on the back of a stamp."
+  },
+  {
+    "type": "animals",
+    "fact": "A locust can eat its own weight in food in one day."
+  },
+  {
+    "type": "animals",
+    "fact": "Bees have 5 eyes and Ants have 5 noses."
+  },
+  {
+    "type": "animals",
+    "fact": "A snail takes 33 hours to crawl 1 mile"
+  },
+  {
+    "type": "animals",
+    "fact": "Camel's milk does not curdle. A Camel has 3 eyelids."
+  },
+  {
+    "type": "animals",
+    "fact": "A giraffe's tongue is dark blue / black"
+  },
+  {
+    "type": "animals",
+    "fact": "Giraffes have no vocal chords"
+  },
+  {
+    "type": "animals",
+    "fact": "All polar bears are left-handed"
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers have striped skin, not just striped fur"
+  },
+  {
+    "type": "animals",
+    "fact": "The fingerprints of Koala Bears are virtually indistinguishable from those of humans, so much so that they could be confused at a crime scene"
+  },
+  {
+    "type": "animals",
+    "fact": "A goldfish has a memory span of three seconds"
+  },
+  {
+    "type": "animals",
+    "fact": "Wrasse fish - the most senior of the female fishes turns into a male when the solitary male of the group dies."
+  },
+  {
+    "type": "animals",
+    "fact": "A shrimp's heart is in their head."
+  },
+  {
+    "type": "animals",
+    "fact": "A shrimp has more than a 100 pairs of chromosomes in each cell nucleus."
+  },
+  {
+    "type": "animals",
+    "fact": "A barnacle has the largest penis in relation to its own body size."
+  },
+  {
+    "type": "animals",
+    "fact": "A scallop has 35 eyes of which all are blue."
+  },
+  {
+    "type": "animals",
+    "fact": "During it's lifetime an Oyster can repeatedly change sexes."
+  },
+  {
+    "type": "animals",
+    "fact": "A Dolphin sleeps with one eye open."
+  },
+  {
+    "type": "animals",
+    "fact": "The Giant Squid has the largest eye of any creature on Earth."
+  },
+  {
+    "type": "animals",
+    "fact": "There are Oysters in the Caribbean that can climb trees."
+  },
+  {
+    "type": "animals",
+    "fact": "An Electric Eel can produce a shock of 600 volts."
+  },
+  {
+    "type": "animals",
+    "fact": "Lobsters can regenerate their legs, claws and antennae."
+  },
+  {
+    "type": "animals",
+    "fact": "Lungfish can live fof 4 years outside of water."
+  },
+  {
+    "type": "animals",
+    "fact": "A marine catfish can taste with any part of its body."
+  },
+  {
+    "type": "animals",
+    "fact": "When a shrimp is first born, it is male, and it gradually evolves to female as it matures."
+  },
+  {
+    "type": "animals",
+    "fact": "A baby Platypus is blind for the first 11 weeks of its life."
+  },
+  {
+    "type": "animals",
+    "fact": "Deer cannot eat hay."
+  },
+  {
+    "type": "animals",
+    "fact": "A Geep is a cross between a Goat and a Sheep."
+  },
+  {
+    "type": "animals",
+    "fact": "A JackRabbit can jump as high as 15 feet."
+  },
+  {
+    "type": "animals",
+    "fact": "A Mole can dig up to 250 feet of tunnel in one night."
+  },
+  {
+    "type": "animals",
+    "fact": "Bats always turn left when exiting a cave and of course are the only mammals that can fly."
+  },
+  {
+    "type": "animals",
+    "fact": "Bees have 5 eyes but do not have any ears."
+  },
+  {
+    "type": "animals",
+    "fact": "Belize is the only country in the world with a Jaguar reserve."
+  },
+  {
+    "type": "animals",
+    "fact": "Bulls are colour blind and will usually charge a cape regardless of its colour."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have over 100 vocal sounds while dogs have just 10."
+  },
+  {
+    "type": "animals",
+    "fact": "Cattle are the only animals that urinate backwards."
+  },
+  {
+    "type": "animals",
+    "fact": "A Blue Whale makes the loudest noise of any creature."
+  },
+  {
+    "type": "animals",
+    "fact": "Chimpnazees use more tools than any animal except humans."
+  },
+  {
+    "type": "animals",
+    "fact": "A rat can tread water for 3 days"
+  },
+  {
+    "type": "animals",
+    "fact": "A rat can last longer without water than a Camel."
+  },
+  {
+    "type": "animals",
+    "fact": "A female Ferret will die if it goes on heat and cannot find a mate"
+  },
+  {
+    "type": "animals",
+    "fact": "Rats multiply so quickly that in 18 months, two rats could have over a million descendants"
+  },
+  {
+    "type": "animals",
+    "fact": "Farmers in England are required by law to provide their pigs with toys."
+  },
+  {
+    "type": "animals",
+    "fact": "A Squirrel cannot contract or carry the rabies virus."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants are the only animals that can't jump"
+  },
+  {
+    "type": "animals",
+    "fact": "Camels milk doesn't curdle."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats urine glows under a black light."
+  },
+  {
+    "type": "animals",
+    "fact": "Sloths can move quickly, they just prefer to move at a slow pace."
+  },
+  {
+    "type": "animals",
+    "fact": "A pig's orgasm lasts for 30 minutes"
+  },
+  {
+    "type": "animals",
+    "fact": "Humans and horses are the only two animals that have hymens"
+  },
+  {
+    "type": "animals",
+    "fact": "Humans, dolphins and apes are the only mammals that have sex for pleasure."
+  },
+  {
+    "type": "animals",
+    "fact": "A mayfly only lives a few minutes to a few days, depending on the species."
+  },
+  {
+    "type": "animals",
+    "fact": "A goldfish has a memory span of three months."
+  },
+  {
+    "type": "animals",
+    "fact": "The sloth's metabolism is so slow that it can stay under water for more than 30 minutes and not drown."
+  },
+  {
+    "type": "animals",
+    "fact": "Horses can't throw up"
+  },
+  {
+    "type": "animals",
+    "fact": "A turkey can drown if it looks up while it's raining."
+  },
+  {
+    "type": "animals",
+    "fact": "Elvis had a pet monkey named Scatter."
+  },
+  {
+    "type": "animals",
+    "fact": "Only female ducks quack. The males coo, hoto, honk and grunt, but they don't quack."
+  },
+  {
+    "type": "animals",
+    "fact": "Insects outnumber people 1 million to one."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through."
+  },
+  {
+    "type": "animals",
+    "fact": "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways."
+  },
+  {
+    "type": "animals",
+    "fact": "When your cats rubs up against you, she is actually marking you as \"hers\" with her scent. If your cat pushes his face against your head, it is a sign of acceptance and affection."
+  },
+  {
+    "type": "animals",
+    "fact": "Not every cat gets \"high\" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene, no joy."
+  },
+  {
+    "type": "animals",
+    "fact": "Neutering a male cat will, in almost all cases, stop him from spraying (territorial marking), fighting with other males (at least over females), as well as lengthen his life and improve its quality."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have an average of 24 whiskers, arranged in four horizontal rows on each side."
+  },
+  {
+    "type": "animals",
+    "fact": "Many cats cannot properly digest cow's milk. Milk and milk products give them diarrhea."
+  },
+  {
+    "type": "animals",
+    "fact": "The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air."
+  },
+  {
+    "type": "animals",
+    "fact": "Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats respond most readily to names that end in an \"ee\" sound."
+  },
+  {
+    "type": "animals",
+    "fact": "Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC."
+  },
+  {
+    "type": "animals",
+    "fact": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat."
+  },
+  {
+    "type": "animals",
+    "fact": "People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better."
+  },
+  {
+    "type": "animals",
+    "fact": "Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew."
+  },
+  {
+    "type": "animals",
+    "fact": "In households in the UK and USA, there are more cats kept as pets than dogs. At least 35% of households with cats have 2 or more cats."
+  },
+  {
+    "type": "animals",
+    "fact": "The name \"jaguar\" comes from a Native American word meaning \"he who kills with one leap\"."
+  },
+  {
+    "type": "animals",
+    "fact": "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!"
+  },
+  {
+    "type": "animals",
+    "fact": "If your cat snores or rolls over on his back to expose his belly, it means he trusts you."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months."
+  },
+  {
+    "type": "animals",
+    "fact": "Some notable people who disliked cats: Napoleon Bonaparte, Dwight D. Eisenhower, Hitler."
+  },
+  {
+    "type": "animals",
+    "fact": "Declawing a cat is the same as cutting a human's fingers off at the knuckle. There are several alternatives to a complete declawing, including trimming or a less radical (though more involved) surgery to remove the claws. Preferably, try to train your cat to use a scratching post."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers are excellent swimmers and do not avoid water."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats must have fat in their diet because they can't produce it on their own."
+  },
+  {
+    "type": "animals",
+    "fact": "Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died."
+  },
+  {
+    "type": "animals",
+    "fact": "In an average year, cat owners in the United States spend over $2 billion on cat food."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat cannot see directly under its nose."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found."
+  },
+  {
+    "type": "animals",
+    "fact": "Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year."
+  },
+  {
+    "type": "animals",
+    "fact": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "The female cat reaches sexual maturity at around 6 to 10 months and the male cat between 9 and 12 months."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs."
+  },
+  {
+    "type": "animals",
+    "fact": "Spaying a female before her first or second heat will greatly reduce the threat of mammary cancer and uterine disease. A cat does not need to have at least 1 litter to be healthy, nor will they \"miss\" motherhood. A tabby named \"Dusty\" gave birth to 420 documented kittens in her lifetime, while \"Kitty\" gave birth to 2 kittens at the age of 30, having given birth to a documented 218 kittens in her lifetime."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second."
+  },
+  {
+    "type": "animals",
+    "fact": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them."
+  },
+  {
+    "type": "animals",
+    "fact": "The life expectancy of cats has nearly doubled over the last fifty years."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "Heat occurs several times a year and can last anywhere from 3 to 15 days."
+  },
+  {
+    "type": "animals",
+    "fact": "Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours."
+  },
+  {
+    "type": "animals",
+    "fact": "A cats field of vision is about 185 degrees."
+  },
+  {
+    "type": "animals",
+    "fact": "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat."
+  },
+  {
+    "type": "animals",
+    "fact": "In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity."
+  },
+  {
+    "type": "animals",
+    "fact": "When a domestic cat goes after mice, about 1 pounce in 3 results in a catch."
+  },
+  {
+    "type": "animals",
+    "fact": "An adult cat has 30 teeth, 16 on the top and 14 on the bottom."
+  },
+  {
+    "type": "animals",
+    "fact": "Florence Nightingale owned more than 60 cats in her lifetime."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can jump 5 times as high as it is tall."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's normal temperature varies around 101 degrees Fahrenheit."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human being; humans have 206 and the cat has 230 bones."
+  },
+  {
+    "type": "animals",
+    "fact": "Milk can give some cats diarrhea."
+  },
+  {
+    "type": "animals",
+    "fact": "An adult lion's roar can be heard up to five miles (eight kilometers) away."
+  },
+  {
+    "type": "animals",
+    "fact": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Contrary to popular belief, people are not allergic to cat fur, dander, saliva, or urine - they are allergic to \"sebum,\" a fatty substance secreted by the cat's sebaceous glands. More interesting, someone who is allergic to one cat may not be allergic to another cat. Though there isn't (yet) a way of predicting which cat is more likely to cause allergic reactions, it has been proven that male cats shed much greater amounts of allergen than females. A neutered male, however, sheds much less than a non-neutered male."
+  },
+  {
+    "type": "animals",
+    "fact": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters)."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat has 500 skeletal muscles (humans have 650)."
+  },
+  {
+    "type": "animals",
+    "fact": "Ever wondered why kittens can all be different colours and look so different from their mums? The fact is that one in four pregnant cats carries kittens fathered by more than one mate. A fertile female may mate with several tom-cats, which fertilise different eggs each time."
+  },
+  {
+    "type": "animals",
+    "fact": "The ancestor of all domestic cats is the African Wild Cat which still exists today."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build."
+  },
+  {
+    "type": "animals",
+    "fact": "Never give your cat aspirin unless specifically prescribed by your veterinarian; it can be fatal. Never ever give Tylenol to a cat. And be sure to keep anti-freeze away from all animals - it's sweet and enticing, but deadly poison."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat sees about 6 times better than a human at night, and needs 1/6 the amount of of light that a human does - it has a layer of extra reflecting cells which absorb light."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months."
+  },
+  {
+    "type": "animals",
+    "fact": "In relation to their body size, cats have the largest eyes of any mammal."
+  },
+  {
+    "type": "animals",
+    "fact": "It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat bites are more likely to become infected than dog bites."
+  },
+  {
+    "type": "animals",
+    "fact": "If a cat is frightened, put your hand over its eyes and forehead, or let him bury his head in your armpit to help calm him."
+  },
+  {
+    "type": "animals",
+    "fact": "At 4 weeks, it is important to play with kittens so that they do not develope a fear of people."
+  },
+  {
+    "type": "animals",
+    "fact": "The average cat sleeps between 12-14 hours a day."
+  },
+  {
+    "type": "animals",
+    "fact": "The more cats are spoken to, the more they will speak back. You will learn a lot from your cat's wide vocabulary of chirps and meows."
+  },
+  {
+    "type": "animals",
+    "fact": "Ninety-two per cent of cats are \"Moggies\", or, non-pedigrees. How did the name \"Moggie\" come about? One theory holds that it comes from old English dialect, where \"Moggie\" was used to designate a loose woman or prostitute. It is thought that this name was given to cats because they mate repeatedly with different males when they are in season."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "type": "animals",
+    "fact": "The oldest cat on record was probably \"Puss\", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories."
+  },
+  {
+    "type": "animals",
+    "fact": "A female Amur leopard gives birth to one to four cubs in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "The first cat show was in 1871 at the Crystal Palace in London."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats lap liquid from the underside of their tongue, not from the top."
+  },
+  {
+    "type": "animals",
+    "fact": "When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl)."
+  },
+  {
+    "type": "animals",
+    "fact": "If your cat snores, or rolls over on his back to expose his belly, it means he trusts you."
+  },
+  {
+    "type": "animals",
+    "fact": "A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)"
+  },
+  {
+    "type": "animals",
+    "fact": "Cats walk on their toes."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully."
+  },
+  {
+    "type": "animals",
+    "fact": "About 37% of American homes today have at least 1 cat."
+  },
+  {
+    "type": "animals",
+    "fact": "A happy cat holds her tail high and steady."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog."
+  },
+  {
+    "type": "animals",
+    "fact": "Baking chocolate is the most dangerous chocolate to your cat."
+  },
+  {
+    "type": "animals",
+    "fact": "While many cats enjoy milk, it will give some cats diarrhea."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head."
+  },
+  {
+    "type": "animals",
+    "fact": "Fossil records from two million years ago show evidence of jaguars."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+  },
+  {
+    "type": "animals",
+    "fact": "A kitten will typically weigh about 3 ounces at birth. The typical male housecat will weigh between 7 and 9 pounds, slightly less for female housecats."
+  },
+  {
+    "type": "animals",
+    "fact": "Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning."
+  },
+  {
+    "type": "animals",
+    "fact": "Mature cats with no health problems are in deep sleep 15 percent of their lives. They are in light sleep 50 percent of the time. That leaves just 35 percent awake time, or roughly 6-8 hours a day."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages)."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat appears to be the only domestic companion animal not mentioned in the Bible."
+  },
+  {
+    "type": "animals",
+    "fact": "Ever wondered why kittens can all be different colours and look so different from their mums? The fact is that one in four pregnant cats carries kittens fathered by more than one mate. A fertile female may mate with several tom-cats, which fertilise different eggs each time."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways."
+  },
+  {
+    "type": "animals",
+    "fact": "A tortoiseshell is black with red or orange markings and a calico is white with patches of red, orange and black."
+  },
+  {
+    "type": "animals",
+    "fact": "Declawing a cat is the same as cutting a human's fingers off at the knuckle. There are several alternatives to a complete declawing, including trimming or a less radical (though more involved) surgery to remove the claws. Instead, train your cat to use a scratching post."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human; humans have 206, and the cat - 230."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's front paw has 5 toes and the back paws have 4. Cats born with 6 or 7 front toes and extra back toes are called polydactl."
+  },
+  {
+    "type": "animals",
+    "fact": "Stroking a cat can help to relieve stress, and the feel of a purring cat on your lap conveys a strong sense of security and comfort."
+  },
+  {
+    "type": "animals",
+    "fact": "In relation to their body size, cats have the largest eyes of any mammal."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million)."
+  },
+  {
+    "type": "animals",
+    "fact": "The life expectancy of cats has nearly doubled over the last fifty years."
+  },
+  {
+    "type": "animals",
+    "fact": "A domestic cat can sprint at about 31 miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be troublesome sources of irritation."
+  },
+  {
+    "type": "animals",
+    "fact": "The first breeding pair of Siamese cats arrived in England in 1884."
+  },
+  {
+    "type": "animals",
+    "fact": "Kittens remain with their mother till the age of 9 weeks."
+  },
+  {
+    "type": "animals",
+    "fact": "Not every cat gets \"high\" from catnip. If the cat doesn't have a specific gene, it won't react (about 20% do not have the gene). Catnip is non-addictive."
+  },
+  {
+    "type": "animals",
+    "fact": "Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC."
+  },
+  {
+    "type": "animals",
+    "fact": "Tomcats can mate at anytime, while quenns can only mate during a period of time called heat or estrus."
+  },
+  {
+    "type": "animals",
+    "fact": "The name \"jaguar\" comes from a Native American word meaning \"he who kills with one leap\"."
+  },
+  {
+    "type": "animals",
+    "fact": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats take between 20-40 breaths per minute."
+  },
+  {
+    "type": "animals",
+    "fact": "Blue-eyed, white cats are often prone to deafness."
+  },
+  {
+    "type": "animals",
+    "fact": "Some notable people who disliked cats: Napoleon Bonaparte, Dwight D. Eisenhower, Hitler."
+  },
+  {
+    "type": "animals",
+    "fact": "Has your cat ever brought its prey to your door? Cats do that because they regard their owners as their \"kittens.\" The cats are teaching their \"kittens\" how to hunt by bringing them food. Most people aren't too delighted when a pet brings in their kill. Instead of punishing your cat, praise it for its efforts, accept the prey, and then secretly throw it away."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats' hearing is much more sensitive than humans and dogs."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages)."
+  },
+  {
+    "type": "animals",
+    "fact": "Cheetahs do not roar, as the other big cats do. Instead, they purr."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats see six times better in the dark and at night than humans."
+  },
+  {
+    "type": "animals",
+    "fact": "The first true cats came into existence about 12 million years ago and were the Proailurus."
+  },
+  {
+    "type": "animals",
+    "fact": "A form of AIDS exists in cats."
+  },
+  {
+    "type": "animals",
+    "fact": "A healthy cat has a temperature between 38 and 39 degrees Celcius."
+  },
+  {
+    "type": "animals",
+    "fact": "There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside."
+  },
+  {
+    "type": "animals",
+    "fact": "An estimated 50% of today's cat owners never take their cats to a veterinarian for health care. Too, because cats tend to keep their problems to themselves, many owners think their cat is perfectly healthy when actually they may be suffering from a life-threatening disease. Therefore, cats, on an average, are much sicker than dogs by the time they are brought to your veterinarian for treatment."
+  },
+  {
+    "type": "animals",
+    "fact": "Contrary to popular belief, people are not allergic to cat fur, dander, saliva, or urine - they are allergic to \"sebum,\" a fatty substance secreted by the cat's sebaceous glands. More interesting, someone who is allergic to one cat may not be allergic to another cat. Though there isn't (yet) a way of predicting which cat is more likely to cause allergic reactions, it has been proven that male cats shed much greater amounts of allergen than females. A neutered male, however, sheds much less than a non-neutered male."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's field of vision is about 200 degrees."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have an average of 24 whiskers, arranged in four horizontal rows on each side."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats walk on their toes."
+  },
+  {
+    "type": "animals",
+    "fact": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year."
+  },
+  {
+    "type": "animals",
+    "fact": "The oldest cat on record was probably \"Puss\", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats must have fat in their diet because they can't produce it on their own."
+  },
+  {
+    "type": "animals",
+    "fact": "Recent studies have shown that cats can see blue and green. There is disagreement as to whether they can see red."
+  },
+  {
+    "type": "animals",
+    "fact": "Blue-eyed, pure white cats are frequently deaf."
+  },
+  {
+    "type": "animals",
+    "fact": "Female felines are \"superfecund,\" which means that each of the kittens in her litter can have a different father."
+  },
+  {
+    "type": "animals",
+    "fact": "The leopard is the most widespread of all big cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Why do people have cats? One survey that looked into the reasons people have cats found the following: companionship/comfort 27%, stress/blood pressure relief --22%, something to love/feel neededâ 9%, lifts depression/boosts moods 10%, subject of communication/stimulates interest 8%."
+  },
+  {
+    "type": "animals",
+    "fact": "A female Amur leopard gives birth to one to four cubs in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats respond most readily to names that end in an \"ee\" sound."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination."
+  },
+  {
+    "type": "animals",
+    "fact": "In multi-cat households, cats of the opposite sex usually get along better."
+  },
+  {
+    "type": "animals",
+    "fact": "People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better."
+  },
+  {
+    "type": "animals",
+    "fact": "Tigers are excellent swimmers and do not avoid water."
+  },
+  {
+    "type": "animals",
+    "fact": "The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years."
+  },
+  {
+    "type": "animals",
+    "fact": "Mature cats with no health problems are in deep sleep 15 percent of their lives. They are in light sleep 50 percent of the time. That leaves just 35 percent awake time, or roughly 6-8 hours a day."
+  },
+  {
+    "type": "animals",
+    "fact": "Many cats cannot properly digest cow's milk. Milk and milk products give them diarrhea."
+  },
+  {
+    "type": "animals",
+    "fact": "Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours."
+  },
+  {
+    "type": "animals",
+    "fact": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life."
+  },
+  {
+    "type": "animals",
+    "fact": "The largest breed of cat is the Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz."
+  },
+  {
+    "type": "animals",
+    "fact": "Every time you masturbate God kills a kitten. Please, think of the kittens."
+  },
+  {
+    "type": "animals",
+    "fact": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats often overract to unexpected stimuli because of their extremely sensitive nervous system."
+  },
+  {
+    "type": "animals",
+    "fact": "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat litter was \"invented\" in 1947 when Edward Lowe asked his neighbor to try a dried, granulated clay used to sop up grease spills in factories. (In 1990, Mr. Lowe sold his business for $200 million.)"
+  },
+  {
+    "type": "animals",
+    "fact": "There is a species of cat smaller than the average housecat. It is native to Africa and it is the Black-footed cat (Felis nigripes). Its top weight is 5.5 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz."
+  },
+  {
+    "type": "animals",
+    "fact": "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!"
+  },
+  {
+    "type": "animals",
+    "fact": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "The color of the points in Siamese cats is heat related. Cool areas are darker."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can sprint at about thirty-one miles per hour."
+  },
+  {
+    "type": "animals",
+    "fact": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's tongue has tiny barbs on it."
+  },
+  {
+    "type": "animals",
+    "fact": "In households in the UK and USA, there are more cats kept as pets than dogs. At least 35% of households with cats have 2 or more cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Spaying a female before her first or second heat will greatly reduce the threat of mammary cancer and uterine disease. A cat does not need to have at least 1 litter to be healthy, nor will they \"miss\" motherhood. A tabby named \"Dusty\" gave birth to 420 documented kittens in her lifetime, while \"Kitty\" gave birth to 2 kittens at the age of 30, having given birth to a documented 218 kittens in her lifetime."
+  },
+  {
+    "type": "animals",
+    "fact": "Jaguars are the only big cats that don't roar."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog."
+  },
+  {
+    "type": "animals",
+    "fact": "One un-neutered female cat can, in five years, be responsible for over 20,000 descendants. Female cats can have their first litter as young as six months and can have up to three litters each yearâwith five or six kittens in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "The average cat food meal is the equivalent to about five mice."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can jump up to 7 times their tail length."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can be prone to fleas in the summertime: 794 fleas were counted on one cat by a Cats Protection volunteer in the summer of 1 992."
+  },
+  {
+    "type": "animals",
+    "fact": "The Pilgrims were the first to introduce cats to North America."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 vertebrae--5 more than humans have."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can't taste sweets."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog."
+  },
+  {
+    "type": "animals",
+    "fact": "Today there are about 100 distinct breeds of the domestic cat."
+  },
+  {
+    "type": "animals",
+    "fact": "The cheetah is the world's fastest land mammal. It can run at speeds of up to 70 miles an hour (113 kilometers an hour)."
+  },
+  {
+    "type": "animals",
+    "fact": "Both humans and cats have identical regions in the brain responsible for emotion."
+  },
+  {
+    "type": "animals",
+    "fact": "In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity."
+  },
+  {
+    "type": "animals",
+    "fact": "The female cat reaches sexual maturity at around 6 to 10 months and the male cat between 9 and 12 months."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats bury their feces to cover their trails from predators."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has two vocal chords, and can make over 100 sounds."
+  },
+  {
+    "type": "animals",
+    "fact": "Studies now show that the allergen in cats is related to their scent glands. Cats have scent glands on their faces and at the base of their tails. Entire male cats generate the most scent. If this secretion from the scent glands is the allergen, allergic people should tolerate spayed female cats the best."
+  },
+  {
+    "type": "animals",
+    "fact": "The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years."
+  },
+  {
+    "type": "animals",
+    "fact": "A female Amur leopard gives birth to one to four cubs in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq."
+  },
+  {
+    "type": "animals",
+    "fact": "In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king."
+  },
+  {
+    "type": "animals",
+    "fact": "The first cat show was in 1871 at the Crystal Palace in London."
+  },
+  {
+    "type": "animals",
+    "fact": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life."
+  },
+  {
+    "type": "animals",
+    "fact": "The first true cats came into existence about 12 million years ago and were the Proailurus."
+  },
+  {
+    "type": "animals",
+    "fact": "The first official cat show in the UK was organised at Crystal Palace in 1871."
+  },
+  {
+    "type": "animals",
+    "fact": "Florence Nightingale owned more than 60 cats in her lifetime."
+  },
+  {
+    "type": "animals",
+    "fact": "Jaguars are the only big cats that don't roar."
+  },
+  {
+    "type": "animals",
+    "fact": "The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years."
+  },
+  {
+    "type": "animals",
+    "fact": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats' hearing is much more sensitive than humans and dogs."
+  },
+  {
+    "type": "animals",
+    "fact": "Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died."
+  },
+  {
+    "type": "animals",
+    "fact": "Lions are the only cats that live in groups, called prides. Every female within the pride is usually related."
+  },
+  {
+    "type": "animals",
+    "fact": "The more cats are spoken to, the more they will speak back. You will learn a lot from your cat's wide vocabulary of chirps and meows."
+  },
+  {
+    "type": "animals",
+    "fact": "The ancestor of all domestic cats is the African Wild Cat which still exists today."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat has 500 skeletal muscles (humans have 650)."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories."
+  },
+  {
+    "type": "animals",
+    "fact": "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can spend five or more hours a day grooming himself."
+  },
+  {
+    "type": "animals",
+    "fact": "The oldest cat on record was probably \"Puss\", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day."
+  },
+  {
+    "type": "animals",
+    "fact": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year."
+  },
+  {
+    "type": "animals",
+    "fact": "Not every cat gets \"high\" from catnip. If the cat doesn't have a specific gene, it won't react (about 20% do not have the gene). Catnip is non-addictive."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats respond most readily to names that end in an \"ee\" sound."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog."
+  },
+  {
+    "type": "animals",
+    "fact": "British cat owners spend roughly 550 million pounds yearly on cat food."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build."
+  },
+  {
+    "type": "animals",
+    "fact": "The first formal cat show was held in England in 1871; in America, in 1895."
+  },
+  {
+    "type": "animals",
+    "fact": "The life expectancy of cats has nearly doubled over the last fifty years."
+  },
+  {
+    "type": "animals",
+    "fact": "Normal body temperature for a cat is 102 degrees F."
+  },
+  {
+    "type": "animals",
+    "fact": "The Amur leopard is one of the most endangered animals in the world."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats can't taste sweets."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be troublesome sources of irritation."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have an average of 24 whiskers, arranged in four horizontal rows on each side."
+  },
+  {
+    "type": "animals",
+    "fact": "The ancient Egyptians were the first civilisation to realise the cat's potential as a vermin hunter and tamed cats to protect the corn supplies on which their lives depended."
+  },
+  {
+    "type": "animals",
+    "fact": "In households in the UK and USA, there are more cats kept as pets than dogs. At least 35% of households with cats have 2 or more cats."
+  },
+  {
+    "type": "animals",
+    "fact": "Contrary to popular belief, people are not allergic to cat fur, dander, saliva, or urine - they are allergic to \"sebum,\" a fatty substance secreted by the cat's sebaceous glands. More interesting, someone who is allergic to one cat may not be allergic to another cat. Though there isn't (yet) a way of predicting which cat is more likely to cause allergic reactions, it has been proven that male cats shed much greater amounts of allergen than females. A neutered male, however, sheds much less than a non-neutered male."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's front paw has 5 toes and the back paws have 4. Cats born with 6 or 7 front toes and extra back toes are called polydactl."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats should not be fed tuna exclusively, as it lacks taurine, an essential nutrient required for good feline health. Make sure you have the proper Pet supplies to keep your cat happy and healthy."
+  },
+  {
+    "type": "animals",
+    "fact": "In ancient Egypt, killing a cat was a crime punishable by death."
+  },
+  {
+    "type": "animals",
+    "fact": "The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called \"tabby\" by European traders."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat appears to be the only domestic companion animal not mentioned in the Bible."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat will spend nearly 30% of her life grooming herself."
+  },
+  {
+    "type": "animals",
+    "fact": "At 4 weeks, it is important to play with kittens so that they do not develope a fear of people."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats often overract to unexpected stimuli because of their extremely sensitive nervous system."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat will tremble or shiver when it is in extreme pain."
+  },
+  {
+    "type": "animals",
+    "fact": "Tomcats can mate at anytime, while quenns can only mate during a period of time called heat or estrus."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats must have fat in their diet because they can't produce it on their own."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's field of vision is about 200 degrees."
+  },
+  {
+    "type": "animals",
+    "fact": "Has your cat ever brought its prey to your door? Cats do that because they regard their owners as their \"kittens.\" The cats are teaching their \"kittens\" how to hunt by bringing them food. Most people aren't too delighted when a pet brings in their kill. Instead of punishing your cat, praise it for its efforts, accept the prey, and then secretly throw it away."
+  },
+  {
+    "type": "animals",
+    "fact": "One un-neutered female cat can, in five years, be responsible for over 20,000 descendants. Female cats can have their first litter as young as six months and can have up to three litters each yearâwith five or six kittens in each litter."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats dislike citrus scent."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited."
+  },
+  {
+    "type": "animals",
+    "fact": "A steady diet of dog food may cause blindness in your cat - it lacks taurine."
+  },
+  {
+    "type": "animals",
+    "fact": "There is a species of cat smaller than the average housecat. It is native to Africa and it is the Black-footed cat (Felis nigripes). Its top weight is 5.5 pounds."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat can jump 5 times as high as it is tall."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat cannot see directly under its nose."
+  },
+  {
+    "type": "animals",
+    "fact": "Heat occurs several times a year and can last anywhere from 3 to 15 days."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second."
+  },
+  {
+    "type": "animals",
+    "fact": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat."
+  },
+  {
+    "type": "animals",
+    "fact": "It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses."
+  },
+  {
+    "type": "animals",
+    "fact": "Female cats are \"polyestrous,\" which means they may have many heat periods over the course of a year. A heat period lasts about 4 to 7 days if the female is bred; if she is not, the heat period lasts longer and recurs at regular intervals."
+  },
+  {
+    "type": "animals",
+    "fact": "A happy cat holds her tail high and steady."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat's brain is more similar to a man's brain than that of a dog."
+  },
+  {
+    "type": "animals",
+    "fact": "Neutering a cat extends its life span by two or three years."
+  },
+  {
+    "type": "animals",
+    "fact": "The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail."
+  },
+  {
+    "type": "animals",
+    "fact": "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking."
+  },
+  {
+    "type": "animals",
+    "fact": "If your cat snores or rolls over on his back to expose his belly, it means he trusts you."
+  },
+  {
+    "type": "animals",
+    "fact": "In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs."
+  },
+  {
+    "type": "animals",
+    "fact": "Baking chocolate is the most dangerous chocolate to your cat."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's tail is used to maintain balance."
+  },
+  {
+    "type": "animals",
+    "fact": "Tylenol and chocolate are both poisonous to cats."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats lap liquid from the underside of their tongue, not from the top."
+  },
+  {
+    "type": "animals",
+    "fact": "Female felines are \"superfecund,\" which means that each of the kittens in her litter can have a different father."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly."
+  },
+  {
+    "type": "animals",
+    "fact": "The cat's footpads absorb the shocks of the landing when the cat jumps."
+  },
+  {
+    "type": "animals",
+    "fact": "Ailurophile is the word cat lovers are officially called."
+  },
+  {
+    "type": "animals",
+    "fact": "Kittens remain with their mother till the age of 9 weeks."
+  },
+  {
+    "type": "animals",
+    "fact": "Mature cats with no health problems are in deep sleep 15 percent of their lives. They are in light sleep 50 percent of the time. That leaves just 35 percent awake time, or roughly 6-8 hours a day."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has a total of 24 whiskers, 4 rows of whiskers on each side. The upper two rows can move independently of the bottom two rows."
+  },
+  {
+    "type": "animals",
+    "fact": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "A sexually-active feral tom-cat \"owns\" an area of about three square miles and \"sprays\" to mark his territory with strong smelling urine."
+  },
+  {
+    "type": "animals",
+    "fact": "Sir Isaac Newton is not only credited with the laws of gravity but is also credited with inventing the cat flap."
+  },
+  {
+    "type": "animals",
+    "fact": "A queen (female cat) can begin mating when she is between 5 and 9 months old."
+  },
+  {
+    "type": "animals",
+    "fact": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters)."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat uses its whiskers for measuring distances. The whiskers of a cat are capable of registering very small changes in air pressure."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats walk on their toes."
+  },
+  {
+    "type": "animals",
+    "fact": "Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months."
+  },
+  {
+    "type": "animals",
+    "fact": "A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages)."
+  },
+  {
+    "type": "animals",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  }
+]
