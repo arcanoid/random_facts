@@ -1,7 +1,15 @@
 [
   {
     "type": "math",
+    "fact": "111,111,111 * 111,111,111 = 12345678987654321"
+  },
+  {
+    "type": "math",
     "fact": "111,111,111 x 111,111,111 = 12,345,678,987,654,321"
+  },
+  {
+    "type": "math",
+    "fact": "Enter the value 0.1134 on your calculator, then turn it upside down. You've just written \"hello.\""
   },
   {
     "type": "math",
@@ -13,10 +21,6 @@
   },
   {
     "type": "math",
-    "fact": "The opposite sides of a dice cube always add up to seven."
-  },
-  {
-    "type": "math",
     "fact": "On a bingo card of ninety numbers there are approximately 44 possible ways to make bingo."
   },
   {
@@ -25,10 +29,6 @@
   },
   {
     "type": "math",
-    "fact": "111,111,111 * 111,111,111 = 12345678987654321"
-  },
-  {
-    "type": "math",
-    "fact": "Enter the value 0.1134 on your calculator, then turn it upside down. You've just written \"hello.\""
+    "fact": "The opposite sides of a dice cube always add up to seven."
   }
 ]

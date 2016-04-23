@@ -1,11 +1,7 @@
 [
   {
     "type": "movies",
-    "fact": "The movie \"Paris, Texas\" was banned in the city of Paris, Texas, shorty after its box office release."
-  },
-  {
-    "type": "movies",
-    "fact": "The name of the dog from The Grinch Who Stole Christmas is Max."
+    "fact": "About 55% of all movies are rated R."
   },
   {
     "type": "movies",
@@ -21,7 +17,7 @@
   },
   {
     "type": "movies",
-    "fact": "Melanie Griffith's mother is actress Tippi Hedren, best known for her lead role in Alfred Hitchcock's The Birds."
+    "fact": "In the Godfather movies, oranges represent an upcoming death."
   },
   {
     "type": "movies",
@@ -29,11 +25,7 @@
   },
   {
     "type": "movies",
-    "fact": "Wayne's World was filmed in two weeks."
-  },
-  {
-    "type": "movies",
-    "fact": "In the Godfather movies, oranges represent an upcoming death."
+    "fact": "Melanie Griffith's mother is actress Tippi Hedren, best known for her lead role in Alfred Hitchcock's The Birds."
   },
   {
     "type": "movies",
@@ -42,5 +34,17 @@
   {
     "type": "movies",
     "fact": "The first female monster to appear on the big screen was Bride of Frankenstein."
+  },
+  {
+    "type": "movies",
+    "fact": "The movie \"Paris, Texas\" was banned in the city of Paris, Texas, shorty after its box office release."
+  },
+  {
+    "type": "movies",
+    "fact": "The name of the dog from The Grinch Who Stole Christmas is Max."
+  },
+  {
+    "type": "movies",
+    "fact": "Wayne's World was filmed in two weeks."
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "type": "inventions",
-    "fact": "Thomas Crapper developed the flush toilet. In 1884, he simulated the materials a toilet would normally handle, to create “a super-flush which had completely cleared away: 10 apples, 1 flat sponge, 3 air vessels, Plumbers Smudge coated over the pan, 4 pieces of paper adhering closely to the soiled surface.” A fantastic feat of flushing!"
+    "fact": "A dentist invented the electric chair!!!"
   },
   {
     "type": "inventions",
@@ -9,11 +9,7 @@
   },
   {
     "type": "inventions",
-    "fact": "A dentist invented the electric chair!!!"
-  },
-  {
-    "type": "inventions",
-    "fact": "Thomas Edison, the inventor of the lightbulb, was actually afraid of the dark."
+    "fact": "Ethernet is a registered trademark of Xerox, Unix is a registered trademark of AT&T."
   },
   {
     "type": "inventions",
@@ -21,6 +17,22 @@
   },
   {
     "type": "inventions",
+    "fact": "Leonardo Da Vinci invented the scissors."
+  },
+  {
+    "type": "inventions",
+    "fact": "The cigarette lighter was invented before the match."
+  },
+  {
+    "type": "inventions",
     "fact": "The straw was probably invented by Egyptian brewers to taste in-process beer without removing the fermenting ingredients which floated on the top of the container."
+  },
+  {
+    "type": "inventions",
+    "fact": "Thomas Crapper developed the flush toilet. In 1884, he simulated the materials a toilet would normally handle, to create “a super-flush which had completely cleared away: 10 apples, 1 flat sponge, 3 air vessels, Plumbers Smudge coated over the pan, 4 pieces of paper adhering closely to the soiled surface.” A fantastic feat of flushing!"
+  },
+  {
+    "type": "inventions",
+    "fact": "Thomas Edison, the inventor of the lightbulb, was actually afraid of the dark."
   }
 ]

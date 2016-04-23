@@ -1,43 +1,7 @@
 [
   {
     "type": "grammar",
-    "fact": "The number of possible ways of playing the first four moves per side in a game of chess is 318,979,564,000."
-  },
-  {
-    "type": "grammar",
-    "fact": "The sentence 'The quick brown fox jumps over the lazy dog.' uses every letter in the alphabet. (Developed by Western Union to Test telex/two communications)"
-  },
-  {
-    "type": "grammar",
-    "fact": "The only 15 letter word that can be spelled without repeating a letter is 'uncopyrightable'."
-  },
-  {
-    "type": "grammar",
-    "fact": "Stewardesses' is the longest word that is typed with only the left hand."
-  },
-  {
-    "type": "grammar",
-    "fact": "No word in the English language rhymes with month, orange, silver, and purple."
-  },
-  {
-    "type": "grammar",
-    "fact": "'I am' is the shortest complete sentence in the English language."
-  },
-  {
-    "type": "grammar",
-    "fact": "The Hawaiian alphabet has 12 letters."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word \"queue\" is the only word in the English language that is still pronounced the same way when the last four letters are removed."
-  },
-  {
-    "type": "grammar",
-    "fact": "Of all the words in the English language, the word 'set' has the most definitions!"
-  },
-  {
-    "type": "grammar",
-    "fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France."
+    "fact": "\"A quick sly fox jumped over the lazy brown dog\" has every letter in the alphabet. So does \"The five boxing wizards jump quickly.\""
   },
   {
     "type": "grammar",
@@ -45,7 +9,87 @@
   },
   {
     "type": "grammar",
+    "fact": "\"Angry\" and \"hungry\" are the only words in the English language ending in \"-gry\" (although gry is a word, it does not *end* in -gry, since a suffix requires the word before it to be a word)"
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Bookkeeper\" and \"bookkeeping\" are the only words in the English language with three consecutive double letters."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Capnomancy\" is the observation of smoke to tell the future. Often the smoke is from the burning of poppy seeds."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Corduroy\" comes from the French, \"cord du roi\" or \"cloth of the king.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Evian\" spelled backvards is naive."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"John has a long moustache\" was the coded-signal used by the French Resistance in WWII to mobilize their forces once the Allies had landed on the Normandy beaches."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Polish\" is the only word in the English language that when capitalized is changed from a noun or a verb to a nationality."
+  },
+  {
+    "type": "grammar",
     "fact": "\"Rhythm\" is the longest English word without a vowel."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Xmas\" does not begin with the Roman letter X. It begins with the Greek letter \"chi,\" which was used in medieval manuscripts as an abbreviation for the word \"Christ\" (xus = christus, etc.)"
+  },
+  {
+    "type": "grammar",
+    "fact": "'Cash Lost In 'Em' is an anagram of 'Slot Machines'"
+  },
+  {
+    "type": "grammar",
+    "fact": "'I am' is the shortest complete sentence in the English language."
+  },
+  {
+    "type": "grammar",
+    "fact": "A palindrome is a word that is spelled the same way from both ends. For example: racecar"
+  },
+  {
+    "type": "grammar",
+    "fact": "Avocado is derived from the Spanish word 'aguacate' which is derived from 'ahuacatl' meaning testicle."
+  },
+  {
+    "type": "grammar",
+    "fact": "Charles de Gaulle's final words were, \"It hurts.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "Did you know that the word “typewriter” is the longest word in the English Language that can be spelled with the the top of the keyboard?"
+  },
+  {
+    "type": "grammar",
+    "fact": "Dublin comes from the Irish Dubh Linn which means Blackpool"
+  },
+  {
+    "type": "grammar",
+    "fact": "Facetious, abstemious and arsenious contain all the vowels in the correct order."
+  },
+  {
+    "type": "grammar",
+    "fact": "Gatorade was named for the University of Florida Gators where it was first developed."
+  },
+  {
+    "type": "grammar",
+    "fact": "HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA is the fear of long words."
+  },
+  {
+    "type": "grammar",
+    "fact": "Hydroxydesoxycorticosterone and hydroxydeoxycorticosterones are the largest anagrams."
+  },
+  {
+    "type": "grammar",
+    "fact": "In almost every language on earth, the word for Mother begins with the letter 'M'."
   },
   {
     "type": "grammar",
@@ -53,19 +97,27 @@
   },
   {
     "type": "grammar",
-    "fact": "The French language has seventeen different words for ‘surrender’."
-  },
-  {
-    "type": "grammar",
-    "fact": "“I”, the first person singular, is capitalized in English – the only language to do so."
-  },
-  {
-    "type": "grammar",
     "fact": "It has been estimated that the number of actively spoken languages in the world today is about 6,000."
   },
   {
     "type": "grammar",
-    "fact": "There is no word that rhymes with orange."
+    "fact": "Lucifer is latin for \"Light Bringer\". It is a translation of the Hebrew name for Satan, Halael. Satan means \"adversary\", devil means \"liar\"."
+  },
+  {
+    "type": "grammar",
+    "fact": "No word in the English language rhymes with month, orange, silver, and purple."
+  },
+  {
+    "type": "grammar",
+    "fact": "No words in the English language rhyme with orange, silver or purple."
+  },
+  {
+    "type": "grammar",
+    "fact": "Of all the words in the English language, the word 'set' has the most definitions!"
+  },
+  {
+    "type": "grammar",
+    "fact": "Only two states' names begin with double consonants: Florida and Rhode Island."
   },
   {
     "type": "grammar",
@@ -73,7 +125,227 @@
   },
   {
     "type": "grammar",
+    "fact": "Polish is the only word in the english language that has two completely different meanings when the first letter is capitalized."
+  },
+  {
+    "type": "grammar",
+    "fact": "S.O.S. doesn't stand for \"Save Our Ship\" or \"Save Our Souls\" -- It was just chosen by an 1908 international conference on Morse Code because the letters S and O were easy to remember and just about anyone could key it and read it, S = dot dot dot, O = dash dash dash."
+  },
+  {
+    "type": "grammar",
+    "fact": "Scottish is the language called Gaelic, whereas Irish is actually called Gaeilge."
+  },
+  {
+    "type": "grammar",
+    "fact": "Someone who thinks constantly and anxiously about his or her health can be called a \"valetudinarian.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "Stewardesses' is the longest word that is typed with only the left hand."
+  },
+  {
+    "type": "grammar",
+    "fact": "Switching letters is called spoonerism. For example, saying jag of Flapan, instead of flag of Japan."
+  },
+  {
+    "type": "grammar",
+    "fact": "The \"D\" in D-day means \"Day\". The French term for \"D-Day\" is \"J-jour\"."
+  },
+  {
+    "type": "grammar",
+    "fact": "The Egyptian hieroglyph for 100,000 is a tadpole."
+  },
+  {
+    "type": "grammar",
+    "fact": "The French language has seventeen different words for ‘surrender’."
+  },
+  {
+    "type": "grammar",
+    "fact": "The Hawaiian alphabet has 12 letters."
+  },
+  {
+    "type": "grammar",
+    "fact": "The Sanskrit word for \"war\" means \"desire for more cows.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The abbrevation \"PDX\" (Portland International Airport) is derived from \"P\" standing for Portland and \"DX\" meaning long distance or wide reaching."
+  },
+  {
+    "type": "grammar",
+    "fact": "The abbreviation \"ORD\" for Chicago's O'Hare airport comes from the old name \"Orchard Field.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The ampersand (&) is actually a stylised version of the Latin word \"et,\" meaning \"and.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra's \"Its A Wonderful Life\"."
+  },
+  {
+    "type": "grammar",
+    "fact": "The combination \"ough\" can be pronounced in ten different ways. The following sentence contains them all: \"A rough-coated, dough-faced, thoughtful ploughman swam through the lough at Scarborough; after falling into a slough, he coughed and hiccoughed.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The following capital letters are the same when viewed upside down: H, I, N, O, S, X, Z"
+  },
+  {
+    "type": "grammar",
+    "fact": "The heraldic term \"gules\", meaning red, comes from the French word \"gueules,\" meaning a throat."
+  },
+  {
+    "type": "grammar",
+    "fact": "The highest scoring word in the English language game of Scrabble is 'Quartzy'. This will score 164 points if played across a red triple-word square with the Z on a light blue double-letter square. It will score 162 points if played across two pink double-word squares with the Q and the Y on those squares. 'Bezique' and 'Cazique' are next with a possible 161 points. All three words score an extra 50 points for having seven letters and therefore emptying the letter rack in one go."
+  },
+  {
+    "type": "grammar",
+    "fact": "The holiday Boxing day was originally celebrated in England,for the servants to the rich people. After chrismas,the servants “boxed up” all the left-overs from the rich people and bring them home."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter W is the only letter in the alphabet that doesn't have one syllable, it has three."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter Z is only used in words more that five letters when two vowels are present."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letters in the abbreviation e.g. stand for exempli gratia a Latin term meaning \"for example.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The longest English word that can be typed using the top row of a typewriter (allowing multiple uses of letters) is 'typewriter.'"
+  },
+  {
+    "type": "grammar",
+    "fact": "The longest time someone has typed on a typewriter continuously is 264 hours, set by Violet Gibson Burns."
+  },
+  {
+    "type": "grammar",
+    "fact": "The longest word in the English language is Pneumonoultramicroscopicsilicovolcanoconiosis"
+  },
+  {
+    "type": "grammar",
+    "fact": "The longest word in the English language, according to the Oxford English Dictionary, is pneumonoultramicroscopicsilicovolcanoconiosis. The only other word with the same amount of letters is pneumonoultramicroscopicsilicovolcanoconioses, the plural form."
+  },
+  {
+    "type": "grammar",
     "fact": "The most common letters in English are R S T L N E."
+  },
+  {
+    "type": "grammar",
+    "fact": "The naval rank of \"Admiral\" is derived from the Arabic phrase \"amir al bahr,\" which means \"lord of the sea\"."
+  },
+  {
+    "type": "grammar",
+    "fact": "The number of possible ways of playing the first four moves per side in a game of chess is 318,979,564,000."
+  },
+  {
+    "type": "grammar",
+    "fact": "The oldest word in the English language is \"town.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The only 15 letter word that can be spelled without repeating a letter is 'uncopyrightable'."
+  },
+  {
+    "type": "grammar",
+    "fact": "The only 15 letter word that can be spelled without repeating a letter is uncopyrightable."
+  },
+  {
+    "type": "grammar",
+    "fact": "The only capital letter in the Roman alphabet with exactly one endpoint is P."
+  },
+  {
+    "type": "grammar",
+    "fact": "The second longest word in the English language is \"antidisestablishmenterianism\"."
+  },
+  {
+    "type": "grammar",
+    "fact": "The sentence 'The quick brown fox jumps over the lazy dog.' uses every letter in the alphabet. (Developed by Western Union to Test telex/two communications)"
+  },
+  {
+    "type": "grammar",
+    "fact": "The shortest 5 syllable word in the english language is ideology."
+  },
+  {
+    "type": "grammar",
+    "fact": "The slash character is called a virgule, or solidus. A URL uses slash characters, not back slash characters."
+  },
+  {
+    "type": "grammar",
+    "fact": "The verb \"cleave\" is the only English word with two synonyms which are antonyms of each other: adhere and separate."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word \"moose\" was originally Algonquin."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word \"queue\" is the only word in the English language that is still pronounced the same way when the last four letters are removed."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word \"robot\" was created by Karel Capek. It came from Czech/Slovak \"robotovat,\" which means to work very hard."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word 'pixel' is a contraction of either 'picture cell' or 'picture element.'"
+  },
+  {
+    "type": "grammar",
+    "fact": "The word denim comes from 'de Nimes', or from Nimes, a place in France."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word electricity comes from the Greek word ELECTRON, for amber"
+  },
+  {
+    "type": "grammar",
+    "fact": "The word monsoon is derived from the Arabic word mausim, meaning \"season.\" It was first used by Arab sailors to describe the seasonal winds that blow across the Arabian Sea."
+  },
+  {
+    "type": "grammar",
+    "fact": "The word photography is derived from two Greek words for \"writing\" and \"light.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The word skeleton comes from the Ancient Greek word for dry"
+  },
+  {
+    "type": "grammar",
+    "fact": "The words 'sacrilegious' and 'religion' do not share the same etymological root."
+  },
+  {
+    "type": "grammar",
+    "fact": "The youngest letters in the English language are \"j,\" \"v\" and \"w.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "There are four states where the first letter of the capital city is the same letter as the first letter of the state: Dover, Delaware; Honolulu, Hawaii; Indianapolis, Indiana; and Oklahoma City, Oklahoma."
+  },
+  {
+    "type": "grammar",
+    "fact": "There are only 12 letters in the Hawaiian alphabet: a e i o u h k l m n p w"
+  },
+  {
+    "type": "grammar",
+    "fact": "There are only four words in the English language which end in \"-dous\": tremendous, horrendous, stupendous, and hazardous."
+  },
+  {
+    "type": "grammar",
+    "fact": "There are only three world capitals that begin with the letter \"O\" in English: Ottawa, Canada; Oslo, Norway; and Ouagadougou, Burkina Faso."
+  },
+  {
+    "type": "grammar",
+    "fact": "There is a word in the English language with only one vowel, which occurs six times: Indivisibility."
+  },
+  {
+    "type": "grammar",
+    "fact": "There is no word that rhymes with orange."
   },
   {
     "type": "grammar",
@@ -85,251 +357,7 @@
   },
   {
     "type": "grammar",
-    "fact": "Did you know that the word “typewriter” is the longest word in the English Language that can be spelled with the the top of the keyboard?"
-  },
-  {
-    "type": "grammar",
-    "fact": "You speak about 4,800 words a day."
-  },
-  {
-    "type": "grammar",
-    "fact": "HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA is the fear of long words."
-  },
-  {
-    "type": "grammar",
-    "fact": "The holiday Boxing day was originally celebrated in England,for the servants to the rich people. After chrismas,the servants “boxed up” all the left-overs from the rich people and bring them home."
-  },
-  {
-    "type": "grammar",
-    "fact": "A palindrome is a word that is spelled the same way from both ends. For example: racecar"
-  },
-  {
-    "type": "grammar",
-    "fact": "The letter Z is only used in words more that five letters when two vowels are present."
-  },
-  {
-    "type": "grammar",
-    "fact": "In almost every language on earth, the word for Mother begins with the letter 'M'."
-  },
-  {
-    "type": "grammar",
-    "fact": "The following capital letters are the same when viewed upside down: H, I, N, O, S, X, Z"
-  },
-  {
-    "type": "grammar",
-    "fact": "The word denim comes from 'de Nimes', or from Nimes, a place in France."
-  },
-  {
-    "type": "grammar",
-    "fact": "Dublin comes from the Irish Dubh Linn which means Blackpool"
-  },
-  {
-    "type": "grammar",
-    "fact": "Scottish is the language called Gaelic, whereas Irish is actually called Gaeilge."
-  },
-  {
-    "type": "grammar",
-    "fact": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra's \"Its A Wonderful Life\"."
-  },
-  {
-    "type": "grammar",
-    "fact": "No words in the English language rhyme with orange, silver or purple."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Evian\" spelled backvards is naive."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Bookkeeper\" and \"bookkeeping\" are the only words in the English language with three consecutive double letters."
-  },
-  {
-    "type": "grammar",
-    "fact": "There are only 12 letters in the Hawaiian alphabet: a e i o u h k l m n p w"
-  },
-  {
-    "type": "grammar",
-    "fact": "Charles de Gaulle's final words were, \"It hurts.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The words 'sacrilegious' and 'religion' do not share the same etymological root."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"John has a long moustache\" was the coded-signal used by the French Resistance in WWII to mobilize their forces once the Allies had landed on the Normandy beaches."
-  },
-  {
-    "type": "grammar",
-    "fact": "Gatorade was named for the University of Florida Gators where it was first developed."
-  },
-  {
-    "type": "grammar",
-    "fact": "There are four states where the first letter of the capital city is the same letter as the first letter of the state: Dover, Delaware; Honolulu, Hawaii; Indianapolis, Indiana; and Oklahoma City, Oklahoma."
-  },
-  {
-    "type": "grammar",
-    "fact": "S.O.S. doesn't stand for \"Save Our Ship\" or \"Save Our Souls\" -- It was just chosen by an 1908 international conference on Morse Code because the letters S and O were easy to remember and just about anyone could key it and read it, S = dot dot dot, O = dash dash dash."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word \"moose\" was originally Algonquin."
-  },
-  {
-    "type": "grammar",
-    "fact": "The Sanskrit word for \"war\" means \"desire for more cows.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The youngest letters in the English language are \"j,\" \"v\" and \"w.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The longest English word that can be typed using the top row of a typewriter (allowing multiple uses of letters) is 'typewriter.'"
-  },
-  {
-    "type": "grammar",
-    "fact": "Avocado is derived from the Spanish word 'aguacate' which is derived from 'ahuacatl' meaning testicle."
-  },
-  {
-    "type": "grammar",
-    "fact": "The Egyptian hieroglyph for 100,000 is a tadpole."
-  },
-  {
-    "type": "grammar",
-    "fact": "Only two states' names begin with double consonants: Florida and Rhode Island."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Xmas\" does not begin with the Roman letter X. It begins with the Greek letter \"chi,\" which was used in medieval manuscripts as an abbreviation for the word \"Christ\" (xus = christus, etc.)"
-  },
-  {
-    "type": "grammar",
-    "fact": "The ampersand (&) is actually a stylised version of the Latin word \"et,\" meaning \"and.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The only capital letter in the Roman alphabet with exactly one endpoint is P."
-  },
-  {
-    "type": "grammar",
-    "fact": "There are only four words in the English language which end in \"-dous\": tremendous, horrendous, stupendous, and hazardous."
-  },
-  {
-    "type": "grammar",
-    "fact": "The longest word in the English language, according to the Oxford English Dictionary, is pneumonoultramicroscopicsilicovolcanoconiosis. The only other word with the same amount of letters is pneumonoultramicroscopicsilicovolcanoconioses, the plural form."
-  },
-  {
-    "type": "grammar",
-    "fact": "The longest time someone has typed on a typewriter continuously is 264 hours, set by Violet Gibson Burns."
-  },
-  {
-    "type": "grammar",
-    "fact": "Hydroxydesoxycorticosterone and hydroxydeoxycorticosterones are the largest anagrams."
-  },
-  {
-    "type": "grammar",
-    "fact": "The oldest word in the English language is \"town.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "There is a word in the English language with only one vowel, which occurs six times: Indivisibility."
-  },
-  {
-    "type": "grammar",
-    "fact": "The heraldic term \"gules\", meaning red, comes from the French word \"gueules,\" meaning a throat."
-  },
-  {
-    "type": "grammar",
-    "fact": "The \"D\" in D-day means \"Day\". The French term for \"D-Day\" is \"J-jour\"."
-  },
-  {
-    "type": "grammar",
-    "fact": "Lucifer is latin for \"Light Bringer\". It is a translation of the Hebrew name for Satan, Halael. Satan means \"adversary\", devil means \"liar\"."
-  },
-  {
-    "type": "grammar",
-    "fact": "The second longest word in the English language is \"antidisestablishmenterianism\"."
-  },
-  {
-    "type": "grammar",
-    "fact": "When two words are combined to form a single word (e.g., motor + hotel = motel, breakfast + lunch = brunch) the new word is called a \"portmanteau.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The naval rank of \"Admiral\" is derived from the Arabic phrase \"amir al bahr,\" which means \"lord of the sea\"."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word 'pixel' is a contraction of either 'picture cell' or 'picture element.'"
-  },
-  {
-    "type": "grammar",
-    "fact": "The letter W is the only letter in the alphabet that doesn't have one syllable, it has three."
-  },
-  {
-    "type": "grammar",
-    "fact": "The highest scoring word in the English language game of Scrabble is 'Quartzy'. This will score 164 points if played across a red triple-word square with the Z on a light blue double-letter square. It will score 162 points if played across two pink double-word squares with the Q and the Y on those squares. 'Bezique' and 'Cazique' are next with a possible 161 points. All three words score an extra 50 points for having seven letters and therefore emptying the letter rack in one go."
-  },
-  {
-    "type": "grammar",
-    "fact": "The only 15 letter word that can be spelled without repeating a letter is uncopyrightable."
-  },
-  {
-    "type": "grammar",
-    "fact": "The slash character is called a virgule, or solidus. A URL uses slash characters, not back slash characters."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Corduroy\" comes from the French, \"cord du roi\" or \"cloth of the king.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The abbreviation \"ORD\" for Chicago's O'Hare airport comes from the old name \"Orchard Field.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "There are only three world capitals that begin with the letter \"O\" in English: Ottawa, Canada; Oslo, Norway; and Ouagadougou, Burkina Faso."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Polish\" is the only word in the English language that when capitalized is changed from a noun or a verb to a nationality."
-  },
-  {
-    "type": "grammar",
     "fact": "U V W X Y are the symmetric capital letters in the Roman alphabet."
-  },
-  {
-    "type": "grammar",
-    "fact": "i l o t u v w x are the symmetric lower case letters in the Roman alphabet."
-  },
-  {
-    "type": "grammar",
-    "fact": "Switching letters is called spoonerism. For example, saying jag of Flapan, instead of flag of Japan."
-  },
-  {
-    "type": "grammar",
-    "fact": "The abbrevation \"PDX\" (Portland International Airport) is derived from \"P\" standing for Portland and \"DX\" meaning long distance or wide reaching."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word \"robot\" was created by Karel Capek. It came from Czech/Slovak \"robotovat,\" which means to work very hard."
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Angry\" and \"hungry\" are the only words in the English language ending in \"-gry\" (although gry is a word, it does not *end* in -gry, since a suffix requires the word before it to be a word)"
-  },
-  {
-    "type": "grammar",
-    "fact": "Polish is the only word in the english language that has two completely different meanings when the first letter is capitalized."
-  },
-  {
-    "type": "grammar",
-    "fact": "The longest word in the English language is Pneumonoultramicroscopicsilicovolcanoconiosis"
-  },
-  {
-    "type": "grammar",
-    "fact": "The shortest 5 syllable word in the english language is ideology."
   },
   {
     "type": "grammar",
@@ -337,22 +365,22 @@
   },
   {
     "type": "grammar",
-    "fact": "The combination \"ough\" can be pronounced in ten different ways. The following sentence contains them all: \"A rough-coated, dough-faced, thoughtful ploughman swam through the lough at Scarborough; after falling into a slough, he coughed and hiccoughed.\""
+    "fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France."
   },
   {
     "type": "grammar",
-    "fact": "The verb \"cleave\" is the only English word with two synonyms which are antonyms of each other: adhere and separate."
+    "fact": "When two words are combined to form a single word (e.g., motor + hotel = motel, breakfast + lunch = brunch) the new word is called a \"portmanteau.\""
   },
   {
     "type": "grammar",
-    "fact": "Facetious, abstemious and arsenious contain all the vowels in the correct order."
+    "fact": "You speak about 4,800 words a day."
   },
   {
     "type": "grammar",
-    "fact": "\"A quick sly fox jumped over the lazy brown dog\" has every letter in the alphabet. So does \"The five boxing wizards jump quickly.\""
+    "fact": "i l o t u v w x are the symmetric lower case letters in the Roman alphabet."
   },
   {
     "type": "grammar",
-    "fact": "'Cash Lost In 'Em' is an anagram of 'Slot Machines'"
+    "fact": "“I”, the first person singular, is capitalized in English – the only language to do so."
   }
 ]

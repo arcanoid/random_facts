@@ -1,19 +1,15 @@
 [
   {
     "type": "records",
-    "fact": "The largest baby to be born so far weighed in at 15 pounds, 5 ounces!"
+    "fact": "Did you know that there is a world record for seeing how many times you can attempt a world record?!"
   },
   {
     "type": "records",
-    "fact": "Sir Edmund was the first to climb Mt. Everest and return back."
+    "fact": "Did you know that there is a world record for seeing how many times you can attempt a world record?!!"
   },
   {
     "type": "records",
-    "fact": "The tallest man in this world was Robert Wadlow, a chinese man who was 7’1″ tall!"
-  },
-  {
-    "type": "records",
-    "fact": "The loudest sound in history was recorded in July 1883 when a volcano on the tiny Indian Ocean island of Krakatau erupted. The explosion was heard 3,000 miles away in Madagascar. Ash clouds shot 25 miles into the sky. The eruption also created giant tsunami, sea waves, that reached heights of 175 feet, speeding across the ocean at 400 miles an hour and destroyed over 300 towns."
+    "fact": "Hans Langseth had the longest beard at a record length of 17 1/2 feet long! When he died, his beard was given to the Smithsonian Institute."
   },
   {
     "type": "records",
@@ -25,11 +21,11 @@
   },
   {
     "type": "records",
-    "fact": "Hans Langseth had the longest beard at a record length of 17 1/2 feet long! When he died, his beard was given to the Smithsonian Institute."
+    "fact": "Sir Edmund was the first to climb Mt. Everest and return back."
   },
   {
     "type": "records",
-    "fact": "Wilt Chamberlain scored 100 points in a basketball game in 1962, when he played for the Philadelphia Warriors."
+    "fact": "The largest baby to be born so far weighed in at 15 pounds, 5 ounces!"
   },
   {
     "type": "records",
@@ -45,7 +41,15 @@
   },
   {
     "type": "records",
-    "fact": "Did you know that there is a world record for seeing how many times you can attempt a world record?!"
+    "fact": "The loudest sound in history was recorded in July 1883 when a volcano on the tiny Indian Ocean island of Krakatau erupted. The explosion was heard 3,000 miles away in Madagascar. Ash clouds shot 25 miles into the sky. The eruption also created giant tsunami, sea waves, that reached heights of 175 feet, speeding across the ocean at 400 miles an hour and destroyed over 300 towns."
+  },
+  {
+    "type": "records",
+    "fact": "The record for most snowfall in a day, 78 inches, was made on February 7, 1916 in Alaska."
+  },
+  {
+    "type": "records",
+    "fact": "The tallest man in this world was Robert Wadlow, a chinese man who was 7’1″ tall!"
   },
   {
     "type": "records",
@@ -53,10 +57,6 @@
   },
   {
     "type": "records",
-    "fact": "Did you know that there is a world record for seeing how many times you can attempt a world record?!!"
-  },
-  {
-    "type": "records",
-    "fact": "The record for most snowfall in a day, 78 inches, was made on February 7, 1916 in Alaska."
+    "fact": "Wilt Chamberlain scored 100 points in a basketball game in 1962, when he played for the Philadelphia Warriors."
   }
 ]

@@ -1,19 +1,7 @@
 [
   {
     "type": "history",
-    "fact": "King George I of England could not speak English; he was born and raised in Germany. He let his ministers run the country to get around this problem."
-  },
-  {
-    "type": "history",
-    "fact": "In ancient Scotland, every leap year maidens were allowed to ask a man to be her husband, refusal cost him a pound."
-  },
-  {
-    "type": "history",
-    "fact": "Yo-yos were used as weapons by warriors in the Philippines in the 16th century."
-  },
-  {
-    "type": "history",
-    "fact": "The first known contraceptive was crocodile dung, used by Egyptians in 2000 B.C."
+    "fact": "Britain's present royal family was originally named Saxe-Coburg and Gotha. The name was changed in 1917, during WW1 because of German connotations. The name Windsor was suggested by one of the staff. At the same time the Battenberg family name of the cousins to the Windsors was changed into Mountbatten."
   },
   {
     "type": "history",
@@ -21,15 +9,7 @@
   },
   {
     "type": "history",
-    "fact": "Britain's present royal family was originally named Saxe-Coburg and Gotha. The name was changed in 1917, during WW1 because of German connotations. The name Windsor was suggested by one of the staff. At the same time the Battenberg family name of the cousins to the Windsors was changed into Mountbatten."
-  },
-  {
-    "type": "history",
     "fact": "Fourteenth century physicians didn't know what caused the plague, but they knew it was contagious. As a result they wore an early kind of bioprotective suit which included a large beaked head piece. The beak of the head piece, which made them look like large birds, was filled with vinegar, sweet oils and other strong smelling compounds to counteract the stench of the dead and dying plague victims"
-  },
-  {
-    "type": "history",
-    "fact": "In England and the American colonies they year 1752 only had 354 days. In that year, the type of calendar was changed, and 11 days were lost."
   },
   {
     "type": "history",
@@ -37,7 +17,27 @@
   },
   {
     "type": "history",
+    "fact": "In 1797 James Hetherington inventented the top hat and wore it in public. He was arrested for disturbing the peace"
+  },
+  {
+    "type": "history",
+    "fact": "In England and the American colonies they year 1752 only had 354 days. In that year, the type of calendar was changed, and 11 days were lost."
+  },
+  {
+    "type": "history",
+    "fact": "In ancient Scotland, every leap year maidens were allowed to ask a man to be her husband, refusal cost him a pound."
+  },
+  {
+    "type": "history",
+    "fact": "King George I of England could not speak English; he was born and raised in Germany. He let his ministers run the country to get around this problem."
+  },
+  {
+    "type": "history",
     "fact": "Members of the Nazi SS had their blood type tattooed on their armpits"
+  },
+  {
+    "type": "history",
+    "fact": "Murders have claimed more American lives during the 20th century than wars have"
   },
   {
     "type": "history",
@@ -57,27 +57,15 @@
   },
   {
     "type": "history",
-    "fact": "The 1st 20 African slaves were brought to the US, to the colony of Virginia in 1619, by a Dutch ship"
-  },
-  {
-    "type": "history",
     "fact": "Richard Nixon was the 1st US president to visit China in February, 1972"
   },
   {
     "type": "history",
-    "fact": "The first country to abolish capital punishment was Austria in 1787."
+    "fact": "The 1st 20 African slaves were brought to the US, to the colony of Virginia in 1619, by a Dutch ship"
   },
   {
     "type": "history",
-    "fact": "The first modern Olympiad was held in Athens in 1896. 484 contestants from 13 nations participated."
-  },
-  {
-    "type": "history",
-    "fact": "The first-known contraceptive was crocodile dung, used by Egyptians in 2000 BC"
-  },
-  {
-    "type": "history",
-    "fact": "The longest reigning monarch in history was Pepi II, who ruled Egypt for 90 years; 2566 to 2476 BC. The second longest was France's Louis XIV, who ruled for 72 years, 1643 to 1715"
+    "fact": "The Mayan Empire lasted six times as long as the Roman Empire"
   },
   {
     "type": "history",
@@ -97,23 +85,7 @@
   },
   {
     "type": "history",
-    "fact": "The worldwide \"Spanish Flu\" epidemic which broke out in 1918 killed more than 30 million people in less than a year's time."
-  },
-  {
-    "type": "history",
-    "fact": "Yellowstone is the world's 1st national park. It was dedicated in 1872."
-  },
-  {
-    "type": "history",
-    "fact": "The swastika was origionaly a symbol of peace and honor and is still used by Buddhists today"
-  },
-  {
-    "type": "history",
-    "fact": "The Mayan Empire lasted six times as long as the Roman Empire"
-  },
-  {
-    "type": "history",
-    "fact": "In 1797 James Hetherington inventented the top hat and wore it in public. He was arrested for disturbing the peace"
+    "fact": "The battle of Waterloo was fought in Pancenoit, 4 miles away"
   },
   {
     "type": "history",
@@ -125,10 +97,38 @@
   },
   {
     "type": "history",
-    "fact": "Murders have claimed more American lives during the 20th century than wars have"
+    "fact": "The first country to abolish capital punishment was Austria in 1787."
   },
   {
     "type": "history",
-    "fact": "The battle of Waterloo was fought in Pancenoit, 4 miles away"
+    "fact": "The first known contraceptive was crocodile dung, used by Egyptians in 2000 B.C."
+  },
+  {
+    "type": "history",
+    "fact": "The first modern Olympiad was held in Athens in 1896. 484 contestants from 13 nations participated."
+  },
+  {
+    "type": "history",
+    "fact": "The first-known contraceptive was crocodile dung, used by Egyptians in 2000 BC"
+  },
+  {
+    "type": "history",
+    "fact": "The longest reigning monarch in history was Pepi II, who ruled Egypt for 90 years; 2566 to 2476 BC. The second longest was France's Louis XIV, who ruled for 72 years, 1643 to 1715"
+  },
+  {
+    "type": "history",
+    "fact": "The swastika was origionaly a symbol of peace and honor and is still used by Buddhists today"
+  },
+  {
+    "type": "history",
+    "fact": "The worldwide \"Spanish Flu\" epidemic which broke out in 1918 killed more than 30 million people in less than a year's time."
+  },
+  {
+    "type": "history",
+    "fact": "Yellowstone is the world's 1st national park. It was dedicated in 1872."
+  },
+  {
+    "type": "history",
+    "fact": "Yo-yos were used as weapons by warriors in the Philippines in the 16th century."
   }
 ]

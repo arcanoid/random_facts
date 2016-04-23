@@ -1,23 +1,59 @@
 [
   {
     "type": "religion",
-    "fact": "The first drunk to appear in the bible was Noah."
+    "fact": "A Bible published in England in 1632 missed out the word 'not' in the seventh Commandment, making it 'Thou shalt commit adultery'. It became known as 'The Wicked Bible'."
   },
   {
     "type": "religion",
-    "fact": "The first complete version of the bible actually printed in English was the Coverdale Bible in 1535 compiled by Myles Coverdale."
+    "fact": "According to the Bible, there are 12 pearly gates."
   },
   {
     "type": "religion",
-    "fact": "The Bible is actually a library of 66 books, written by 44 authors over a period of about 1500 years"
+    "fact": "Almonds and pistachios are the only nuts mentioned in the Bible."
   },
   {
     "type": "religion",
-    "fact": "There are 39 books in the old testament and 27 in the new testament."
+    "fact": "Beelzebub, another name for the devil, is Hebrew for Lord of the Flies, and this is where the books title comes from."
+  },
+  {
+    "type": "religion",
+    "fact": "Bethany is the traditional site of the ascension."
+  },
+  {
+    "type": "religion",
+    "fact": "Both Esther and Song of Solomon do not mention the word God."
   },
   {
     "type": "religion",
     "fact": "Cain was the first baby born in the bible."
+  },
+  {
+    "type": "religion",
+    "fact": "Delilah had to cut seven tresses of hair from Samson's head to render him powerless."
+  },
+  {
+    "type": "religion",
+    "fact": "Dismas and Gestas were the names of the two thieves crucified with Jesus."
+  },
+  {
+    "type": "religion",
+    "fact": "Enoch and Elijah are the 2 men in the bible that don't die."
+  },
+  {
+    "type": "religion",
+    "fact": "In addition to the animals there were eight people on Noah's Ark. Noah, his wife, his sons Shem, Ham and Japheth, and their wives."
+  },
+  {
+    "type": "religion",
+    "fact": "Jesus is believed to have spoken in Aramaic, the language then in use in the Arabian peninsular where he lived. A modern version of the language is still spoken in Syria."
+  },
+  {
+    "type": "religion",
+    "fact": "Jesus was baptized in the River Jordan by John The Baptist."
+  },
+  {
+    "type": "religion",
+    "fact": "Jesus was described as 'King of Jews' as a deliberate insult to the Jewish authorities on the part of Pilate, the governor of Judea."
   },
   {
     "type": "religion",
@@ -29,31 +65,15 @@
   },
   {
     "type": "religion",
-    "fact": "Bethany is the traditional site of the ascension."
+    "fact": "Methuselah lived to be 969 years old, according to Genesis."
   },
   {
     "type": "religion",
-    "fact": "The crucifixion of Jesus took place on Calvary Hill (known as Golgotha in Hebrew)."
+    "fact": "Portions of the Bible have been printed in 2,212 languages. A complete Bible exists in 366 languages; an additional 928 languages have a New Testament; and 918 have at least one book of the Bible."
   },
   {
     "type": "religion",
-    "fact": "St.Paul was the main writer of the epistles."
-  },
-  {
-    "type": "religion",
-    "fact": "War, Famine, Pestilence and Death were the four horseman of the apocalypse."
-  },
-  {
-    "type": "religion",
-    "fact": "Jesus was baptized in the River Jordan by John The Baptist."
-  },
-  {
-    "type": "religion",
-    "fact": "The first English translation of the new testament was by William Tynedale. (1526 Early modern English)"
-  },
-  {
-    "type": "religion",
-    "fact": "The book of Kells were found in 8th century in Ireland."
+    "fact": "Salome's dance was the only solo dance mentioned in the Bible."
   },
   {
     "type": "religion",
@@ -61,31 +81,39 @@
   },
   {
     "type": "religion",
-    "fact": "There are 150 Psalms in the bible."
+    "fact": "Scholars estimate that the 66 books of the King James version of the Bible were written by some 50 different authors."
   },
   {
     "type": "religion",
-    "fact": "The most mentioned woman in the bible is Sarah at 56 times"
+    "fact": "Seven suicides are mentioned in the Bible."
   },
   {
     "type": "religion",
-    "fact": "Enoch and Elijah are the 2 men in the bible that don't die."
+    "fact": "Some biblical scholars believe that Aramaic did not contain a way of saying 'many' and used a term that has come down to us as '40'. This means that when the Bible refers to 40 days it actually means 'many days'."
   },
   {
     "type": "religion",
-    "fact": "The longest book in the bible is the Book of Psalms."
+    "fact": "St.Paul was the main writer of the epistles."
   },
   {
     "type": "religion",
-    "fact": "The shortest book in the Bible is 2 John."
+    "fact": "The 27 books of the Bible's New Testament are believed to have been written circa AD 100, about 70 to 90 years after the death of Christ."
   },
   {
     "type": "religion",
-    "fact": "The longest verse in the Bible is Esther 8:9"
+    "fact": "The Bible consists of a collection of 66 seperate books. These books were chosen, after a bit of haggling, by the Catholic Council of Carthage in 397 AD - more than 350 years after the time of Jesus. This collection is broken into two major sections: The Old Testament, which consists of 39 books, and the New Testament, which consists of 27 books. (Catholic Bibles include an additional 12 books known as the Apocrypha)"
   },
   {
     "type": "religion",
-    "fact": "The shortest verse in the Bible is John 11:35"
+    "fact": "The Bible devotes some 500 verses on prayer, less than 500 verses on faith but over 2,000 verses on money and possessions."
+  },
+  {
+    "type": "religion",
+    "fact": "The Bible does not say there were three wise men, or magi; it only says there were three gifts. It is believed there were anywhere between 2 and 9 magi."
+  },
+  {
+    "type": "religion",
+    "fact": "The Bible does not say there were three wise men; it only says there were three gifts."
   },
   {
     "type": "religion",
@@ -93,7 +121,27 @@
   },
   {
     "type": "religion",
+    "fact": "The Bible is actually a library of 66 books, written by 44 authors over a period of about 1500 years"
+  },
+  {
+    "type": "religion",
     "fact": "The Bible was the first book to be printed, in 1454"
+  },
+  {
+    "type": "religion",
+    "fact": "The Four Horsemen of the Apocalypse, named in the Bible's Book of Revelation, are Conquest, Slaughter, Famine and Death."
+  },
+  {
+    "type": "religion",
+    "fact": "The Greek version of the Old Testament is called the Septuagent."
+  },
+  {
+    "type": "religion",
+    "fact": "The Lord's Prayer appears twice in the Bible - in Matthew VI and Luke XI."
+  },
+  {
+    "type": "religion",
+    "fact": "The New Testament was originally written in Greek"
   },
   {
     "type": "religion",
@@ -105,75 +153,19 @@
   },
   {
     "type": "religion",
+    "fact": "The Red Sea is not mentioned in the Bible."
+  },
+  {
+    "type": "religion",
     "fact": "The book of Esther is the only book of the Bible that never mentions God"
   },
   {
     "type": "religion",
-    "fact": "The New Testament was originally written in Greek"
+    "fact": "The book of Kells were found in 8th century in Ireland."
   },
   {
     "type": "religion",
-    "fact": "The writers of the New Testament used a Greek translation of the OT known as the Septuagint"
-  },
-  {
-    "type": "religion",
-    "fact": "A Bible published in England in 1632 missed out the word 'not' in the seventh Commandment, making it 'Thou shalt commit adultery'. It became known as 'The Wicked Bible'."
-  },
-  {
-    "type": "religion",
-    "fact": "The only woman whose age is mentioned in the Bible is Sarah, who bore Abraham a child, Isaac, when she was 90. She was said to die at the age of 127."
-  },
-  {
-    "type": "religion",
-    "fact": "The most common name in the Bible is Zechariah. There are 33 of them."
-  },
-  {
-    "type": "religion",
-    "fact": "Methuselah lived to be 969 years old, according to Genesis."
-  },
-  {
-    "type": "religion",
-    "fact": "According to the Bible, there are 12 pearly gates."
-  },
-  {
-    "type": "religion",
-    "fact": "There were 3 decks on Noah's Ark."
-  },
-  {
-    "type": "religion",
-    "fact": "In addition to the animals there were eight people on Noah's Ark. Noah, his wife, his sons Shem, Ham and Japheth, and their wives."
-  },
-  {
-    "type": "religion",
-    "fact": "The three wise men were called Balthazar, Caspar and Melchior."
-  },
-  {
-    "type": "religion",
-    "fact": "Delilah had to cut seven tresses of hair from Samson's head to render him powerless."
-  },
-  {
-    "type": "religion",
-    "fact": "Jesus is believed to have spoken in Aramaic, the language then in use in the Arabian peninsular where he lived. A modern version of the language is still spoken in Syria."
-  },
-  {
-    "type": "religion",
-    "fact": "The world population at the time of the Crucifixion was about 200 million."
-  },
-  {
-    "type": "religion",
-    "fact": "Salome's dance was the only solo dance mentioned in the Bible."
-  },
-  {
-    "type": "religion",
-    "fact": "The names of the two theives crucified with Jesus were Dismas and Gestas."
-  },
-  {
-    "type": "religion",
-    "fact": "Some biblical scholars believe that Aramaic did not contain a way of saying 'many' and used a term that has come down to us as '40'. This means that when the Bible refers to 40 days it actually means 'many days'."
-  },
-  {
-    "type": "religion",
-    "fact": "The savage Salem witch trials in the seventeenth century were all based on a sinlge line in the Exodus: 'Thou shalt not suffer a witch to live'."
+    "fact": "The crucifixion of Jesus took place on Calvary Hill (known as Golgotha in Hebrew)."
   },
   {
     "type": "religion",
@@ -181,11 +173,79 @@
   },
   {
     "type": "religion",
+    "fact": "The first English translation of the new testament was by William Tynedale. (1526 Early modern English)"
+  },
+  {
+    "type": "religion",
+    "fact": "The first complete version of the bible actually printed in English was the Coverdale Bible in 1535 compiled by Myles Coverdale."
+  },
+  {
+    "type": "religion",
+    "fact": "The first drunk to appear in the bible was Noah."
+  },
+  {
+    "type": "religion",
+    "fact": "The longest book in the bible is the Book of Psalms."
+  },
+  {
+    "type": "religion",
     "fact": "The longest name in the Bible is Mahershalalbaz."
   },
   {
     "type": "religion",
-    "fact": "The Lord's Prayer appears twice in the Bible - in Matthew VI and Luke XI."
+    "fact": "The longest verse in the Bible is Esther 8:9"
+  },
+  {
+    "type": "religion",
+    "fact": "The most common name in the Bible is Zechariah. There are 33 of them."
+  },
+  {
+    "type": "religion",
+    "fact": "The most mentioned woman in the bible is Sarah at 56 times"
+  },
+  {
+    "type": "religion",
+    "fact": "The names of the two theives crucified with Jesus were Dismas and Gestas."
+  },
+  {
+    "type": "religion",
+    "fact": "The only woman whose age is mentioned in the Bible is Sarah, who bore Abraham a child, Isaac, when she was 90. She was said to die at the age of 127."
+  },
+  {
+    "type": "religion",
+    "fact": "The savage Salem witch trials in the seventeenth century were all based on a sinlge line in the Exodus: 'Thou shalt not suffer a witch to live'."
+  },
+  {
+    "type": "religion",
+    "fact": "The shortest book in the Bible is 2 John."
+  },
+  {
+    "type": "religion",
+    "fact": "The shortest verse in the Bible is John 11:35"
+  },
+  {
+    "type": "religion",
+    "fact": "The three wise men were called Balthazar, Caspar and Melchior."
+  },
+  {
+    "type": "religion",
+    "fact": "The world population at the time of the Crucifixion was about 200 million."
+  },
+  {
+    "type": "religion",
+    "fact": "The writers of the New Testament used a Greek translation of the OT known as the Septuagint"
+  },
+  {
+    "type": "religion",
+    "fact": "There are 150 Psalms in the bible."
+  },
+  {
+    "type": "religion",
+    "fact": "There are 39 books in the old testament and 27 in the new testament."
+  },
+  {
+    "type": "religion",
+    "fact": "There were 3 decks on Noah's Ark."
   },
   {
     "type": "religion",
@@ -193,66 +253,6 @@
   },
   {
     "type": "religion",
-    "fact": "The 27 books of the Bible's New Testament are believed to have been written circa AD 100, about 70 to 90 years after the death of Christ."
-  },
-  {
-    "type": "religion",
-    "fact": "Portions of the Bible have been printed in 2,212 languages. A complete Bible exists in 366 languages; an additional 928 languages have a New Testament; and 918 have at least one book of the Bible."
-  },
-  {
-    "type": "religion",
-    "fact": "The Bible does not say there were three wise men, or magi; it only says there were three gifts. It is believed there were anywhere between 2 and 9 magi."
-  },
-  {
-    "type": "religion",
-    "fact": "Jesus was described as 'King of Jews' as a deliberate insult to the Jewish authorities on the part of Pilate, the governor of Judea."
-  },
-  {
-    "type": "religion",
-    "fact": "Scholars estimate that the 66 books of the King James version of the Bible were written by some 50 different authors."
-  },
-  {
-    "type": "religion",
-    "fact": "Almonds and pistachios are the only nuts mentioned in the Bible."
-  },
-  {
-    "type": "religion",
-    "fact": "Seven suicides are mentioned in the Bible."
-  },
-  {
-    "type": "religion",
-    "fact": "The Bible devotes some 500 verses on prayer, less than 500 verses on faith but over 2,000 verses on money and possessions."
-  },
-  {
-    "type": "religion",
-    "fact": "The Red Sea is not mentioned in the Bible."
-  },
-  {
-    "type": "religion",
-    "fact": "The Bible consists of a collection of 66 seperate books. These books were chosen, after a bit of haggling, by the Catholic Council of Carthage in 397 AD - more than 350 years after the time of Jesus. This collection is broken into two major sections: The Old Testament, which consists of 39 books, and the New Testament, which consists of 27 books. (Catholic Bibles include an additional 12 books known as the Apocrypha)"
-  },
-  {
-    "type": "religion",
-    "fact": "The Four Horsemen of the Apocalypse, named in the Bible's Book of Revelation, are Conquest, Slaughter, Famine and Death."
-  },
-  {
-    "type": "religion",
-    "fact": "Both Esther and Song of Solomon do not mention the word God."
-  },
-  {
-    "type": "religion",
-    "fact": "Beelzebub, another name for the devil, is Hebrew for Lord of the Flies, and this is where the books title comes from."
-  },
-  {
-    "type": "religion",
-    "fact": "The Greek version of the Old Testament is called the Septuagent."
-  },
-  {
-    "type": "religion",
-    "fact": "Dismas and Gestas were the names of the two thieves crucified with Jesus."
-  },
-  {
-    "type": "religion",
-    "fact": "The Bible does not say there were three wise men; it only says there were three gifts."
+    "fact": "War, Famine, Pestilence and Death were the four horseman of the apocalypse."
   }
 ]

@@ -1,11 +1,7 @@
 [
   {
     "type": "music",
-    "fact": "The band Duran Duran got their name from an astronaut in the 1968 Jane Fonda movie Barbarella."
-  },
-  {
-    "type": "music",
-    "fact": "Hang On Sloopy is the official rock song of Ohio."
+    "fact": "3-Day advance purchase tickets for the first Woodstock (1969), were $18.00. The price at the gate, $24."
   },
   {
     "type": "music",
@@ -13,23 +9,15 @@
   },
   {
     "type": "music",
-    "fact": "Vanilla Ice's real name is Robert Van Winkle."
+    "fact": "Coldplay were the first artist to sell a Million digital albums in America."
   },
   {
     "type": "music",
-    "fact": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casbah\" by the Clash."
+    "fact": "Duran Duran got their name from a character in the film Barbarella."
   },
   {
     "type": "music",
-    "fact": "Shannon Hoon, the now-dead lead singer of the group Blind Melon was a back-up singer for Guns N' Roses on their Use Your Illusion 1 CD."
-  },
-  {
-    "type": "music",
-    "fact": "The real name of the Looney Tunes music is \"The Merry-Go-Round Broken Down.\""
-  },
-  {
-    "type": "music",
-    "fact": "The 80s song \"Rosanna\" from the Eighties was written about Rosanna Arquette, the actress."
+    "fact": "Hang On Sloopy is the official rock song of Ohio."
   },
   {
     "type": "music",
@@ -41,23 +29,11 @@
   },
   {
     "type": "music",
-    "fact": "ZZ Top consists of 3 band members, 2 of which have long beards whilst the clean shaven member of the band is actually named Frank Beard."
-  },
-  {
-    "type": "music",
-    "fact": "Duran Duran got their name from a character in the film Barbarella."
-  },
-  {
-    "type": "music",
-    "fact": "Coldplay were the first artist to sell a Million digital albums in America."
-  },
-  {
-    "type": "music",
-    "fact": "The longest title for a record in the UK charts - The Face's / Rod Stewart's 1974 no. 12 hit \"You Can Make Me Dance Sing Or Anything (Even Take The Dog For A Walk, Mend A Fuse, Fold Away The Ironing Board, Or Any Other Domestic Shortcomings)\" has 115 letters (punctuations don't count!)."
-  },
-  {
-    "type": "music",
     "fact": "Longest title without brackets in the UK charts - The Freshies' 1981 release \"I'm In Love With The Girl On A Certain Manchester Megastore Checkout Desk\" (60 letters) peaked at number 54!"
+  },
+  {
+    "type": "music",
+    "fact": "Shannon Hoon, the now-dead lead singer of the group Blind Melon was a back-up singer for Guns N' Roses on their Use Your Illusion 1 CD."
   },
   {
     "type": "music",
@@ -65,10 +41,38 @@
   },
   {
     "type": "music",
-    "fact": "Wannabe by the Spice Girls is the largest selling single by female artists in the UK. (1.2 Million)"
+    "fact": "The 80s song \"Rosanna\" from the Eighties was written about Rosanna Arquette, the actress."
+  },
+  {
+    "type": "music",
+    "fact": "The band Duran Duran got their name from an astronaut in the 1968 Jane Fonda movie Barbarella."
   },
   {
     "type": "music",
     "fact": "The best-selling album of all time is Thriller by Michael Jackson (USA), with global sales of over 51 million copies to date since 1982. The success of the album also helped Jackson win a record eight Grammy Awards in 1984."
+  },
+  {
+    "type": "music",
+    "fact": "The first song played on Armed Forces Radio during operation Desert Shield was \"Rock the Casbah\" by the Clash."
+  },
+  {
+    "type": "music",
+    "fact": "The longest title for a record in the UK charts - The Face's / Rod Stewart's 1974 no. 12 hit \"You Can Make Me Dance Sing Or Anything (Even Take The Dog For A Walk, Mend A Fuse, Fold Away The Ironing Board, Or Any Other Domestic Shortcomings)\" has 115 letters (punctuations don't count!)."
+  },
+  {
+    "type": "music",
+    "fact": "The real name of the Looney Tunes music is \"The Merry-Go-Round Broken Down.\""
+  },
+  {
+    "type": "music",
+    "fact": "Vanilla Ice's real name is Robert Van Winkle."
+  },
+  {
+    "type": "music",
+    "fact": "Wannabe by the Spice Girls is the largest selling single by female artists in the UK. (1.2 Million)"
+  },
+  {
+    "type": "music",
+    "fact": "ZZ Top consists of 3 band members, 2 of which have long beards whilst the clean shaven member of the band is actually named Frank Beard."
   }
 ]

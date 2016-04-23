@@ -1,7 +1,11 @@
 [
   {
     "type": "food",
-    "fact": "Pearls melt in vinegar."
+    "fact": "A peanut is not a nut; it is a legume."
+  },
+  {
+    "type": "food",
+    "fact": "A-1 Steak Sauce contains both orange peel and raisins."
   },
   {
     "type": "food",
@@ -13,10 +17,14 @@
   },
   {
     "type": "food",
-    "fact": "A-1 Steak Sauce contains both orange peel and raisins."
+    "fact": "Jelly Belly jelly beans were the first jelly beans in outer space when they went up with astronauts in the June 21, 1983 voyage of the space shuttle Challenger, the same voyage as the first American woman in space, Sally Ride."
   },
   {
     "type": "food",
-    "fact": "Jelly Belly jelly beans were the first jelly beans in outer space when they went up with astronauts in the June 21, 1983 voyage of the space shuttle Challenger, the same voyage as the first American woman in space, Sally Ride."
+    "fact": "Ketchup was sold in the 1830s as medicine"
+  },
+  {
+    "type": "food",
+    "fact": "Pearls melt in vinegar."
   }
 ]
