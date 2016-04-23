@@ -1,142 +1,46 @@
 [
   {
     "type": "movies",
-    "fact": "David Prowse was the guy in the Darth Vader suit in Star Wars. He spoke all of Vader’s lines, and didn’t know that he was going to be dubbed over by James Earl Jones until he saw the screening of the movie."
+    "fact": "The movie \"Paris, Texas\" was banned in the city of Paris, Texas, shorty after its box office release."
   },
   {
     "type": "movies",
-    "fact": "Michael J. Fox’s middle name is really Andrew."
+    "fact": "The name of the dog from The Grinch Who Stole Christmas is Max."
   },
   {
     "type": "movies",
-    "fact": "In the movie, ‘Star Wars’, during the scene in which Luke gets out of his X-wing fighter after blowing up the Death Star, he accidentally calls Princess Leia ‘Carrie’ (her real first name)."
+    "fact": "Dirty Harry's badge number is 2211."
   },
   {
     "type": "movies",
-    "fact": "Adolf Hitler’s favorite movie was “King Kong.”"
+    "fact": "Four people played Darth Vader: David Prowse was his body, James Earl Jones did the voice, Sebastian Shaw was his face and a fourth person did the breathing."
   },
   {
     "type": "movies",
-    "fact": "Diane Keaton’s, who won an Oscar for her portrayal of the title role in “Annie Hall,” real last name is Hall."
+    "fact": "In Psycho, the color of Mrs. Bates' dress was periwinkle blue."
   },
   {
     "type": "movies",
-    "fact": "All of the clocks in Pulp Fiction are stuck on 4:20 Walt Disney was afraid of mice John Wayne had the most leading roles in Hollywood with 141 Jerry Maguire was the highest grossing sports movie in history."
+    "fact": "Melanie Griffith's mother is actress Tippi Hedren, best known for her lead role in Alfred Hitchcock's The Birds."
   },
   {
     "type": "movies",
-    "fact": "Shakespeare's Hamlet has been adopted into film 49 times, Romeo and Juliet has been adopted into film 27 times."
+    "fact": "King Kong is the first movie to have its sequel -- Son of Kong -- released the same year (1933)."
   },
   {
     "type": "movies",
-    "fact": "The mask used by Michael Myers in the original \"Halloween\" movie was actually a Captain Kirk mask painted white."
+    "fact": "Wayne's World was filmed in two weeks."
   },
   {
     "type": "movies",
-    "fact": "In Disney's Fantasia, the Sorcerer name is Yensid which is Disney backwards."
+    "fact": "In the Godfather movies, oranges represent an upcoming death."
   },
   {
     "type": "movies",
-    "fact": "The Beatles movie Help was dedicated to Elias Howe, inventor of the sewing machine."
+    "fact": "The actor who played Wedge in the original Star Wars trilogy has a famous nephew: actor Ewan McGregor, who plays the young Obi-Wan in the new Star Wars film."
   },
   {
     "type": "movies",
-    "fact": "In the movie \"Scarface\" the F-word is said 207 time, which works out to an average of 1.22 per minute."
-  },
-  {
-    "type": "movies",
-    "fact": "Lon Chaney's great skill as a silent film actor came about as a result of his upbringing. Both of his parents were deaf-mutes, so he learned to communicate by expressive pantomime."
-  },
-  {
-    "type": "movies",
-    "fact": "C3P0 is the first character to speak in Star Wars."
-  },
-  {
-    "type": "movies",
-    "fact": "Chocolate syrup was used for blood in the famous 45 second shower scene in Alfred Hitchcock's movie, Psycho, which actually took 7 days to shoot."
-  },
-  {
-    "type": "movies",
-    "fact": "In Disney's Fantasia, the Sorcerer's name is Yensid, which is Disney spelled backward."
-  },
-  {
-    "type": "movies",
-    "fact": "The first film granted permission by the Chinese government to be filmed in the Forbidden City was The Last Emperor, 1987."
-  },
-  {
-    "type": "movies",
-    "fact": "The Black Hole, 1979, was Disney's first PG-rated movie."
-  },
-  {
-    "type": "movies",
-    "fact": "The 1st kiss in a movie was between May Irwin and John Rice in \"The Widow Jones,\" in 1896."
-  },
-  {
-    "type": "movies",
-    "fact": "The 1st feature-length animated film, released by Disney Studios in 1937, was \"Snow White and the Seven Dwarfs.\""
-  },
-  {
-    "type": "movies",
-    "fact": "Penny Marshall was the first woman film director to have a film take in more than $100 million at the box office - she accomplished this with the 1988 flick Big."
-  },
-  {
-    "type": "movies",
-    "fact": "Napoleon Bonaparte is the historical figure most often portrayed in movies. He has been featured in 194 movies, Jesus Christ in 152, and Abraham Lincoln in 137."
-  },
-  {
-    "type": "movies",
-    "fact": "In October 1959 Elizabeth Taylor became the first Hollywood star to receive $1 million for a single picture. (for Cleopatra)"
-  },
-  {
-    "type": "movies",
-    "fact": "Some famous robots that appeared in the movies Ash - Alien, Gort - The Day the Earth Stood Still, Maria - Metropolis, Sonny - I-Robot, Huet, Duey and Luey - Silent Running"
-  },
-  {
-    "type": "movies",
-    "fact": "The largest number of fatalities on a film set is 40, occuring during the making of 'The Sword of Tipu Sultan' in 1989."
-  },
-  {
-    "type": "movies",
-    "fact": "'Some Like it Hot' (1959) was originally called 'Not Tonight Josephine'."
-  },
-  {
-    "type": "movies",
-    "fact": "One of the actors in Reservoir Dogs, Eddie Bunker (Mr Blue) was a real former criminal and was once on FBI's Ten Most Wanted list."
-  },
-  {
-    "type": "movies",
-    "fact": "Screen 6 at Atlanta's CNN Center has been showing Gone With the Wind twice a day, 365 days a year since the films release in 1939."
-  },
-  {
-    "type": "movies",
-    "fact": "Disney's Beauty and the Beast is the only animated film ever to be nominated for Best Picture Oscar."
-  },
-  {
-    "type": "movies",
-    "fact": "The longest ever interval between an original film and its sequel is 46 years - between The Wizard of Oz, and Return to Oz."
-  },
-  {
-    "type": "movies",
-    "fact": "A record of 8,552 animals were featured in Around the World in Eighty Days (1956). Roger Moore is the only English actor to play the role of James Bond. Sean Connery is Scottish, George Lazenby is Australian, Timothy Dalton is Welsh and Pierce Brosnan is Irish."
-  },
-  {
-    "type": "movies",
-    "fact": "Braveheart director/producer Mel Gibson was investigated by the RSPCA inspectors, who refused to believe the horses on show weren't real but mechanical instead."
-  },
-  {
-    "type": "movies",
-    "fact": "In Star Wars when the storm troopers break into the control room where R2-D2 and C-3PO are hiding, one of them smacks his head on the door and falls backwards."
-  },
-  {
-    "type": "movies",
-    "fact": "In the 1959 film Ben-Hur, nine chariots start the race, but six crash and four finish, making a total of ten."
-  },
-  {
-    "type": "movies",
-    "fact": "Max Von Sydow plays Jesus Christ in 'The Greatest Story Ever Told' and Satan in 'Needful Things', the only actor to play both parts."
-  },
-  {
-    "type": "movies",
-    "fact": "JK Rowling, Harry Potter and actor Daniel Radcliffe all share the same birthday, July 31."
+    "fact": "The first female monster to appear on the big screen was Bride of Frankenstein."
   }
 ]
