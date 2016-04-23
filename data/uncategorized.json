@@ -152,7 +152,7 @@
     "fact": "Donald Duck comics were banned from Finland because he doesn't wear trousers."
   },
   {
-    "type": "uncategorized",
+    "type": "food",
     "fact": "Ketchup was sold in the 1830s as medicine"
   },
   {
@@ -160,11 +160,11 @@
     "fact": "You can tell from the statue of a mounted horseman how the rider died. If all four of the horse's feet are on the ground, he died of natural causes. One foot raised means he died from wounds suffered in battle. Two legs raised means he died in action."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "Deer can't eat hay."
   },
   {
-    "type": "uncategorized",
+    "type": "legal",
     "fact": "It's against the law to burp, or sneeze in a church in Nebraska, USA."
   },
   {
@@ -176,36 +176,36 @@
     "fact": "The strongest muscle in the body is the tongue."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "You can tell the sex of a horse by its teeth. Most males have 40, females have 36."
   },
   {
-    "type": "uncategorized",
+    "type": "inventions",
     "fact": "Leonardo Da Vinci invented the scissors."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "An ostrich's eye is bigger than its brain."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "When you tie a noose, the rope is wrapped twelve times around because it's the same length as a persons head."
   },
   {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "'Obsession' is the most popular boat name."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Most toilets flush in E flat."
   },
   {
     "type": "uncategorized",
-    "fact": "There are 1,575 steps from the ground floor to the top of the Empire State building. [link]"
+    "fact": "There are 1,575 steps from the ground floor to the top of the Empire State building."
   },
   {
     "type": "uncategorized",
@@ -216,67 +216,67 @@
     "fact": "February 1865 is the only month in recorded history not to have a full moon."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "It is impossible to lick your elbow."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "A crocodile can't stick it's tongue out."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "A shrimp's heart is in it's head."
   },
   {
-    "type": "uncategorized",
+    "type": "expressions",
     "fact": "People say 'Bless you' when you sneeze because when you sneeze,your heart stops for a mili-second."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "In a study of 200,000 ostriches over a period of 80 years, no one reported a single case where an ostrich buried its head in the sand."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "It is physically impossible for pigs to look up into the sky."
   },
   {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "More than 50% of the people in the world have never made or received a telephone call."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "Rats and horses can't vomit."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "If you sneeze too hard, you can fracture a rib."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "If you try to suppress a sneeze, you can rupture a blood vessel in your head or neck and die."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "If you keep your eyes open by force when you sneeze, you might pop an eyeball out."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "Rats multiply so quickly that in 18 months, two rats could have over a million descendants."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "Wearing headphones for just an hour will increase the bacteria in your ear by 700 times."
   },
   {
-    "type": "uncategorized",
+    "type": "tv",
     "fact": "In every episode of Seinfeld there is a Superman somewhere."
   },
   {
-    "type": "uncategorized",
+    "type": "inventions",
     "fact": "The cigarette lighter was invented before the match."
   },
   {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "23% of all photocopier faults worldwide are caused by people sitting on them and photocopying their butts."
   },
   {
@@ -288,15 +288,15 @@
     "fact": "Like fingerprints, everyone's tongue print is different."
   },
   {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "Over 75% of people who read this will try to lick their elbow."
   },
   {
-    "type": "uncategorized",
+    "type": "animals",
     "fact": "A crocodile can't move its tongue and cannot chew. Its digestive juices are so strong that it can digest a steel nail."
   },
   {
-    "type": "uncategorized",
+    "type": "monetary",
     "fact": "Money notes are not made from paper, they are made mostly from a special blend of cotton and linen. In 1932, when a shortage of cash occurred in Tenino, Washington, USA, notes were made out of wood for a brief period."
   },
   {
@@ -332,15 +332,11 @@
     "fact": "A person can live without food for about a month, but only about a week without water."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "If the amount of water in your body is reduced by just 1%, you'll feel thirsty."
   },
   {
-    "type": "uncategorized",
-    "fact": "If it's reduced by 10%, you'll die."
-  },
-  {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "According to a study by the Economic Research Service, 27% of all food production in Western nations ends up in garbage cans. Yet, 1,2 billion people are underfed - the same number of people who are overweight."
   },
   {
@@ -352,15 +348,15 @@
     "fact": "In the Durango desert, in Mexico, there's a creepy spot called the 'Zone of Silence'. You can't pick up clear TV or radio signals. And locals say fireballs sometimes appear in the sky."
   },
   {
-    "type": "uncategorized",
+    "type": "inventions",
     "fact": "Ethernet is a registered trademark of Xerox, Unix is a registered trademark of AT&T."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Bill Gates' first business was Traff-O-Data, a company that created machines which recorded the number of cars passing a given point on a road."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Uranus' orbital axis is tilted at 90 degrees."
   },
   {
@@ -368,11 +364,11 @@
     "fact": "The final resting-place for Dr. Eugene Shoemaker - the Moon. The famed U.S. Geological Survey astronomer, trained the Apollo astronauts about craters, but never made it into space. Mr. Shoemaker had wanted to be an astronaut but was rejected because of a medical problem. His ashes were placed on board the Lunar Prospector spacecraft before it was launched on January 6, 1998. NASA crashed the probe into a crater on the moon in an attempt to learn if there is water on the moon."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Outside the USA, Ireland is the largest software producing country in the world."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "The first fossilized specimen of Australopithecus afarenisis was named Lucy after the paleontologists' favorite song 'Lucy in the Sky with Diamonds,' by the Beatles."
   },
   {
@@ -380,15 +376,15 @@
     "fact": "Figlet, an ASCII font converter program, stands for Frank, Ian and Glenn's LETters."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "Every human spent about half an hour as a single cell."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "Every year about 98% of atoms in your body are replaced."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Hot water is heavier than cold."
   },
   {
@@ -396,7 +392,7 @@
     "fact": "Plutonium - first weighed on August 20th, 1942, by University of Chicago scientists Glenn Seaborg and his colleagues - was the first man-made element."
   },
   {
-    "type": "uncategorized",
+    "type": "space",
     "fact": "If you went out into space, you would explode before you suffocated because there's no air pressure."
   },
   {
@@ -408,15 +404,15 @@
     "fact": "The original IBM-PCs, that had hard drives, referred to the hard drives as Winchester drives. This is due to the fact that the original Winchester drive had a model number of 3030. This is, of course, a Winchester firearm."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Sound travels 15 times faster through steel than through the air."
   },
   {
-    "type": "uncategorized",
+    "type": "human_anatomy",
     "fact": "On average, half of all false teeth have some form of radioactivity."
   },
   {
-    "type": "uncategorized",
+    "type": "space",
     "fact": "Only one satellite has been ever been destroyed by a meteor: the European Space Agency's Olympus in 1993."
   },
   {
@@ -11088,11 +11084,11 @@
     "fact": "Pittsburgh and Toronto are the only two cities where all the major sports teams have the same colors: 'black and gold' and 'blue and white' respectively."
   },
   {
-    "type": "human anatomy",
+    "type": "human_anatomy",
     "fact": "Banging your head against a wall burns 150 calories an hour."
   },
   {
-    "type": "uncategorized",
+    "type": "legal",
     "fact": "In the UK, it is illegal to eat mince pies on Christmas Day!"
   },
   {
