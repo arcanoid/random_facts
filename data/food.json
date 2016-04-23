@@ -1,22 +1,146 @@
 [
   {
     "type": "food",
-    "fact": "Pearls melt in vinegar."
+    "fact": "The least-liked vegetable of all time is the turnip.  Personally, I can’t stand them either!"
   },
   {
     "type": "food",
-    "fact": "Honey is the only food that doesn't spoil."
+    "fact": "It takes four hours to hard boil an ostrich egg: it weighs 30 pounds."
   },
   {
     "type": "food",
-    "fact": "If you put a raisin in a glass of champagne, it will keep floating to the top and sinking to the bottom."
+    "fact": "Some people believe brown eggs are richer than white eggs and more nutritious. There really isn’t correlation of richness of the egg to the color of the shell. Analysis shows eggs are practically the same in chemical composition regardless of the color of the shell and there is no difference in the food or nutrient content of varying shades of the color of egg shells."
   },
   {
     "type": "food",
-    "fact": "A-1 Steak Sauce contains both orange peel and raisins."
+    "fact": "Honey is used to make antifreeze."
   },
   {
     "type": "food",
-    "fact": "Jelly Belly jelly beans were the first jelly beans in outer space when they went up with astronauts in the June 21, 1983 voyage of the space shuttle Challenger, the same voyage as the first American woman in space, Sally Ride."
+    "fact": "Dog meat is a delicacy in China."
+  },
+  {
+    "type": "food",
+    "fact": "In the 1800’s, people thought the eggplant was poisonous and called it the “mad apple.” Personally, I can’t see how anyone can eat that stuff."
+  },
+  {
+    "type": "food",
+    "fact": "The world’s largest clams weigh almost 500 pounds."
+  },
+  {
+    "type": "food",
+    "fact": "Wrigley's gum was the first product with a bar code"
+  },
+  {
+    "type": "food",
+    "fact": "There are an average of eight peas in a pod."
+  },
+  {
+    "type": "food",
+    "fact": "The banana could be extinct in 10 years"
+  },
+  {
+    "type": "food",
+    "fact": "Consuming chocolate was once considered a sin during the 16th and 17th century"
+  },
+  {
+    "type": "food",
+    "fact": "Alcoholic beverages have 13 minerals that are necessary for human life."
+  },
+  {
+    "type": "food",
+    "fact": "The fortune cookie was invented by Los Angeles noodlemaker George Jung in 1916."
+  },
+  {
+    "type": "food",
+    "fact": "Table salt is the only commodity that hasn't risen dramatically in price in the last 150 years"
+  },
+  {
+    "type": "food",
+    "fact": "A-1 steak sauce has both orange peel and rasins"
+  },
+  {
+    "type": "food",
+    "fact": "The darker green a vegetable is, the more vitamin C it has."
+  },
+  {
+    "type": "food",
+    "fact": "Ketchup was once sold as a medicine"
+  },
+  {
+    "type": "food",
+    "fact": "Mayonnaise is a great skin moisturizer."
+  },
+  {
+    "type": "food",
+    "fact": "Peanuts are used in the manufacture of dynamite"
+  },
+  {
+    "type": "food",
+    "fact": "The French eat an average of 200 million frogs each year"
+  },
+  {
+    "type": "food",
+    "fact": "Between 1937 and 1945 Heinz produced a version of Alphabet Spaghetti especially for the German market that consisted solely of little pasta swastikas(urban myth this is untrue)"
+  },
+  {
+    "type": "food",
+    "fact": "Incan soldiers invented the process of freeze-drying food. The process was primitive but effective -- potatoes would be left outside to freeze overnight, then thawed and stomped on to remove excess water."
+  },
+  {
+    "type": "food",
+    "fact": "Honey is the only food that doesn't go off."
+  },
+  {
+    "type": "food",
+    "fact": "Bennito Mussolini used Casrtor Oil as a form of torture against dissidents by force feeding them it and inducing a state of dehydration."
+  },
+  {
+    "type": "food",
+    "fact": "Tomato Ketchup was originally a S.E Asian dish made from fish brine and mushrooms."
+  },
+  {
+    "type": "food",
+    "fact": "There is a strict ban on chewing gum in Singapore with severe penalties for anyone caught."
+  },
+  {
+    "type": "food",
+    "fact": "Starburst was created by the European confectionery Mars Incorporated in 1960 and was originally named Opal Fruits. In 1976, they were introduced to the United States as Starburst. The brand Opal Fruits was phased out in the UK and Ireland in 1998 due to pressure for global branding. For the tenth anniversary of the naming of Opal Fruits to Starburst in the UK, Mars Inc. brought the name back in May 2008, to last for only three months, in the original flavors and packaging and without the artificial colors and flavorings now used in global manufacturing."
+  },
+  {
+    "type": "food",
+    "fact": "The secret recipe for Coca Cola, code-named \"Merchandise 7X\" is kept under lock and key in a vault in the SunTrust Bank Building in Atlanta, Georgia, the home of Coke inventor Dr. John S. Pemberton and current world headquarters of Coca Cola International"
+  },
+  {
+    "type": "food",
+    "fact": "There are more than 200 kinds of chili peppers, none of which belong to the pepper family"
+  },
+  {
+    "type": "food",
+    "fact": "There are more than 15,000 different kinds of rice."
+  },
+  {
+    "type": "food",
+    "fact": "Herring is the most widely eaten fish in the world."
+  },
+  {
+    "type": "food",
+    "fact": "Sliced bread was introduced under the Wonder Bread label in 1930"
+  },
+  {
+    "type": "food",
+    "fact": "The colour of a chile is no indication of its spiciness, but size usually is - the smaller the pepper, the hotter it is."
+  },
+  {
+    "type": "food",
+    "fact": "Blueberry jelly beans were especially made for Ronald Reagan."
+  },
+  {
+    "type": "food",
+    "fact": "With lunchables you have 50% less crackers then toppings. To use them all with no left overs you would have to do two toppings per cracker."
+  },
+  {
+    "type": "food",
+    "fact": "Peanuts are one of the ingredients of dynamite"
   }
 ]

@@ -44,59 +44,51 @@
     "fact": "Einstein couldn't speak fluently when he was nine. His parents thought he might be retarded."
   },
   {
-    "type": "uncategorized",
+    "type": "literature",
     "fact": "Leonardo da Vinci could write with one hand and draw with the other at the same time."
   },
   {
-    "type": "uncategorized",
+    "type": "literature",
     "fact": "Sherlock Holmes never said 'Elementary, my dear Watson'."
   },
   {
-    "type": "uncategorized",
+    "type": "literature",
     "fact": "In Casablanca Humphrey Bogart never said 'Play it again, Sam'."
   },
   {
-    "type": "uncategorized",
-    "fact": "A 'jiffy' is an actual unit of time: 1/100th of a second."
-  },
-  {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Months that begin on a Sunday will always have a 'Friday the 13th.'"
   },
   {
-    "type": "uncategorized",
+    "type": "literature",
     "fact": "First novel ever written on a typewriter: Tom Sawyer"
   },
   {
-    "type": "uncategorized",
-    "fact": "The mask used by Michael Myers in the original film 'Halloween' was actually a Captain Kirk mask painted white."
-  },
-  {
-    "type": "uncategorized",
+    "type": "movies",
     "fact": "James Doohan, who played Lt. Commander Montgomery Scott on Star Trek, was missing the entire middle finger of his right hand."
   },
   {
-    "type": "uncategorized",
+    "type": "movies",
     "fact": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20."
   },
   {
-    "type": "uncategorized",
+    "type": "movies",
     "fact": "Debra Winger was the voice of E.T."
   },
   {
-    "type": "uncategorized",
+    "type": "movies",
     "fact": "During the chariot scene in 'Ben Hur' a small red car can be seen in the distance."
   },
   {
-    "type": "uncategorized",
+    "type": "tv",
     "fact": "The first couple to be shown in bed together on prime time television were Fred and Wilma Flintstone."
   },
   {
-    "type": "uncategorized",
+    "type": "cartoon",
     "fact": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots."
   },
   {
-    "type": "uncategorized",
+    "type": "monetary",
     "fact": "Every day more money is printed for monopoly than the US Treasury."
   },
   {
@@ -104,16 +96,12 @@
     "fact": "The city with the most Roll Royces per capita: Hong Kong"
   },
   {
-    "type": "uncategorized",
+    "type": "statistics",
     "fact": "Percentage of Africa that is wilderness: 28% Percentage of North America that is wilderness: 38%"
   },
   {
     "type": "uncategorized",
     "fact": "Barbie's measurements if she were life size: 39-23-33"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Cost of raising a medium-sized dog to the age of 11: Â£4000"
   },
   {
     "type": "uncategorized",
@@ -144,7 +132,7 @@
     "fact": "The dot over the letter 'i' is called a tittle."
   },
   {
-    "type": "uncategorized",
+    "type": "trivia",
     "fact": "Most lipstick contains fish scales."
   },
   {
@@ -1800,20 +1788,12 @@
     "fact": "The average American/Canadian will eat about 11.9 pounds of cereal per year!"
   },
   {
-    "type": "animals",
-    "fact": "There are about a million ants per person. Ants are very social animals and will live in colonies that can contain almost 500,000 ants."
-  },
-  {
     "type": "uncategorized",
     "fact": "More than 90% of the Nicaraguan people are Roman Catholic."
   },
   {
     "type": "uncategorized",
     "fact": "Los Angeles' full name is \"El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula\"."
-  },
-  {
-    "type": "animals",
-    "fact": "A necropsy is an autopsy on animals."
   },
   {
     "type": "uncategorized",
@@ -2272,10 +2252,6 @@
     "fact": "Maine is the only state (in USA) whose name is just one syllable."
   },
   {
-    "type": "animals",
-    "fact": "Carnivorous animals will not eat another animal that has been hit by a lightning strike."
-  },
-  {
     "type": "uncategorized",
     "fact": "Mr. Rogers was an ordained minister."
   },
@@ -2398,10 +2374,6 @@
   {
     "type": "uncategorized",
     "fact": "In England, the Speaker of the House is not allowed to speak."
-  },
-  {
-    "type": "animals",
-    "fact": "In the last 4000 years no new animals have been domesticated."
   },
   {
     "type": "uncategorized",
@@ -2680,10 +2652,6 @@
     "fact": "The average human brain has about 100 billion nerve cells."
   },
   {
-    "type": "animals",
-    "fact": "There are more beetles than any other animal. In fact, one out of every four animals is a beetle."
-  },
-  {
     "type": "uncategorized",
     "fact": "15 million blood cells are destroyed in the human body every second."
   },
@@ -2784,10 +2752,6 @@
     "fact": "Columbia University is the second largest landowner in New York City, after the Catholic Church."
   },
   {
-    "type": "animals",
-    "fact": "The bonobo monkeys use sex (and/or sexual favors) to placate members of their social group instead of grooming. They are one of the few species of animals (humans being another) that have sex out of season and for fun."
-  },
-  {
     "type": "uncategorized",
     "fact": "Only one in two billion people will live to be 116 or older."
   },
@@ -2802,10 +2766,6 @@
   {
     "type": "uncategorized",
     "fact": "The average shelf-life of a latex condom is about two years."
-  },
-  {
-    "type": "animals",
-    "fact": "An estimated 80% of animals on Earth have six legs."
   },
   {
     "type": "uncategorized",
@@ -3038,10 +2998,6 @@
   {
     "type": "uncategorized",
     "fact": "Georgia's state motto is \"Wisdom, Justice and Moderation.\""
-  },
-  {
-    "type": "animals",
-    "fact": "The Chuck E. Cheese franchise was created by Atari, a resteraunt combining robotic animals and arcade games with family meals. They name the franchise a Pizza Time Theater. Chuck E. Cheese was first opened in 1977."
   },
   {
     "type": "uncategorized",
@@ -3305,7 +3261,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A Boeing 747′s wingspan is longer than the Wright brother’s first flight."
+    "fact": "A Boeing 747's wingspan is longer than the Wright brother’s first flight."
   },
   {
     "type": "uncategorized",
@@ -3904,10 +3860,6 @@
     "fact": "A giraffe can go without water longer than a camel."
   },
   {
-    "type": "animals",
-    "fact": "Nearly 80% of all animals on earth have six legs."
-  },
-  {
     "type": "uncategorized",
     "fact": "The average person spends 6 months of their life sitting at red lights."
   },
@@ -3957,23 +3909,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The citrus soda 7-UP was created in 1929; ’7′ was selected after the original 7-ounce containers and ‘UP’ for the direction of the bubbles."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A pig’s orgasm lasts for 30 minutes."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "‘Stewardesses’ is the longest word that is typed with only the left hand."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "To escape the grip of a crocodile’s jaws, push your thumbs into its eyeballs – it will let you go instantly."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Most American car horns honk in the key of F."
+    "fact": "The citrus soda 7-UP was created in 1929; ’7' was selected after the original 7-ounce containers and ‘UP’ for the direction of the bubbles."
   },
   {
     "type": "uncategorized",
@@ -3982,18 +3918,6 @@
   {
     "type": "uncategorized",
     "fact": "Barbie’s full name is Barbara Millicent Roberts."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Every time you lick a stamp, you consume 1/10 of a calorie."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The world’s termites outweigh the world’s humans 10 to 1."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Pound for pound, hamburgers cost more than new cars."
   },
   {
     "type": "uncategorized",
@@ -4540,10 +4464,6 @@
     "fact": "The founders of Hewlett-Packard flipped a coin to determine whose name would come first in the company."
   },
   {
-    "type": "animals",
-    "fact": "Some animals, like the western spotted skunk, are able to delay their pregnancies for months."
-  },
-  {
     "type": "uncategorized",
     "fact": "Sigmund Freud once believed that cocaine could be used to help treat morphine addiction."
   },
@@ -5048,10 +4968,6 @@
     "fact": "You know that you are more likely to be killed by a champagne cork than by a poisonous spider."
   },
   {
-    "type": "animals",
-    "fact": "In the last 4000 years, no new animals have been domesticated."
-  },
-  {
     "type": "uncategorized",
     "fact": "People who come from lower incomes tend to prefer the toilet paper to go under the roll."
   },
@@ -5138,10 +5054,6 @@
   {
     "type": "uncategorized",
     "fact": "When you tie a noose, the rope is wrapped twelve times around because it's the same length as a person’s head."
-  },
-  {
-    "type": "animals",
-    "fact": "Hummingbirds are the only animals that can fly backwards."
   },
   {
     "type": "uncategorized",
@@ -7618,10 +7530,6 @@
   {
     "type": "uncategorized",
     "fact": "Franklin D. Roosevelt's birthday is a legal holiday in the Virgin Islands."
-  },
-  {
-    "type": "animals",
-    "fact": "The teddy bear was named for Theodore Roosevelt. When presented with a koala from Australia, Roosevelt, whose fondness for animals was well known, so praised the creature that a copy of it was made for children. Called the “teddy bear” in the President's honor, the toy soon caught on and became a standard item on every child's shelf."
   },
   {
     "type": "uncategorized",
@@ -11088,142 +10996,6 @@
     "fact": "Pittsburgh and Toronto are the only two cities where all the major sports teams have the same colors: 'black and gold' and 'blue and white' respectively."
   },
   {
-    "type": "human anatomy",
-    "fact": "Banging your head against a wall burns 150 calories an hour."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In the UK, it is illegal to eat mince pies on Christmas Day!"
-  },
-  {
-    "type": "trivia",
-    "fact": "Pteronophobia is the fear of being tickled by feathers!"
-  },
-  {
-    "type": "animals",
-    "fact": "When hippos are upset, their sweat turns red."
-  },
-  {
-    "type": "animals",
-    "fact": "A flock of crows is known as a murder."
-  },
-  {
-    "type": "trivia",
-    "fact": "“Facebook Addiction Disorder” is a mental disorder identified by Psychologists."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The average woman uses her height in lipstick every 5 years."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "29th May is officially “Put a Pillow on Your Fridge Day“."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Cherophobia is the fear of fun."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Human saliva has a boiling point three times that of regular water."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If you lift a kangaroo’s tail off the ground it can’t hop."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Hyphephilia are people who get aroused by touching fabrics."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Billy goats urinate on their own heads to smell more attractive to females."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The person who invented the Frisbee was cremated and made into frisbees after he died!"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "During your lifetime, you will produce enough saliva to fill two swimming pools."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An eagle can kill a young deer and fly away with it."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Polar bears can eat as many as 86 penguins in a single sitting."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "King Henry VIII slept with a gigantic axe beside him."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bikinis and tampons invented by men."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If Pinokio says “My Noes Will Grow Now”, it would cause a paradox. Details here."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Heart attacks are more likely to happen on a Monday."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If you consistently fart for 6 years & 9 months, enough gas is produced to create the energy of an atomic bomb!"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An average person’s yearly fast food intake will contain 12 pubic hairs."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The top six foods that make your fart are beans, corn, bell peppers, cauliflower, cabbage and milk!"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There is a species of spider called the Hobo Spider."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "‘Penis Fencing’ is a scientific term for the mating ritual between flatworms. It involves two flatworms attempting to stab the other flatworm with their penis."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A toaster uses almost half as much energy as a full-sized oven."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A baby spider is called a spiderling."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "You cannot snore and dream at the same time."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The following can be read forward and backwards: Do geese see God?"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A baby octopus is about the size of a flea when it is born."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A sheep, a duck and a rooster were the first passengers in a hot air balloon."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Uganda, 50% of the population is under 15 years of age."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Hitler’s mother considered abortion but the doctor persuaded her to keep the baby."
-  },
-  {
     "type": "uncategorized",
     "fact": "Arab women can initiate a divorce if their husbands don’t pour coffee for them."
   },
@@ -11237,10 +11009,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "95% of people text things they could never say in person."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The Titanic was the first ship to use the SOS signal."
   },
   {
@@ -11249,27 +11017,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "About 8,000 Americans are injured by musical instruments each year."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bob Dylan’s real name is Robert Zimmerman."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Bin Laden’s death was announced on 1st May 2011. Hitler’s death was announced on 1st May 1945."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Shakespeare invented the word “assassination” and “bump.”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Left-handers comprise 4% to 10% of the American population."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Properly kept, vitamins remain stable for four years."
   },
   {
     "type": "uncategorized",
@@ -11285,18 +11033,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Standard, narrow, hard leather bicycle seats may compress nerves in the pubic area. This could lead to impaired sexual responses in men and (possibly) women."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Earth is hit by 6 tons of meteorites every day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In 1980, more than 6 million trees were uprooted or flattened by the blast of Mount St. Helens in Washington."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Lightning strikes the earth somewhere more than seventeen million times every day, or about two hundred times every second."
   },
   {
@@ -11305,75 +11041,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "33% of women surveyed lie about their weight."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bananas grow on a tropical plant that is not a tree -it has no trunk. Bananas are gigantic herbs that spring from underground stems. What appears to be the trunk is a false stem formed by tightly wrapped leaf sheaths. With stalks 25 feet high, they’re the largest plant on earth without a woody stem."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Windiest place on earth is Mt. Washington, in New Hampshire."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Patrick’s real name was Maewyn Succat; after becoming a priest, he adopted the name Patrick."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Patrick was actually born in Great Britain, not Ireland."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first St. Patrick’s Day parade was in Boston (USA), not Ireland."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Chicago dyes their main river green to celebrate St. Patrick’s Day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Leprechauns are actually fairies / shoe makers in Irish folklore."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The shamrock’s three leaves are meant to represent the Trinity."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are 10,000 three-leaf clovers for every four-leaf clover."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The Ramses brand condom is named after the great Pharaoh Ramses II who fathered over 160 children."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Kangaroos can hop as fast as 40 miles per hour."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Alaska has the highest percentage of people who walk to work."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The cost of raising a medium-size dog to the age of eleven is $6,400."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Deep sea clams can live to be more than 100 years old."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The fastest tectonic movement on Earth, 24 cm per year, is at the Tonga microplate near Samoa."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Dolphins don’t automatically breathe, they have to tell themselves to breathe."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Nerve impulses to and from the brain travel as fast as 170 miles per hour."
   },
   {
     "type": "uncategorized",
@@ -11405,91 +11073,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In Cleveland, Ohio women are not allowed to wear patent-leather shoes."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Clinton, Oklahoma has a law against masturbating while watching two people having sex in a car."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It’s safe to make love while parked in Coeur d’Alene, Idaho. Police officers aren’t allowed to walk up and knock on the window. Any suspicious officer who thinks that sex is taking place must drive up from behind, honk his horn three times and wait approximately two minutes before getting out of his car to investigate."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Connorsville, Wisconsin no man shall shoot off a gun while his female partner is having a sexual orgasm."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The peregrine falcon dives at more than 200 miles an hour."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It takes 640 days, or 21 months, to make an African elephant."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "You should not eat raw shellfish. Shellfish often eat raw sewage and contain high levels of bacteria."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Isaac Singer invented the sewing machine for home use in 1851."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Arthur Wynne did what he called a “Word-Cross” in the New York World newspaper in 1913…adapting older word puzzles that were smaller and less interesting. Wynne’s first puzzle was symmetrical and used numbers to mark certain boxes…just like now."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The English language now contains close to a million words."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Parka means “reindeer pelt” to natives of the Aleutian Islands."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Three Amazon Basin waterfalls are at least two-thousand feet long from top to bottom."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The blue whale is the largest animal ever known."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Cheesy, meaning bad, is a late 1800’s term stemming from the bad smell of some cheeses."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Sahara desert stretches for more than three-million square miles.  It’s bigger than all of Australia, three times bigger than the Arabian desert, which itself is twice as big as the Gobi in Mongolia, which in"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "turn is twice as big as the Great Basin desert of Utah and Nevada."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The average American consumes a pound of chocolate a month…plus an extra pound on Christmas and Easter and two extra pounds at Halloween."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Four out of five Americans throw sweepstakes mailings into the trash."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "More than 17-billion hot dogs are sold annually in the United States."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "More than 100-million Americans wear glasses."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A man’s beard grows fastest when he anticipates sex."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The length of the finger dictates how fast the finger-nail grows.  Therefore, the nail on your middle finger grows the fastest, and on average, your toenails grow twice as slow as your finger-nails."
   },
   {
     "type": "uncategorized",
@@ -11497,47 +11081,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The world’s horse population is estimated at 75,000,000.  The oldest horse recorded was Old Billy who was foaled in 1760 and died in 1822 at the age of 62."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The oldest cat lived in Austin , TX. He died at the age of 34."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Nolan Ryan is the oldest pitcher in major league history to pitch a no-hitter."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The deepest spot in the ocean is in the Mariana Trench at 11.7 km"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "than you think. Poppycock is a Dutch word which means “soft dung.”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "No man is allowed to make love to his wife with the smell of garlic, onions, or sardines on his breath in Alexandria, Minnesota. If his wife so requests, law mandates that he must brush his teeth."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Warn your hubby that after lovemaking in Ames, Iowa, he isn’t allowed to take more than three gulps of beer while lying in bed with you-or holding you in his arms."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bozeman, Montana, has a law that bans all sexual activity between members of the opposite sex in the front yard of a home after sundown-if they’re nude. (Apparently, if you wear socks, you’re safe from the"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "law!)"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "During lunch breaks in Carlsbad, New Mexico no couple should engage in a sexual act while parked in their vehicle, unless their car has curtains."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In the past 60 years, the groundhog has only predicted the weather correctly 28% of the time.  I’d say his prediction of more winter this year was spot-on."
   },
   {
     "type": "uncategorized",
@@ -11553,10 +11097,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Women influence 80 percent of all new-car purchases."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Fresca, the soft drink, had problems when it was sold in Mexico. Fresca is slang for lesbian."
   },
   {
@@ -11569,31 +11109,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In Texas, it is illegal to curse in front of or indecently expose a corpse."
-  },
-  {
-    "type": "uncategorized",
     "fact": "According to one report, more popcorn is sold in Dallas, Texas than anywhere in the U.S. (The average American eats 42 quarts of popcorn a year.)"
   },
   {
     "type": "uncategorized",
-    "fact": "Babies are born without knee caps. They don’t appear until the child reaches 2-6 years of age."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "David Prowse was the guy in the Darth Vader suit in Star Wars. He spoke all of Vader’s lines, and didn’t know that he was going to be dubbed over by James Earl Jones until he saw the screening of the movie."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is one of the few places in the world where a boat can sail under a train driving under a car driving under an airplane."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Cats have over one hundred vocal sounds, dogs only have about ten."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If you keep a Goldfish in a dark room, it will eventually turn white."
   },
   {
     "type": "uncategorized",
@@ -11605,47 +11125,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The average cat food meal is the equivalent to about five mice."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The drink ‘7UP’ used to contain lithium (an anti-depressant)."
   },
   {
     "type": "uncategorized",
-    "fact": "Sheep prefer to drink running water."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A seagull drinks salt water because it has special glands that filter out the salt."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "After eating, a housefly regurgitates its food and then eats it again."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "For $150 you can become a licensed dead animal hauler in Texas."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The world’s largest oatmeal cake was baked and built in Bertram, Texas during Labor Day weekend 1991. The 33-layer cake stood more than 3 feet tall, weighed 333 pounds, and served 3,333 people. I’ve been to Bertram, and it has to be the worst speed trap in Texas."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A polar bear’s skin is black. Its fur is not white, but actually clear."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Donald Duck comics were banned in Finland because he doesn’t wear pants."
-  },
-  {
-    "type": "uncategorized",
     "fact": "You would have to drink 100 cups of coffee in four hours to get the lethal dose of caffeine–ten grams."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "To combat the deadly killer bee, the Harris County Fire Department (i.e., Houston, Texas) has 11 trucks equipped with soapy water sprayers that do nothing but respond to killer bee calls."
   },
   {
     "type": "uncategorized",
@@ -11665,23 +11149,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In Texas, it’s illegal to put graffiti on someone else’s cow."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Vista, AZ. It was put in so the soldiers from Ft. Huachuca could get food since the base had a regulation prohibiting anyone in uniform from entering a business establishment."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "1 out of 3 of all cows in the US used for food purposes (beef) are used by the McDonald’s Corp."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "About 80 percent of all bird species in the world inhabit wetlands."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A pound of termites has more nutrients than a pound of beef or pork."
   },
   {
     "type": "uncategorized",
@@ -11701,19 +11169,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Deer can abort a pregnancy if there is not enough food to support the deer population. She absorbs the fetus back into her system, or she can hold off giving birth until there are the right conditions."
-  },
-  {
-    "type": "uncategorized",
     "fact": "According to the Texas Department of Transportation, one person is killed annually painting stripes on the state’s highways and roads."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Mosquito repellents don’t repel. They hide you. The spray blocks the mosquito’s sensors so they don’t know you are there."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Acute hasopharyngitis is more commonly known as a cold."
   },
   {
     "type": "uncategorized",
@@ -11733,18 +11189,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Mount Everest is more than 29-thousand feet high, which makes it almost 50-percent taller than Mount McKinley."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Mount McKinley is taller than Africa’s Kilimanjaro or Japan’s Mount Fuji or any of the Alps. That should give you an idea how tall Everest really is."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Over 90% of the calories you burn are used to maintain your body temperature. A good way to lose weight is, therefore, to expose your body to the cold."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The insulation of the fuel tanks on a Saturn V rocket was so good an ice cube placed inside would take 8 years to melt."
   },
   {
@@ -11757,30 +11201,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "There are close to 4,000 known species of frogs, including toads."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The biggest frog is the appropriately named Goliath frog (Conraua goliath) of Cameroon. They reach nearly 30cm (a foot) and weigh as much as 3.3 kilograms."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The smallest frog is the Gold frog (Psyllophryne Didactyla) of Brazil. They grow to only 9.8 mm (3/8 inch)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "One in eight women and one in seven men will have an affair within the first two years of marriage."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The First episode of “Joanie Loves Chachi” (Happy Days spinoff) was the highest rated American TV program on Korean television. “Chachi” is Korean for penis."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Boys who have unusual first names are more likely to have mental problems than boys with common names. Girls don’t seem to have this problem."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The American Red Cross was founded May 21, 1881."
   },
   {
@@ -11789,195 +11209,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "15% of U.S. women send themselves flowers on Valentine’s Day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "73% of people who buy flowers for Valentine’s Day are men, while only 27 percent are women."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "About 1 billion Valentine’s Day cards are exchanged each year. That’s the largest seasonal card-sending occasion of the year, next to Christmas."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "About 3% of pet owners will give Valentine’s Day gifts to their pets."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Alexander Graham Bell applied for his patent on the telephone, an “Improvement in Telegraphy”, on Valentine’s Day, 1876."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "California produces 60 percent of American roses, but the vast number sold on Valentine’s Day in the United States are imported, mostly from South America. Approximately 110 million roses, the majority red, will be sold and delivered within a three-day time period."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Cupid, another symbol of Valentines Day, became associated with it because he was the son of Venus, the Roman god of love and beauty. Cupid often appears on Valentine cards holding a bow and arrows because he is believed to use magical arrows to inspire feelings of love."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "During the late 1800s, postage rates around the world dropped, and the obscene St. Valentine’s Day card became popular, despite the Victorian era being otherwise very prudish. As the numbers of racy valentines grew, several countries banned the practice of exchanging Valentine’s Days cards. During this period, Chicago’s post office rejected more than 25,000 cards on the grounds that they were so indecent, they were not fit to be carried through the U.S. mail."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "During the Middle Ages, the belief that birds chose their mates on St. Valentine’s Day led to the idea that boys and girls would do the same. Up through the early 1900s, the Ozark hill people in the eastern United States thought that birds and rabbits started mating on February 14, a day for them which was not only Valentine’s Day but Groundhog Day as well."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "February 14, 270 A.D. : Roman Emperor Claudius II, dubbed “Claudius the Cruel,” beheaded a priest named Valentine for performing marriage ceremonies. Claudius II had outlawed marriages when Roman men began refusing to go to war in order to stay with their wives."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Hallmark has over 1330 different cards specifically for Valentine’s Day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Humorous valentines of the 19th century were called “Vinegar Valentines” or “Penny Dreadfuls.” Vinegar Valentines were introduced in 1858 by John McLaughin, a Scotsman with a New York City Publishing Business. Penny Dreadfuls with comic designs drawn in 1870 by American cartoonists Charles Howard became known as Penny Dreadfuls."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In 1929 in Chicago, gunmen in the suspected employment of organized-crime boss Al Capone murder seven members of the George “Bugs” Moran North Siders gang in a garage on North Clark Street. The so-called St. Valentine’s Day Massacre stirred a media storm centered on Capone and his illegal Prohibition-era activities and motivated federal authorities to redouble their efforts to find evidence incriminating enough to take him off the streets."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In the Middle Ages, young men and women drew names from a bowl to see who their valentines would be. They would wear these names on their sleeves for one week. To wear your heart on your sleeve now means that it is easy for other people to know how you are feeling."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In the United States, 64 percent of men do not make plans in advance for a romantic Valentine’s Day with their sweethearts."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Victorian times it was considered bad luck to sign a Valentine’s Day card."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Wales, wooden love spoons were carved and given as gifts on February 14th. Hearts, keys and keyholes were favorite decorations on the spoons. The decoration meant, “You unlock my heart!”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It wasn’t until 1537 that St. Valentine’s Day was declared an official holiday. England’s King Henry VIII declared February 14th a holiday."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "On February 14, 1779, Captain James Cook, the great English explorer and navigator, was murdered by natives of Hawaii during his third visit to the Pacific island group."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "One single perfect red rose framed with baby’s breath is referred to by some florists as a “signature rose,” and is the preferred choice for many for giving on Valentine’s Day, anniversary, or birthday."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Only the U.S., Canada, Mexico, France, Australia and the U.K. celebrate Valentine’s Day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Sir Alexander Fleming was a young bacteriologist when an accidental discovery led to one of the great developments of modern medicine. Having left a plate of staphylococcus bacteria uncovered, Fleming noticed that a mold that had fallen on the culture had killed many of the bacteria. He identified the mold as penicillium notatum, similar to the kind found on bread. On February 14, 1929, Fleming introduced his mold by-product called penicillin to cure bacterial infections."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Some people used to believe that if a woman saw a robin flying overhead on Valentine’s Day, it meant she would marry a sailor. If she saw a sparrow, she would marry a poor man and be very happy. If she saw a goldfinch, she would marry a millionaire."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Teachers will receive the most Valentine’s Day cards, followed by children, mothers, wives, and then, sweethearts. Children ages 6 to 10 exchange more than 650 million Valentine’s cards with teachers, classmates, and family members."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The “I Love You” computer virus was detected in Hong Kong on May 1, 2000. In four days the virus had mutated into three different generations. Figures by Trend Micro Inc. showed that “I Love You” had infected 3.1 million computers worldwide."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The 17th century a hopeful maiden ate a hard-boiled egg and pinned five bay leaves to her pillow before going to sleep on Valentine’s eve. It was believed this would make her dream of her future husband."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The ancient Romans celebrated the Feast of Lupercalia in honor of Juno, the queen of the Roman gods and goddesses on February 14. Juno was also the goddess of women and marriage."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Empire State Building in New York City played a prominent role in the movie Sleepless in Seattle. This year 15 couples will take (or renew) their vows on the 80th floor of this famous landmark."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first American publisher of valentines was printer and artist Esther Howland. During the 1870s, her elaborate lace cards were purchased by the wealthy, as they cost a minimum of 5 dollars – some sold for as much as 35 dollars. Mass production eventually brought prices down, and the affordable “penny valentine” became popular with the lower classes."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first photograph of a U.S. President was taken on February 14, 1849 by Matthew Brady in New York City. President James Polk was the subject of the famous picture. ."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first televised tour of the White House aired on February 14 in 1962. First Lady Jackie Kennedy hosted the tour."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The heart is the most common symbol of romantic love. Ancient cultures believed the human soul lived in the heart. Others thought it to be the source of emotion and intelligence. Some believed the heart embodied a man’s truth, strength and nobility. The heart may be associated with love because the ancient Greeks believed it was the target of Eros, known as Cupid to the Romans. Anyone shot in the heart by one of Cupid’s arrows would fall hopelessly in love. Because the heart is so closely linked to love, it’s red colour is thought to be the most romantic."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Italian city of Verona, where Shakespeare’s lovers Romeo and Juliet lived, receives about 1,000 letters addressed to Juliet every Valentine’s Day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Kama Sutra is believed to be the oldest sex manual in existence. Generally considered the standard work on love in Sanskrit literature, the book is thought to have been written around 300 A.D."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The most fantastic gift of love is the Taj Mahal in India. It was built by Mughal Emperor Shahjahan as a memorial to his wife, who died in childbirth. Work on the Taj began in 1634 and continued for almost 22 years. required the labor of 20,000 workers from all over India and Central Asia."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The oldest known Valentines were sent in 1415 A.D. by the Duke of Orleans to his French wife while he was imprisoned in the Tower of London. It is still on display in a museum in England."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The oldest surviving love poem is written in a clay tablet from the times of the Sumerians, inventors of writing, around 3500 B.C. It was unromantically named Istanbul #2461 by the archeologists who unearthed it."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The red rose was the favorite flower of Venus, the Roman goddess of love. Red stands for strong feelings which is why a red rose is a flower of love."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Valentine’s Day is big business. Consumers will spend an average of $77.43 on Valentine’s Day gifts this year. E-commerce retailers expect to rack up about $650 million in sales of food, candy, flowers, and other Valentine’s Day gifts. Of that amount about $350 million will be for gifts and flowers and another $45 million will be spent on food (including chocolate) and wine."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Wearing a wedding ring on the fourth finger of the left hand dates back to ancient Egypt, where it was believed that the vein of love ran from this finger directly to the heart."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A ring has been included in wedding ceremonies since the 12th century. Pope Innocent the Third ordained that marriages had to take place in church and that a wedding ring should be exchanged during the service."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In England, the Romans, who had taken over the country, had introduced a pagan fertility festival held every February 14. After the Romans left England, nearly a century later, the pagan ritual was abolished by Pope Gelsius who established St. Valentine’s Day as a celebration of love in 496 A.D."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In America, the pilgrims sent confections, such as sugar wafers, marzipan, sweetmeats and sugar plums, to their betrothed. Great value was placed on these gifts because they included what was then a rare commodity, sugar. After the late 1800’s, beet sugar became widely used and more available, and sweet gifts continued to be valued and enjoyed."
   },
   {
     "type": "uncategorized",
-    "fact": "Chocolate manufacturers currently use 40 percent of the world’s almonds and 20 percent of the world’s peanuts."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Multiply 37,037 by any single number (1-9), then multiply that number by 3. Every digit in the answer will be the same as that first single number."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Edison’s first light bulb filament was made of cotton (1879)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The RCMP’s first tracking dog was named Dale."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word ‘nerd’ was first coined by Dr. Seuss in ‘If I ran the Zoo’"
   },
   {
     "type": "uncategorized",
@@ -11993,39 +11229,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Play-doh was first invented as a wallpaper cleaner."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Douglas MacArthur’s mother used to send letters to his military superiors suggesting they promote her son."
   },
   {
     "type": "uncategorized",
-    "fact": "The Union ironclad, Monitor, was the first U.S. ship to have a flush toilet."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first automatic turn signal was an illuminated human like mechanical hand on the Hispano-Suiza Alfonso that extended to indicate right and left turns."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The first known heart medicine was discovered in an English garden. In 1799, physician John Ferriar noted the effect of dried leaves of the common foxglove plant, digitalis purpurea, on heart action. Still used in heart medications, digitalis slows the pulse and increases the force of heart contractions and the amount of blood pumped per heartbeat."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An average adult female wolf in Minnesota weighs 60 to 80 pounds."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "P. J. Tierney, developer of the modern diner, died of indigestion in 1917 after eating at a diner."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A McDonald’s Big Mac bun has an average of 178 sesame seeds."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There is an elevator company named Schindler’s, meaning that there are Schindler’s lifts!"
   },
   {
     "type": "uncategorized",
@@ -12037,19 +11245,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The Virginia Opossum is the only marsupial (pouched mammal) in North America.   They will play dead when threatened but they do not sleep hanging by their tail.   They have a litter size up to 22 but only a maximum of 13 live. Their babies stay in the pouch for the first 60 days."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Most people think that John F. Kennedy was our nation’s youngest President. In fact, he was not. Theodore Roosevelt was. Teddy Roosevelt was President McKinley’s vice-president. When McKinley was assassinated, Roosevelt was 42, making Roosevelt the youngest president. John Kennedy, at 43, was the youngest elected President."
   },
   {
     "type": "uncategorized",
     "fact": "What is the most common town name in the US? 1. Fairview 2. Midway 3. Oak Grove 4. Franklin 5. Riverside 6. Centerville 7. Mount Pleasant 8. Georgetown 9. Salem 10. Greenwood"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The rumbling sound your stomach sometimes makes is called a”borborygmi.”"
   },
   {
     "type": "uncategorized",
@@ -12065,10 +11265,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In the movie, ‘Star Wars’, during the scene in which Luke gets out of his X-wing fighter after blowing up the Death Star, he accidentally calls Princess Leia ‘Carrie’ (her real first name)."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The first subway was built in London (1860-63) by the cut and cover method. Other notable subways: Paris (the Metro 1898), New York (1900)"
   },
   {
@@ -12081,35 +11277,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Daffy Duck’s middle name is ‘Dumas.’"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "On the average, there are 8 peas in a pod."
-  },
-  {
-    "type": "uncategorized",
     "fact": "John Walker, an English chemist, never patented the match (he invented it) because he thought it was too important to be anything but public property."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If you’re cold put a hat on. 80% of your body temperature escapes through your head."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Eiffel Tower is second only to the Golden Gate Bridge as a suicide location."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Michael J. Fox’s middle name is really Andrew."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The number one selling snack in the U.S.A. is potato chips."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The duckbill platypus (male) is the only venomous mammal in the world."
   },
   {
     "type": "uncategorized",
@@ -12117,7 +11285,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Catherine the Great of Russia suffered from nymphomania.  So do most men."
+    "fact": "Catherine the Great of Russia suffered from nymphomania."
   },
   {
     "type": "uncategorized",
@@ -12145,18 +11313,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A garter snake can give birth to 85 babies."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "If you unfolded and laid out the delicate membranes from inside a dogs nose, the membranes would be larger than the dog itself."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The mudskipper is a fish that can actually walk on land."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The historic Ford 1,100-acre facility near the Rouge River was once the world’s largest auto plant. Henry Ford built the plant in 1918 because he dreamed of building a car from start to finish in one location."
   },
   {
@@ -12165,23 +11321,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The zoo in Tokyo closes for two months of the year so animals can have a holiday from visitors."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Methane gas can often be seen bubbling up from the bottom of ponds. It is produced by the decomposition of dead plants and animals in the mud."
   },
   {
     "type": "uncategorized",
-    "fact": "The world’s smallest mammal is the bumblebee bat of Thailand, weighing less than a penny."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Kitsap County, Washington, was originally called Slaughter County, and the first hotel there was called the Slaughter House."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Men are 1.6 times more likely to undergo by-pass surgery than women."
   },
   {
     "type": "uncategorized",
@@ -12193,47 +11337,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In the wild, orcas are thought to live to seventy or eighty years of age. There is some evidence that females live longer than males, and the average life expectancy of male orcas is around forty to fifty years."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Neutering a cat extends its life span by two or three years."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "By law, in Bourbon, Mississippi, one small onion must be served with each glass of water in a restaurant."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Tower of Independence clock on the back of a U.S. $100 dollar bill shows the time as 4:10."
-  },
-  {
-    "type": "uncategorized",
     "fact": "At an NOAA conference in 1972, Roxcy Bolton proposed naming hurricanes after Senators instead of women. She also preferred “him-i-canes.”"
   },
   {
     "type": "uncategorized",
     "fact": "For one day in 1998, Topeka, Kansas, renamed itself “ToPikachu” to mark Pokemon’s U.S. debut."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Horses can’t vomit."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Before settling on the Seven Dwarfs we know today, Disney also considered Chesty, Tubby, Burpy, Deafy, Hickey, Wheezy, and Awful."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The 1975 Dictionary of American Slang defines “happy cabbage” as money to be spent “on entertainment or other self-satisfying things.”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The average life span of an umbrella is 1 1/2 years."
   },
   {
     "type": "uncategorized",
@@ -12245,14 +11353,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The slipper-shelled snail starts life as a male and gradually turns female as it grows up."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Fingernails have a life span of three to six months. That’s how long it takes them to grow from base to tip, progressing at the pace of 1.5 inches a year — or 0.000000047 inches a second."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Sex for one hour will burn off 11 Hershey Kisses, or 360 calories."
   },
   {
@@ -12261,51 +11361,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In Vermont, USA, it is illegal for women to wear false teeth without the written permission of their husbands."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It is now proven that smoking is the biggest source of statistics."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Octavio Guillen and Adriana Martinez were married in Mexico City in 1969 after a world record engagement of 67 years."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Sherlock Holmes writer Arthur Conan Doyle was an ophthalmologist."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The average American drinks about 600 sodas a year."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It’s against the law to slam your car door in Switzerland."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There wasn’t a single pony in the Pony Express, just horses."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "What were the first moons to be discovered around other planets?"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Jupiter’s four biggest moons – Io, Europa, Ganymede, and Callisto – were discovered in 1610."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Five Saturn moons were found in the late 1600’s."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The two tiny Mars moons were not discovered until the late 1800’s."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Pluto’s moon (I grew up calling it a planet and it will always be a planet to me), Charon, was not discovered until 1978."
   },
   {
     "type": "uncategorized",
@@ -12314,10 +11370,6 @@
   {
     "type": "uncategorized",
     "fact": "In the nineteenth century, allegedly an English potter misunderstood the meaning of the term “pygg,’ thinking it was “pig.” When someone asked him to make a pygg bank, he made one shaped like a pig. This idea caught on and soon everyone wanted a “piggy” bank."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The state flower of Alaska is a forget-me-not."
   },
   {
     "type": "uncategorized",
@@ -12337,15 +11389,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The face of comic book hero Captain Marvel was modeled after Fred MacMurray."
-  },
-  {
-    "type": "uncategorized",
     "fact": "English writer Ben Johnson was buried standing up in Westminister Abbey because he couldn’t afford normal grave space."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "According to ancient Hindu law, the penalty for adultery was the removal of a person’s nose."
   },
   {
     "type": "uncategorized",
@@ -12354,10 +11398,6 @@
   {
     "type": "uncategorized",
     "fact": "Teddy Roosevelt had four sons. Three of them died in war."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Manhattan cocktail, a mixture of whiskey and sweet vermouth, was invented by WInston Churchill’s mother."
   },
   {
     "type": "uncategorized",
@@ -12381,23 +11421,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "In Portland, Oregon, a priest or a minister is not allowed to perform a wedding ceremony at a skating rink."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Barbers are not allowed to eat onions between 7 a.m. and 7 p.m. in Waterloo, Nebraska."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The least-liked vegetable of all time is the turnip.  Personally, I can’t stand them either!"
-  },
-  {
-    "type": "uncategorized",
     "fact": "In colonial Boston, schoolteachers earned about seven cents per day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The real name of television’s Mister Ed was Bamboo Harvester."
   },
   {
     "type": "uncategorized",
@@ -12406,10 +11430,6 @@
   {
     "type": "uncategorized",
     "fact": "In 1930, Fred Newton became the only man to swim the Mississippi River – lengthwise (1,826 miles over a six-month period)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Only righthanded players can play polo according to the U.S. Polo Association."
   },
   {
     "type": "uncategorized",
@@ -12433,15 +11453,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The Bank of America was originally called The Bank of Italy."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The working title of Joseph Heller’s 1961 novel Catch-22 was Catch-18."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A bee uses 22 muscles to sting someone."
   },
   {
     "type": "uncategorized",
@@ -12457,19 +11469,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "An average American will eat 350 cows, 310 hogs, and 225 lambs in a lifetime."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Insects can shiver."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The red and white label on a Campbell’s Soup can comes from the colors of the Cornell University football team."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The cartoon character “Popeye” is immortalized in a statue in Crystal City, Texas.  Finding out where Crystal City, Texas is on a map is a trivia question in itself."
   },
   {
     "type": "uncategorized",
@@ -12477,15 +11477,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The “D” in D-Day stands for “Day” to reiterate its military importance."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In days long ago, when men who worked on the railroad visited a brothel, they left their red lamps outside – and there you have the coining of the phrase “red light district.”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A duck feather weighs approximately .016 to .063 grams."
   },
   {
     "type": "uncategorized",
@@ -12493,19 +11485,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Earthworms don’t have eyes or ears."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The Federal Aviation Administration once did a study that found the average airline stewardess has a nose of 2.18 inches long."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Two of three Americans have hemorrhoids."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An ant has five noses."
   },
   {
     "type": "uncategorized",
@@ -12549,15 +11529,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "An armadillo can be trained to be housebroken."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Rudyard Kipling would write only with black ink."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In many species of birds, the eyes weigh more than the brain."
   },
   {
     "type": "uncategorized",
@@ -12573,19 +11545,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Paul Revere took his midnight ride on a horse named Brown Beauty."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In China, the day a child is born it is considered one year old."
   },
   {
     "type": "uncategorized",
     "fact": "The sound you hear in a seashell is actually the echo of the blood pulsing in your ear."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Beavers can swim underwater for 15 minutes."
   },
   {
     "type": "uncategorized",
@@ -12613,47 +11577,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The shell is about 12 percent of the weight of an entire egg."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The size of a polo field is 12.4 acres, the largest playing field in sports."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A flea can jump more than a foot. This is comparable to a human being jumping over the Washington Monument with plenty of room to spare."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Giraffes are very susceptible to throat infections."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Adolf Hitler’s favorite movie was “King Kong.”"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Rabbits talk to each other by tapping their feet."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The oldest known vegetable is the pea, used by the Chinese in 2,000 B.C."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Fish can become seasick if kept aboard a ship."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The average American carries four credit cards."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It takes four hours to hard boil an ostrich egg: it weighs 30 pounds."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A fetus in the womb can get hiccups."
   },
   {
     "type": "uncategorized",
@@ -12713,19 +11637,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Half of the peanuts grown in America are used to make peanut butter."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Boston College is in Chestnut Hill, Massachusetts."
   },
   {
     "type": "uncategorized",
     "fact": "Leonardo da Vinci could draw with one hand and write with the other – all at the same time."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A kangaroo can hop at a pace of 40 miles per hour."
   },
   {
     "type": "uncategorized",
@@ -12741,23 +11657,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "“Utopia” is an ancient Greek word meaning “nowhere.”"
-  },
-  {
-    "type": "uncategorized",
     "fact": "Casanova traveled with a custom-made portable bath made for two."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A dolphin’s brain is bigger than a human’s."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A horse can look forward with one eye and backwards with the other."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Jellyfish evaporate every once in a while."
   },
   {
     "type": "uncategorized",
@@ -12781,19 +11681,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A dragonfly eats, on average, 300 mosquitoes per day."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An inch-thick rope of spider’s silk can withstand up to 140,000 pounds of pressure."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In 1968, there were 5 million-dollar lottery winners who did not claim their prize."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Pigs can run a 7.5 minute mile."
   },
   {
     "type": "uncategorized",
@@ -12810,10 +11698,6 @@
   {
     "type": "uncategorized",
     "fact": "The Hawaiian alphabet has only twelve letters."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Some people believe brown eggs are richer than white eggs and more nutritious. There really isn’t correlation of richness of the egg to the color of the shell. Analysis shows eggs are practically the same in chemical composition regardless of the color of the shell and there is no difference in the food or nutrient content of varying shades of the color of egg shells."
   },
   {
     "type": "uncategorized",
@@ -12841,10 +11725,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A collector of trivia is called a “spermologer.” Get your mind out of the gutter, folks."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Johann Sebastian Bach fathered 20 known children."
   },
   {
@@ -12861,10 +11741,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Diane Keaton’s, who won an Oscar for her portrayal of the title role in “Annie Hall,” real last name is Hall."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Charles Lindbergh’s grandfather changed the family’s last name (yes, before Charles was born). Good thing he did, or this hero would have been known as Charles Manson."
   },
   {
@@ -12877,10 +11753,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The electric razor made its debut in America on March 18, 1931."
-  },
-  {
-    "type": "uncategorized",
     "fact": "General Custer’s soldiers called him “Hard Ass.”"
   },
   {
@@ -12889,47 +11761,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A bear has 42 teeth."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Blackboard chalk is not chalk – it is plaster of Paris."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The pineapple is a berry."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "St. Patrick was born in Britain."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A prairie dog is not a dog – it’s a rodent."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A horned toad is a lizard."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Black-eyed peas are not peas. They are beans."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The flying fox is not a fox – it is a bat."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Catgut string does not come from a cat – it is from a sheep’s intestines."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The kangaroo rat is not a rat – it is a gopher."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The silkworm is not a worm – it is a caterpillar."
   },
   {
     "type": "uncategorized",
@@ -12937,35 +11769,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Honey is used to make antifreeze."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Dog meat is a delicacy in China."
-  },
-  {
-    "type": "uncategorized",
     "fact": "A fella by the name of Robert Earl Hughes used to be the heaviest person in the world. He weighed *just* 1,067 pounds."
   },
   {
     "type": "uncategorized",
-    "fact": "Shooting stars are not stars – they are meteors."
-  },
-  {
-    "type": "uncategorized",
     "fact": "You have to count all the way to one thousand before the letter “a” is used in spelling a number."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Fireflies light up as a means of sexual attraction."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Seals have been known to swim for as long as 8 months, and as far as 6,000 miles, without touching land."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An ant’s sense of smell is comparable to a dog’s."
   },
   {
     "type": "uncategorized",
@@ -13005,27 +11813,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Honeybees and turtles are deaf."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The odds against someone having twins is about 90:1."
   },
   {
     "type": "uncategorized",
-    "fact": "In the 1800’s, people thought the eggplant was poisonous and called it the “mad apple.” Personally, I can’t see how anyone can eat that stuff."
-  },
-  {
-    "type": "uncategorized",
     "fact": "“Jack” is the most common name in nursery rhymes."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "An adult has 206 bones."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Newborn infants have 300 bones."
   },
   {
     "type": "uncategorized",
@@ -13041,10 +11833,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The world’s largest clams weigh almost 500 pounds."
-  },
-  {
-    "type": "uncategorized",
     "fact": "East Chicago is actually a town in Indiana."
   },
   {
@@ -13054,10 +11842,6 @@
   {
     "type": "uncategorized",
     "fact": "A bride in China wears the color red."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A cow can produce 25 gallons of milk per week."
   },
   {
     "type": "uncategorized",
@@ -13077,19 +11861,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "If you attempted to commit suicide in England in the 1800’s, and were unsuccessful, you would face the death penalty."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The most common surname in the world is “Chang.”"
   },
   {
     "type": "uncategorized",
     "fact": "A golf ball, when driven off a tee, can reach speeds up to 170 miles per hour."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The most popular name for a male cat is Tiger."
   },
   {
     "type": "uncategorized",
@@ -13105,23 +11881,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "A domestic cat has eighteen claws: five on each of its front paws and four on each of its back paws."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The tip of a whip makes a cracking sound because it is moving faster than the speed of sound."
   },
   {
     "type": "uncategorized",
     "fact": "An ear of corn almost always has an even number of rows (twelve, fourteen, or sixteen)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Earthworms have five hearts."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The cat is the only domestic animal not mentioned in the Bible."
   },
   {
     "type": "uncategorized",
@@ -13133,10 +11897,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Tuna fish swim at an average speed of 9 miles per hour. They also never stop moving."
-  },
-  {
-    "type": "uncategorized",
     "fact": "According to Metropolitan Life Insurance, major league baseball players live significantly longer than the average male – especially if you are a third baseman."
   },
   {
@@ -13145,19 +11905,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "There are 10 times more sheep in Australia than people."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The ring finger on a man’s left hand is typically longer than his index finger."
   },
   {
     "type": "uncategorized",
     "fact": "Wyatt Earp became a boxing referee after he retired from law enforcement."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Ancient Egyptians would shave off their eyebrows in order to properly mourn the death of their cats."
   },
   {
     "type": "uncategorized",
@@ -13177,18 +11929,6 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The roller coaster was invented in the 17th century in Russia."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are more sweat glands on the soles of your feet than on any other part of your body."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Speaking of feet, did you know African elephants stay on their feet for 35 to 40 years?"
-  },
-  {
-    "type": "uncategorized",
     "fact": "According to Goodyear, who allegedly spent 10 years researching this, a person’s right shoe will wear out faster than your left shoe."
   },
   {
@@ -13198,10 +11938,6 @@
   {
     "type": "uncategorized",
     "fact": "Chinese celebrate their birthdays only once every ten years."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A toad has no teeth."
   },
   {
     "type": "uncategorized",
@@ -13226,10 +11962,6 @@
   {
     "type": "uncategorized",
     "fact": "Nepal is the only country in the world which does not have a rectangular flag – it has two triangular pennants, one on top of the other."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are 11 points on the Canadian flag."
   },
   {
     "type": "uncategorized",
@@ -14974,10 +13706,6 @@
   {
     "type": "uncategorized",
     "fact": "All gondolas in Venice, Italy must be painted black, unless they belong to a high official."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"karate\" means \"empty hand.\""
   },
   {
     "type": "uncategorized",
@@ -17585,35 +16313,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The king of hearts is the only king without a moustache."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Henry Ford produced the model T only in black because the black paint available at the time was the fastest to dry."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Mario, of Super Mario Bros. fame, appeared in the 1981 arcade game, Donkey Kong. His original name was Jumpman, but was changed to Mario to honor the Nintendo of America's landlord, Mario Segali."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The three best-known western names in China: Jesus Christ, Richard Nixon, and Elvis Presley."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "World Tourist day is observed on September 27."
-  },
-  {
-    "type": "uncategorized",
     "fact": "There are more than 1,700 references to gems and precious stones in the King James translation of the Bible."
   },
   {
     "type": "uncategorized",
     "fact": "Turning a clock's hands counterclockwise while setting it is not necessarily harmful. It is only damaging when the timepiece contains a chiming mechanism."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Mary Stuart became Queen of Scotland when she was only six days old."
   },
   {
     "type": "uncategorized",
@@ -18029,35 +16733,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "According to NASA, the U.S. has the world's most violent weather. In a typical year, the U.S. can expect some 10,000 violent thunderstorms, 5,000 floods, 1,000 tornadoes and several hurricanes"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The surface area of the Earth is 197,000,000 square miles"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The smallest island with country status is Pitcairn in Polynesia, at just 1.75 sq. miles/4,53 sq. km"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In downtown Lima, Peru, there is a large brass statue dedicated to Winnie-the-Pooh."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Portugal is the world's largest producer of cork. The country has regulations protecting cork trees dating back to 1320. During the 1920’s and 30’s, it became illegal to cut down the trees other than for essential thinning and removal of old non-producing trees."
-  },
-  {
-    "type": "uncategorized",
     "fact": "La Paz, the capital city of Bolivia is the highest capital in the world. Ski resorts there operate only on weekends during the South American summer (November to March). At an elevation of over 17,000 feet, it is too cold to operate during the South American winter."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The most remote island in the world is Tristan da Cunha, which is above the sub-Antarctic zone."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are 3,900 islands in the country Japan, the country of islands."
   },
   {
     "type": "uncategorized",
@@ -18105,15 +16781,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "All of the clocks in Pulp Fiction are stuck on 4:20 Walt Disney was afraid of mice John Wayne had the most leading roles in Hollywood with 141 Jerry Maguire was the highest grossing sports movie in history."
-  },
-  {
-    "type": "uncategorized",
     "fact": "The most expensive movie poster in history was the poster from 1932's The Mummy which auctioned for $453,000 in 1977."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Shakespeare's Hamlet has been adopted into film 49 times, Romeo and Juliet has been adopted into film 27 times."
   },
   {
     "type": "uncategorized",
@@ -18121,151 +16789,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The mask used by Michael Myers in the original \"Halloween\" movie was actually a Captain Kirk mask painted white."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Disney's Fantasia, the Sorcerer name is Yensid which is Disney backwards."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Beatles movie Help was dedicated to Elias Howe, inventor of the sewing machine."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first image ever transmitted on TV was Felix the Cat."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson."
   },
   {
     "type": "uncategorized",
-    "fact": "In the movie \"Scarface\" the F-word is said 207 time, which works out to an average of 1.22 per minute."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Lon Chaney's great skill as a silent film actor came about as a result of his upbringing. Both of his parents were deaf-mutes, so he learned to communicate by expressive pantomime."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "C3P0 is the first character to speak in Star Wars."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Chocolate syrup was used for blood in the famous 45 second shower scene in Alfred Hitchcock's movie, Psycho, which actually took 7 days to shoot."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Disney's Fantasia, the Sorcerer's name is Yensid, which is Disney spelled backward."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The first film granted permission by the Chinese government to be filmed in the Forbidden City was The Last Emperor, 1987."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Black Hole, 1979, was Disney's first PG-rated movie."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The 1st kiss in a movie was between May Irwin and John Rice in \"The Widow Jones,\" in 1896."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The 1st feature-length animated film, released by Disney Studios in 1937, was \"Snow White and the Seven Dwarfs.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Penny Marshall was the first woman film director to have a film take in more than $100 million at the box office - she accomplished this with the 1988 flick Big."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Napoleon Bonaparte is the historical figure most often portrayed in movies. He has been featured in 194 movies, Jesus Christ in 152, and Abraham Lincoln in 137."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In October 1959 Elizabeth Taylor became the first Hollywood star to receive $1 million for a single picture. (for Cleopatra)"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Some famous robots that appeared in the movies Ash - Alien, Gort - The Day the Earth Stood Still, Maria - Metropolis, Sonny - I-Robot, Huet, Duey and Luey - Silent Running"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The largest number of fatalities on a film set is 40, occuring during the making of 'The Sword of Tipu Sultan' in 1989."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "'Some Like it Hot' (1959) was originally called 'Not Tonight Josephine'."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "One of the actors in Reservoir Dogs, Eddie Bunker (Mr Blue) was a real former criminal and was once on FBI's Ten Most Wanted list."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Screen 6 at Atlanta's CNN Center has been showing Gone With the Wind twice a day, 365 days a year since the films release in 1939."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Disney's Beauty and the Beast is the only animated film ever to be nominated for Best Picture Oscar."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The longest ever interval between an original film and its sequel is 46 years - between The Wizard of Oz, and Return to Oz."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A record of 8,552 animals were featured in Around the World in Eighty Days (1956). Roger Moore is the only English actor to play the role of James Bond. Sean Connery is Scottish, George Lazenby is Australian, Timothy Dalton is Welsh and Pierce Brosnan is Irish."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Braveheart director/producer Mel Gibson was investigated by the RSPCA inspectors, who refused to believe the horses on show weren't real but mechanical instead."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Star Wars when the storm troopers break into the control room where R2-D2 and C-3PO are hiding, one of them smacks his head on the door and falls backwards."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In the 1959 film Ben-Hur, nine chariots start the race, but six crash and four finish, making a total of ten."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"the whole 9 yards\" came from W.W.II fighter pilots in the South Pacific. When arming their airplanes on the ground, the .50 caliber machine gun ammo belts measured exactly 27 feet, before being loaded into the fuselage. If the pilots fired all their ammo at a target, it got \"the whole 9 yards.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The name Jeep came from the abbreviation used in the army for the \"General Purpose\" vehicle, G.P"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"set\" has more definitions than any other word in the English language"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "\"Underground\" is the only word in the English language that begins and ends with the letters \"und.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The dot over the lower case \"i\" is called a Tittle."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Corduroy comes from the French, meaning \"cloth of the king\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"Checkmate\" comes from the Arabic Shah Mat, meaning \"the king is dead\"."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In Shakespeare's time, mattresses were secured on bed frames by ropes. When you pulled on the ropes the mattress tightened, making the bed firmer to sleep on. Hence the phrase \"goodnight, sleep tight\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "It was the accepted practice in Babylon 4,000 years ago that for a month after the wedding, the bride's father would supply his son-in-law with all the mead he could drink. Mead is a honey beer and because their calendar was lunar based, this period was called the honey month or what we know today as the honeymoon."
   },
   {
     "type": "uncategorized",
@@ -18278,14 +16806,6 @@
   {
     "type": "uncategorized",
     "fact": "Sherlock Holmes made his debut appearance in Beeton's Christmas Annual 1887."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Max Von Sydow plays Jesus Christ in 'The Greatest Story Ever Told' and Satan in 'Needful Things', the only actor to play both parts."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "JK Rowling, Harry Potter and actor Daniel Radcliffe all share the same birthday, July 31."
   },
   {
     "type": "uncategorized",
@@ -18409,103 +16929,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Rhythms is the longest English word without the normal vowels a, e, i, o or u."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Of all the words in the English language, the word 'set' has the most definitions! \"26 Different meanings."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word 'queue' is the only word in the English language that is still pronounced the same way when the last four letters are removed."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "'Almost' is the longest word in the English language with all the letters in alphabetical order."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The two longest one-syllable words in the English language are \"screeched\" and \"strengths.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "\"Rhythm\" and \"syzygy\" are the longest English words without vowels"
-  },
-  {
-    "type": "uncategorized",
     "fact": "Words that contain the same root, such as the words \"wise\" and \"wisdom,\" are said to be paronymous."
   },
   {
     "type": "uncategorized",
-    "fact": "The English word with the most consonants in a row is latchstring."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The longest word in the English language, according to the Oxford English Dictionary, is pneumonoultramicroscopicsilicovolcanoconiosis. A disease often associated with coal miners and the inhalation of fine silicate particles."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "One out of every eight letters used in written English is an e"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "No word in the English language rhymes with month."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There is a word in the English language with only one vowel, which occurs six times: Indivisibility"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The dot over the letter 'i' is called a tittle"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The letter W is the only letter in the alphabet that doesn't have 1 syllable... it has three."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The oldest word in the English language is \"town\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are only three words in the English language with the letter combination \"uu.\" Muumuu, vacuum and continuum."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word encyclopedia is derived from the Greek enkuklios paideia, meaning \"general education.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word 'byte' is a contraction of 'by eight.'"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"modem\" is a contraction of the words \"modulate, demodulate.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The only word in the English language with all five vowels in reverse order is \"subcontinental.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Ruling by words is called Logocracy."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word dinosaur means terrible lizard."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The study of folklore and legends is called storiology."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Something that is said to be \"therianthropic\" is partly human and partly animal in form."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Derivations"
   },
   {
     "type": "uncategorized",
@@ -18529,347 +16957,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The word \"grease monkey\" comes from the person (usually a young boy) that would crawl up in the rafters to grease all of the pulleys and belts that ran all of the equipment in a blacksmith shop or machine shop"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Avocado is derived from the Spanish word 'aguacate' which is derived from 'ahuacatl' meaning testicle"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The heraldic term \"gules\", meaning red, comes from the French word \"gueules\", meaning a throat."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"curfew\" is derived from an old French word that means \"cover fire.\" In Europe during the Middle Ages, a curfew was a metal cone or shield that was used to put out the hearth fire in the evening. The word \"curfew\" came to mean the end of the day's activities."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"Boondocks\" comes from the Tagalog (Filipino) word \"Bundok,\" which means mountain."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"idiot\" is derived from a Greek word that originally meant merely a private citizen or layman."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"hangnail\" comes from Middle English:ang- (painful) + nail. Nothing to do with hanging."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The naval rank of \"Admiral\" is derived from the Arabic phrase \"amir al bahr\", which means \"lord of the sea\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Sheriff came from Shire Reeve. During early years of monarchial rule in England, each shire had a reeve who was the law for that shire. When the term was brought to the United States it was shortned to Sheriff."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "\"Speak of the Devil\" is short for \"Speak of the Devil and he shall come\". It was believed that if you spoke about the Devil it would attract his attention. That's why when your talking about someone and they show up people say \"Speak of the Devil\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term, honeymoon, is derived from the Babylonians who declared mead, a honey-flavored wine, the official wedding drink, stipulating that the bride's parents be required to keep the groom supplied with the drink for the month following the wedding; that month became known as the honeymonth, hence our honeymoon."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bite the bullet – before anaesthetics were invented/introduced wounded soldiers were given a bullet to bite onto during operations."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "To the bitter end – derived from the sea going fraternity, comes from the fact that a rope could be paid out until the “bitts” which were posts on ships to which the ropes were attached, if a rope was paid out to the bitts, there was no more rope left to pay out."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bless you – After sneezing it is common for the phrase bless you to be said to the person having sneezed, it is likely that this saying comes from medieval times when superstition held that a person sneezing ejected their sole whilst doing so and enabled evil spirits to enter the body in the sole’s place, Saying bless you was supposed to ward off the evil spirits."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bottoms up – derived from the days of press gangs, when it was common practice for press gangs to slip a shilling in someone’s drink, which when drunk effectively made the drinker accept the king’s shilling and thereby volunteer for the army/navy. To counter this, glass bottoms were put in tankards and it was common practice to lift the tankard up high enough to see through the glass bottom of the tankard, hence bottoms up."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bury the hatchet – derived from the American Indian’s method of concluding a peace negotiation between two tribes when both sides literally buried a hatchet or tomahawk to signify they were at peace."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Whipping boy – Around the time of Edward VI and Charles I both of these kings when boys had other boys serve any punishment for their own wrong doings, hence someone who takes the blame, a whipping boy."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Warts and all – originates from Oliver Cromwell who instructed his portrait painter to paint a true likeness including any facial blemishes, by telling him to paint “warts and all”."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Touch and go – from the time of horse drawn carriages when it was quite frequent for two carriages to touch wheels without damaging them and thus allow the carriages to continue their journeys without damage or delay."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Swinging the lead – from when ships had a crew member take soundings of the depth of water in which a boat was sailing by use of a rope with a lead weight at the end. If the sailor doing this activity wanted to take a break from other duties, he would allow the lead to hang or swing from his hand to give the impression he was still actively taking depth soundings."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Spinster– In Saxon times, a woman was not considered to be suitable for marriage until she could spin yarn correctly."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Wife – from the Anglo-Saxon “wyfan” which means to weave, hence a wife could both spin yarn and then weave it."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Put a sock in it – from when mechanical gramophones were invented, they had no volume control and people literally used to put a sock into the horn to dampen the sound"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Rule of thumb – from old English law which made it illegal for a husband to beat his wife with anything thicker than a thumb"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"fiscal\" is derived from a Latin word meaning \"moneybag.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Satan - From the Hebrew word meaning enemy"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Elizabethan slang, the term \"to die\" meant to have an orgasm. This double entendre was often used by John Donne (The Prohibition, The Canonization), and by Shakespeare in King Lear."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The popular phrase \"The blind leading the blind\" comes from the New Testament, Matthew 15:14."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"gas,\" coined by the chemist J.B. van Helmont, is taken from the word \"chaos,\" which means \"unformed\" in Greek."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"ace\" was first used during World War I for a pilot who had brought down at least five enemy aircraft. The German equivalent was Oberkanone, which meant \"top gun.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"atlas\" came into use in the late sixteenth century after the son of Flemish cartographer Gerardus Mercator published a book of his father's maps with a picture on the title page showing the Titan Atlas supporting the world on his shoulder."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The letter Y was invented by Palamedes, one of the heroes of the Trojan War. He made its shape from the flight formation of cranes which he observed"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The little metal ring or cap attached to or near the end of a cane or wooden handle (such as on a paint brush) to prevent splitting is called a ferrule. Its name was derived from the Latin \"viriola,\" meaning \"little bracelet.\" It is also the piece used on the end of a snooker cue near the tip."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"rhinestone,\" from the French caillou du Rhin, came to be because the colorless, hard-glass artificial gems were originally made at Strasbourg (on the Rhine)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"gazelle\" comes from the Arabian term for \"affectionate,\" and it is believed to be inspired by the creature's large, gentle eyes."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Vikings would often enter a battle without armor or even a shirt after drinking buckets of ale. This wild style of battle was known as beserk (norse for bare shirt)"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The magician's words \"hocus-pocus\" were taken from the name of a mythological sorcerer, Ochus Bochus, who appeared in Norse folktales and legends"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The term \"tall ship\" emerged in the 1890s in the twilight days of commercial sailing ships as nostalgia arose over the gradual disappearance of large square-rigged vessels. The term was popularized by John Masefield, a former mariner who became poet laureate of England in his poem \"Sea Fever\", published in 1902."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The word \"jungle\" is an old Indian term for a dense mass of plants and trees"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Foreign Words"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A H I M O T U V W X Y are the symmetric capital letters in the Roman alphabet. i l o t u v w x are the symmetric lower case letters in the Roman alphabet"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "AM and PM stand for \"Ante-Meridian\" and \"Post-Meridian,\" respectively, and A.D. actually stands for \"Anno Domini\" rather than \"After Death.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Lucifer is latin for \"Light Bringer\". It is a translation of the Hebrew name for Satan, Halael. Satan Means \"adversary\", devil means \"liar\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A \"clue\" originally meant a ball of thread. This is why one is said to \"unravel\" the clues of a mystery"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The abbreviation for pound, \"lb.,\" comes from the astrological sign Libra, meaning balance, and symbolized by scales"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Hoi polloi is a Greek phrase meaning the many. Hoi polloi are the masses."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Pinocchio is Italian for \"pine head.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "The word electricity comes from the Greek word ELECTRON, for amber"
-  },
-  {
-    "type": "grammar",
-    "fact": "The letters in the abbreviation e.g. stand for exempli gratia a Latin term meaning \"for example.\""
-  },
-  {
-    "type": "space",
-    "fact": "The word galaxy comes from the Greek word for milk, galacticos"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Silhouettes are named after a French minister of finance who had a reputation for being tight with money, as silhouettes are a tight outline around a subject."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word monsoon is derived from the Arabic word mausim, meaning \"season.\" It was first used by Arab sailors to describe the seasonal winds that blow across the Arabian Sea."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word photography is derived from two Greek words for \"writing\" and \"light.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "Someone who thinks constantly and anxiously about his or her health can be called a \"valetudinarian.\""
-  },
-  {
-    "type": "grammar",
-    "fact": "\"Capnomancy\" is the observation of smoke to tell the future. Often the smoke is from the burning of poppy seeds."
-  },
-  {
-    "type": "grammar",
-    "fact": "The word skeleton comes from the Ancient Greek word for dry"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The language of Taki, spoken in parts of French Guinea, consists of only 340 words"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Rafferty's Rules mean no rules at all in Australian slang."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Toboggan is derived from the Algonquin language and loosely meant instrument with which to drag a cord."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Greek, the word climax means \"ladder.\" In Greece, it is spelled \"klimax.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In Hawaiian, ukulele means \"little jumping flea.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Calculus was derived from the latin word for stone"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The words CHOICE COD read the same when held in front of a mirror upside-down. This also applies to the word DIOXIDE."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Hawaiian alphabet contains just 12 letters;the Cambodian alphabet has 72 letters"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The slang word 'yahoo' first appeared in Swift's 1726 book Gulliver's Travels as the name of a race of sub-human brutes."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Paomnnehal Pweor Of The Hmuan Mnid. Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy, it deosn't mtter in waht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteer be in the rghit pclae. The rset can be a taotl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Wrigley's gum was the first product with a bar code"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are an average of eight peas in a pod."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The banana could be extinct in 10 years"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Consuming chocolate was once considered a sin during the 16th and 17th century"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Alcoholic beverages have 13 minerals that are necessary for human life."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The fortune cookie was invented by Los Angeles noodlemaker George Jung in 1916."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Table salt is the only commodity that hasn't risen dramatically in price in the last 150 years"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A-1 steak sauce has both orange peel and rasins"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The darker green a vegetable is, the more vitamin C it has."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The only tree from which we eat the flower is the fig."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Ketchup was once sold as a medicine"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Mayonnaise is a great skin moisturizer."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Peanuts are used in the manufacture of dynamite"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The French eat an average of 200 million frogs each year"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Between 1937 and 1945 Heinz produced a version of Alphabet Spaghetti especially for the German market that consisted solely of little pasta swastikas(urban myth this is untrue)"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Incan soldiers invented the process of freeze-drying food. The process was primitive but effective -- potatoes would be left outside to freeze overnight, then thawed and stomped on to remove excess water."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The 'spot' on 7UP comes from its inventor, who had red eyes. He was albino."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Most lipstick contains fish scales"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Honey is the only food that doesn't go off."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Bennito Mussolini used Casrtor Oil as a form of torture against dissidents by force feeding them it and inducing a state of dehydration."
   },
   {
     "type": "uncategorized",
@@ -18877,55 +16965,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Tomato Ketchup was originally a S.E Asian dish made from fish brine and mushrooms."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There is a strict ban on chewing gum in Singapore with severe penalties for anyone caught."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Starburst was created by the European confectionery Mars Incorporated in 1960 and was originally named Opal Fruits. In 1976, they were introduced to the United States as Starburst. The brand Opal Fruits was phased out in the UK and Ireland in 1998 due to pressure for global branding. For the tenth anniversary of the naming of Opal Fruits to Starburst in the UK, Mars Inc. brought the name back in May 2008, to last for only three months, in the original flavors and packaging and without the artificial colors and flavorings now used in global manufacturing."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The secret recipe for Coca Cola, code-named \"Merchandise 7X\" is kept under lock and key in a vault in the SunTrust Bank Building in Atlanta, Georgia, the home of Coke inventor Dr. John S. Pemberton and current world headquarters of Coca Cola International"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are more than 200 kinds of chili peppers, none of which belong to the pepper family"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "There are more than 15,000 different kinds of rice."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Herring is the most widely eaten fish in the world."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Sliced bread was introduced under the Wonder Bread label in 1930"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The colour of a chile is no indication of its spiciness, but size usually is - the smaller the pepper, the hotter it is."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In 1765, the sandwich was invented by John Montagu, the fourth Earl of Sandwich, who gave the food its name. The Earl used to order roast beef between pieces of toast for a snack while he was at the gaming tables, it allowed him to keep one hand free to play while he ate"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Hawaiian alphabet has only 12 letters"
-  },
-  {
-    "type": "uncategorized",
     "fact": "City with the most Rolls Royce's per capita: Hong Kong"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The only 15 letter word that can be spelled without repeating a letter is\"uncopyrightable\"."
   },
   {
     "type": "uncategorized",
@@ -19057,27 +17097,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The airplane Buddy Holly died in was the \"American Pie.\" (hence the name of the Don McLean song.)"
-  },
-  {
-    "type": "uncategorized",
     "fact": "Steely Dan got their name from a sexual device depicted in the book 'The Naked Lunch.'"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The song with the longest title is 'I'm a Cranky Old Yank in a Clanky Old Tank on the Streets of Yokohama with my Honolulu Mama Doin' Those Beat-o, Beat-o Flat-On-My-Seat-o, Hirohito Blues' written by Hoagy Carmichael in 1943. He later claimed the song title ended with \"Yank\" and the rest was a joke."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Everyone knows that the Buggles 'Video Killed the Radio Star' was the first video to premire on MTV on August 1, 1981. The millionth video to air on MTV was 'Video Killed the Radio Star', aired on MTV February 27, 2000. It's also the 3rd most aired video in MTV history. Peter Gabriel's 'Sledgehammer' is #1."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "3-Day advance purchase tickets for the first Woodstock (1969), were $18.00. The price at the gate, $24."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The Who hold the official record as the loudest band in concert at 126 decibels although Manowar somewhat inconclusively lay claim to reaching 129.5 decibels in 1994but were refused recognition by Guinness as an official record."
   },
   {
     "type": "uncategorized",
@@ -19093,47 +17113,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The first toilet ever seen on television was on \"Leave It To Beaver.\""
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The world's termites outweigh the world's humans 10 to"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "On average, 100 people choke to death on ball point pens every year, so be careful."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "One of the longest one-syllable words in the English language is screeched. (Strengths is another one.)"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Typing the word typewriter uses only letters from the top row of your keyboard."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A 10 foot tall emu was spotted walking the streets of New York in 1973, it had accidently escaped from a circus that specialized in large exotic birds. When police questioned the circus owners they responded saying \"George was constipated, so we thought a run around the grounds may help him feel better\" Police fined the circus 25 dollars, and 5 months later a bi-law was passed stating that all emus within New York City must be on a leash."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Things that are Canadian, or invented by Canadians: Mike Myers, Michael J. Fox, Jim Carey, Basketball, the 24 time zone divisions, Hockey, Apple Pie and the reason the Whitehouse is white. The Canadians burned the capital to the ground, and the US repainted it."
   },
   {
     "type": "uncategorized",
-    "fact": "65% of statistics are made up."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "More people are killed annually by donkeys than in airplane crashes."
-  },
-  {
-    "type": "uncategorized",
     "fact": "If Barbie were life size her measurements would be 39-23-33"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "A duck's quack does echo, despite rumors to the contrary. 1 2 3"
   },
   {
     "type": "uncategorized",
@@ -19145,35 +17129,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "Blueberry jelly beans were especially made for Ronald Reagan."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "In every episode of Seinfeld there's a superman somewhere."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Checkmate comes from the Persian phrase \"shah mat\" which means the king is dead."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "91% of Americans lie daily."
-  },
-  {
-    "type": "uncategorized",
     "fact": "\"two plus eleven\" and \"one plus twelve\" not only give the same result but use the same letters"
   },
   {
     "type": "uncategorized",
-    "fact": "With lunchables you have 50% less crackers then toppings. To use them all with no left overs you would have to do two toppings per cracker."
-  },
-  {
-    "type": "uncategorized",
     "fact": "When you sneeze water can come out of your mouth at speeds of 60mph."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Peanuts are one of the ingredients of dynamite"
   },
   {
     "type": "uncategorized",
@@ -19189,23 +17149,11 @@
   },
   {
     "type": "uncategorized",
-    "fact": "There are only two families who produced a father and son who were US presidents: Bush and Adams."
-  },
-  {
-    "type": "uncategorized",
     "fact": "Margaret Kerry was the live action model for Walt Disney's Tinkerbell."
   },
   {
     "type": "uncategorized",
-    "fact": "Before Late Night Television, Jay Leno appeared in an episode of Laverne and Shirley."
-  },
-  {
-    "type": "uncategorized",
     "fact": "In \"American Graffiti\", the license plate on Richard Dreyfusses' car is changed every time you see it."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "\"I am\" \"Go\" is the shortest complete sentence in the English language."
   },
   {
     "type": "uncategorized",
@@ -19217,23 +17165,7 @@
   },
   {
     "type": "uncategorized",
-    "fact": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra's \"Its A Wonderful Life\" (probably apocryphal)"
-  },
-  {
-    "type": "uncategorized",
     "fact": "The term \"Cold enough to freeze the balls off a brass mokey\" started when sailors in the navy witnessed the stack of cannon balls tumble off a steel plate called a brass monkey in winters on the oceans."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The electric door bell was invented by Joseph Henry in 1"
-  },
-  {
-    "type": "uncategorized",
-    "fact": "The wingspan of a Boeing 747 (~ 213 feet) is longer than the Wright brothers' first flight (~ 120 feet)."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Alexander Graham Bell refused to have a phone in his study - the ringing drove him nuts."
   },
   {
     "type": "uncategorized",
@@ -19250,29 +17182,5 @@
   {
     "type": "uncategorized",
     "fact": "The smallest physically meaningful unit of time is one planck time, or the time required for light to travel one Planck length. It is about 5.4 x 10-44 seconds."
-  },
-  {
-    "type": "uncategorized",
-    "fact": "Pumice is the only rock that floats."
-  },
-  {
-    "type": "statistics",
-    "fact": "20% of all publications sold in Japan are comic books."
-  },
-  {
-    "type": "statistics",
-    "fact": "The average American consumes 87 hot dogs a year."
-  },
-  {
-    "type": "earth",
-    "fact": "The tallest mountain on earth is not Mt. Everest, it's Hawaii's Mauna Kea, 31,800 feet from the ocean floor."
-  },
-  {
-    "type": "trivia",
-    "fact": "The right rear tire on your car will generally wear out before the others do."
-  },
-  {
-    "type": "trivia",
-    "fact": "Superglue will not stick to Teflon."
   }
 ]

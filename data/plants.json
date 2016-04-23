@@ -1,218 +1,30 @@
 [
   {
     "type": "plants",
-    "fact": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top."
+    "fact": "In 1980, more than 6 million trees were uprooted or flattened by the blast of Mount St. Helens in Washington."
   },
   {
     "type": "plants",
-    "fact": "In one day a full-grown oak tree expels 7 tons of water through its leaves."
+    "fact": "Bananas grow on a tropical plant that is not a tree -it has no trunk. Bananas are gigantic herbs that spring from underground stems. What appears to be the trunk is a false stem formed by tightly wrapped leaf sheaths. With stalks 25 feet high, they’re the largest plant on earth without a woody stem."
   },
   {
     "type": "plants",
-    "fact": "During midsummer the radical leaves of the compass plants invariably point precisely north and south."
+    "fact": "The state flower of Alaska is a forget-me-not."
   },
   {
     "type": "plants",
-    "fact": "The Orchid is named after the male genitalia. Its botanical family name Orchidaceae, means “testicles” in Greek and may derive from an early notion that the orchid possessed aphrodisiac qualities."
+    "fact": "The oldest known vegetable is the pea, used by the Chinese in 2,000 B.C."
   },
   {
     "type": "plants",
-    "fact": "The nasturtium derives its name from the Latin nasus (“nose”) tortum (“to twist”). The flower's smell is so powerful that to inhale it was considered tantamount to having one's nose tweaked."
+    "fact": "The pineapple is a berry."
   },
   {
     "type": "plants",
-    "fact": "The cucumber is not a vegetable; botanically, it is a fruit, so are the eggplant, the pumpkin, the squash, the tomato, the gherkin, and the okra. Rhubarb, however, is botanically a vegetable, not a fruit."
+    "fact": "Black-eyed peas are not peas. They are beans."
   },
   {
     "type": "plants",
-    "fact": "An orange tree may bear oranges for more than 100 years. The famous “Constable Tree,” an orange tree brought to France in 1421, lived and bore fruit for 473 years."
-  },
-  {
-    "type": "plants",
-    "fact": "The General Sherman Tree in Sequoia National Park, California, is the largest tree in the world. It weighs more than 6000 tons."
-  },
-  {
-    "type": "plants",
-    "fact": "The Japanese have a special method for growing superb melons. They plant a seed, allow it to sprout and form buds, then pick all the buds but one. This one bud is allowed to mature into a full fruit. In this way a single fruit receives all the nutrients originally meant for the whole plant. The result is a remarkably succulent melon."
-  },
-  {
-    "type": "plants",
-    "fact": "Poison oak is not oak; poison ivy is not ivy. Both are members of the cashew family (Anacardiaceae)."
-  },
-  {
-    "type": "plants",
-    "fact": "A peanut is not a nut. It is a legume."
-  },
-  {
-    "type": "plants",
-    "fact": "The bark of the redwood tree is fireproof. Fires in redwood forests take place inside the trees."
-  },
-  {
-    "type": "plants",
-    "fact": "Seedless oranges were not grown in the United States until 1871. The first ones came from Brazil and were planted in California."
-  },
-  {
-    "type": "plants",
-    "fact": "The banana cannot reproduce itself. It can be propagated only by the hand of man. Further, the banana is not a tree, it is a herb, the largest known of all plants without a woody stem or solid trunk."
-  },
-  {
-    "type": "plants",
-    "fact": "Oak trees are struck by lightning more often than any other tree. This, it has been theorized, is one reason that the ancient Greeks considered oak trees sacred to Zeus, God of thunder and lightning."
-  },
-  {
-    "type": "plants",
-    "fact": "The angle between the main branches of a tree and its trunk remains constant in each species—and this same angle is found between the principal vein of the tree's leaves and all its subsidiary branching veins."
-  },
-  {
-    "type": "plants",
-    "fact": "The sequoias and redwoods of the American West Coast are not the oldest living trees in the world. The honor belongs to the macrozamia trees of Australia, which lives 5,000 to 7,000 years and, some claim, may even reach 15,000 years."
-  },
-  {
-    "type": "plants",
-    "fact": "The trunk of the African baobab tree is sometimes as wide as the tree it is high. The tree is pollinated by bats, and the blossoms open only in moonlight."
-  },
-  {
-    "type": "plants",
-    "fact": "The rings of a tree are always farther apart on the tree's southern side. Woodsmen often read tree rings to find the compass points."
-  },
-  {
-    "type": "plants",
-    "fact": "Cork comes from the bark of trees. Specifically, it is harvested from the cork tree, which takes more than ten years to produce one layer of cork."
-  },
-  {
-    "type": "plants",
-    "fact": "Bamboo is not a tree. It is a wood grass."
-  },
-  {
-    "type": "plants",
-    "fact": "The onion is a lily, botanically."
-  },
-  {
-    "type": "plants",
-    "fact": "Life preservers and the linings of aviators' jackets used during World War II were made from fiber found in milkweed pods."
-  },
-  {
-    "type": "plants",
-    "fact": "The poinsettia flower is named after a nineteenth-century ambassador to Mexico, Joel R. Poinsett, who first brought the poinsettia plant to America."
-  },
-  {
-    "type": "plants",
-    "fact": "The flower of the calla lily (Amorphophallus titanum) is 8 feet high and 12 feet wide. It is grown in Sumatra."
-  },
-  {
-    "type": "plants",
-    "fact": "Eighty percent of the world's rose species come from Asia."
-  },
-  {
-    "type": "plants",
-    "fact": "It takes 4,000 crocuses to produce a single ounce of Saffron."
-  },
-  {
-    "type": "plants",
-    "fact": "Cabbage is 91 percent water."
-  },
-  {
-    "type": "plants",
-    "fact": "Lettuce is the world's most popular green."
-  },
-  {
-    "type": "plants",
-    "fact": "A cucumber is 96 percent water."
-  },
-  {
-    "type": "plants",
-    "fact": "Seeds from a wild flower, the Artic Lupine, found in Alaska, have grown in the lab after being frozen in the ground for 10,000 years."
-  },
-  {
-    "type": "plants",
-    "fact": "The bristle-cone pine, which grows in the deserts of Nevada and California, is the oldest living species in the United States. Some are believed to be 4600 years old and can live to be 5500 years old."
-  },
-  {
-    "type": "plants",
-    "fact": "Every year, plants make and store ten times the amount of energy that people use."
-  },
-  {
-    "type": "plants",
-    "fact": "One tree can provide enough oxygen for 2 people to live off of for their whole lives."
-  },
-  {
-    "type": "plants",
-    "fact": "If someone tells you you smell like flowers, it may not be a compliment if they are refering to the rafflesia flower. This flower smells like rotten meat!"
-  },
-  {
-    "type": "plants",
-    "fact": "Tomatoes are really fruits, not vegetables."
-  },
-  {
-    "type": "plants",
-    "fact": "The liquid inside young coconuts can be used as a substitute for blood plasma."
-  },
-  {
-    "type": "plants",
-    "fact": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball."
-  },
-  {
-    "type": "plants",
-    "fact": "Sarsaparilla is the root that flavors root beer."
-  },
-  {
-    "type": "plants",
-    "fact": "The growth rate of some bamboo plants can reach three feet (91.44 cm) per day."
-  },
-  {
-    "type": "plants",
-    "fact": "Cleopatra used pomegranate seeds for lipstick."
-  },
-  {
-    "type": "plants",
-    "fact": "The poisonous copperhead smells like fresh cut cucumbers."
-  },
-  {
-    "type": "plants",
-    "fact": "The smallest mushroom's name is \"Hop-low.\""
-  },
-  {
-    "type": "plants",
-    "fact": "The shape of plant collenchyma cells and the shape of the bubbles in beer foam are the same -- they are orthotetrachidecahedrons."
-  },
-  {
-    "type": "plants",
-    "fact": "When a coffee seed is planted, it takes five years to yield consumable fruit."
-  },
-  {
-    "type": "plants",
-    "fact": "Hydrangeas produce pink and white flowers in alkaline soil and blue ones in acidic soil."
-  },
-  {
-    "type": "plants",
-    "fact": "The liquid inside young coconuts can be used as a substitute for Blood Plasma."
-  },
-  {
-    "type": "plants",
-    "fact": "Apples, not caffeine, are more efficient at waking you up in the morning."
-  },
-  {
-    "type": "plants",
-    "fact": "Oak trees do not produce acorns until they are 50 years of age or older."
-  },
-  {
-    "type": "plants",
-    "fact": "Technically speaking, lemons are berries."
-  },
-  {
-    "type": "plants",
-    "fact": "Strawberries have more vitamin C in them than oranges."
-  },
-  {
-    "type": "plants",
-    "fact": "Almonds are a member of the peach family"
-  },
-  {
-    "type": "plants",
-    "fact": "Two thirds of the world's eggplants are grown in New Jersey."
-  },
-  {
-    "type": "plants",
-    "fact": "Spanish moss is a close relative of the pineapple."
+    "fact": "The only tree from which we eat the flower is the fig."
   }
 ]
