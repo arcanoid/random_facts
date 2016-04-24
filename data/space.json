@@ -21,7 +21,27 @@
   },
   {
     "type": "space",
+    "fact": "Any free moving liquid in outer space will form itself into a sphere because of its surface tension."
+  },
+  {
+    "type": "space",
+    "fact": "Apollo 11 only had 20 seconds of fuel when it landed."
+  },
+  {
+    "type": "space",
+    "fact": "Astronaut Neil Armstrong first stepped on the moon with his left foot."
+  },
+  {
+    "type": "space",
+    "fact": "Astronauts are not allowed to eat beans before they go into space because passing wind in a space suit damages them."
+  },
+  {
+    "type": "space",
     "fact": "Astronomers know Mars is a backwards planet. Once a year, for several days, it appears to move backwards in its orbit. This is actually an optical illusion when the faster orbit of Earth races past Mars."
+  },
+  {
+    "type": "space",
+    "fact": "Because of a large orbital eccentricity, Pluto was closer to the sun than Neptune between January 1979 and March 1999."
   },
   {
     "type": "space",
@@ -30,6 +50,10 @@
   {
     "type": "space",
     "fact": "During a solar eclipse, the shadows of leaves make the same crescent shape of the eclipsing sun. The image is made by light passing through tiny holes in the leaves."
+  },
+  {
+    "type": "space",
+    "fact": "Every day, more than 1,000 gallons of water are lost into space from the top of Earth’s atmosphere. Yet there is about as much water on Earth as there was 3 billion years ago."
   },
   {
     "type": "space",

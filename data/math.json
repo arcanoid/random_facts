@@ -9,6 +9,10 @@
   },
   {
     "type": "math",
+    "fact": "Any number, squared, is equal to one more than the numbers on either side of it -- 4x6 is 24, 5x5 is 25."
+  },
+  {
+    "type": "math",
     "fact": "Enter the value 0.1134 on your calculator, then turn it upside down. You've just written \"hello.\""
   },
   {

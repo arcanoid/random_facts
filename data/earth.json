@@ -17,7 +17,15 @@
   },
   {
     "type": "earth",
+    "fact": "All continents, with the exception of Antarctica, are wider in the north than in the south."
+  },
+  {
+    "type": "earth",
     "fact": "Almost two-thirds of the earths surface is covered by water. If the earth were flat, water would cover everything in a layer two miles deep!"
+  },
+  {
+    "type": "earth",
+    "fact": "Although modern images of India often show poverty and lack of development, India was the richest country on earth until the time of British invasion in the early 17th Century."
   },
   {
     "type": "earth",
@@ -37,7 +45,31 @@
   },
   {
     "type": "earth",
+    "fact": "Australia is home to the koala bear, the platypus, and the kangaroo, but not one active volcano or glacier. It is the only continent that lacks both."
+  },
+  {
+    "type": "earth",
     "fact": "Australia is the only continent on earth without an active volcano."
+  },
+  {
+    "type": "earth",
+    "fact": "Australia is the only country to have monotremes. A monotreme is a mammal that lays eggs but suckles its young on milk once they have hatched (e.g. the platypus)."
+  },
+  {
+    "type": "earth",
+    "fact": "Australia is the richest source of mineral sands in the world."
+  },
+  {
+    "type": "earth",
+    "fact": "Australia's Ayers Rock is the largest rock in the world. It has a diameter of 5½ miles around its base and a height of 1,000 feet."
+  },
+  {
+    "type": "earth",
+    "fact": "Earth is hit by 6 tons of meteorites every day."
+  },
+  {
+    "type": "earth",
+    "fact": "Earth is the only planet not named after a god."
   },
   {
     "type": "earth",

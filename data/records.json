@@ -1,6 +1,10 @@
 [
   {
     "type": "records",
+    "fact": "According to the Guiness Book, the fastest restaurant in the world serves the client's food within 13 seconds after the order is made. The name of the restaurant is Karne Garibaldi and is located in Guadalajara, Mexico."
+  },
+  {
+    "type": "records",
     "fact": "Did you know that there is a world record for seeing how many times you can attempt a world record?!"
   },
   {

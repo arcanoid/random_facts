@@ -1217,11 +1217,19 @@
   },
   {
     "type": "animals",
+    "fact": "Adult elephants can't jump."
+  },
+  {
+    "type": "animals",
     "fact": "Adult male giraffes bang their long necks together in a form of ritual fighting, during which no harm is done to either giraffe."
   },
   {
     "type": "animals",
     "fact": "Adult mayflies live from half an hour to a few days before dying."
+  },
+  {
+    "type": "animals",
+    "fact": "After eating, a housefly regurgitates its food and then eats it again."
   },
   {
     "type": "animals",
@@ -1253,11 +1261,23 @@
   },
   {
     "type": "animals",
+    "fact": "All female bees in a given hive are sisters."
+  },
+  {
+    "type": "animals",
     "fact": "All freshwater eels, both the European and American species, are born in the same place, a seaweed- and vine-clogged section of the ocean south of Bermuda known as the Sargasso Sea. From this location, the eels migrate to various parts of the world, the American eels to North America, the European eels to Europe. The trips may take as long as three years. Once they arrive at their destination, the males remain at the river mouths while the females move farther upstream, finally settling in small island lakes and ponds. They remain there for ten to fifteen years, until they receive a strange instinctive call back to the sea. Swimming against great river currents, leaping upward like salmon, sometimes leaving the water altogether to crawl along great stretches of land, the female eel finally makes her way back to the sea, where she joins the male. Then they swim together directly to the Sargasso Sea. Here they mate, spawn, and die."
   },
   {
     "type": "animals",
+    "fact": "All owls lay white eggs."
+  },
+  {
+    "type": "animals",
     "fact": "All polar bears are left-handed"
+  },
+  {
+    "type": "animals",
+    "fact": "All polar bears are left-handed."
   },
   {
     "type": "animals",
@@ -1301,6 +1321,10 @@
   },
   {
     "type": "animals",
+    "fact": "An Atlas moth has no mouth."
+  },
+  {
+    "type": "animals",
     "fact": "An Electric Eel can produce a shock of 600 volts."
   },
   {
@@ -1329,7 +1353,15 @@
   },
   {
     "type": "animals",
+    "fact": "An ant always falls over on its right side when intoxicated."
+  },
+  {
+    "type": "animals",
     "fact": "An ant can lift 50 times its own weight. A bee can handle 300 times its own weight, which is equivalent to a human being pulling a 10 ton trailer."
+  },
+  {
+    "type": "animals",
+    "fact": "An ant has five noses."
   },
   {
     "type": "animals",
@@ -1341,7 +1373,23 @@
   },
   {
     "type": "animals",
+    "fact": "An ant’s sense of smell is comparable to a dog’s."
+  },
+  {
+    "type": "animals",
+    "fact": "An armadillo can be trained to be housebroken."
+  },
+  {
+    "type": "animals",
+    "fact": "An average adult female wolf in Minnesota weighs 60 to 80 pounds."
+  },
+  {
+    "type": "animals",
     "fact": "An eagle can attack, kill, and carry away an animal as large as a young deer. The harpy eagle of South America feeds on monkeys."
+  },
+  {
+    "type": "animals",
+    "fact": "An eagle can kill a young deer and fly away with it."
   },
   {
     "type": "animals",
@@ -1381,6 +1429,10 @@
   },
   {
     "type": "animals",
+    "fact": "An inch-thick rope of spider’s silk can withstand up to 140,000 pounds of pressure."
+  },
+  {
+    "type": "animals",
     "fact": "An okapi’s tongue can grow to be 17 inches long."
   },
   {
@@ -1390,6 +1442,10 @@
   {
     "type": "animals",
     "fact": "An ostrich may weight as much as 300 pounds. Its intestinal tract is 45 feet long."
+  },
+  {
+    "type": "animals",
+    "fact": "An ostrich's eye is bigger than its brain"
   },
   {
     "type": "animals",
@@ -1425,7 +1481,23 @@
   },
   {
     "type": "animals",
+    "fact": "Anise is the scent on the artificial rabbit that is used in greyhound races."
+  },
+  {
+    "type": "animals",
+    "fact": "Anteaters prefer termites to ants."
+  },
+  {
+    "type": "animals",
     "fact": "Antlers and horns are not the same. Horns grow throughout an animal's life and are found on both the male and female of a species (such as a cow). Antlers, composed of a different chemical substance, are shed every year. Usually, though not invariably, they are found on males."
+  },
+  {
+    "type": "animals",
+    "fact": "Ants cannot chew their food, they move their jaws sidewards, like a scissor, to extract the juices from the food."
+  },
+  {
+    "type": "animals",
+    "fact": "Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day."
   },
   {
     "type": "animals",
@@ -1465,6 +1537,10 @@
   },
   {
     "type": "animals",
+    "fact": "At birth a panda is smaller than a mouse and weighs about four ounces."
+  },
+  {
+    "type": "animals",
     "fact": "At birth barnacles look like water fleas. In the next stage of their development they have three eyes and twelve legs. In their third stage they have twenty-four legs and no eyes. Barnacles stay fastened to the same object for their entire lives."
   },
   {
@@ -1482,6 +1558,10 @@
   {
     "type": "animals",
     "fact": "Baboons cannot throw overhand."
+  },
+  {
+    "type": "animals",
+    "fact": "Baby robins eat 14 feet of earthworms every day"
   },
   {
     "type": "animals",
@@ -1521,7 +1601,15 @@
   },
   {
     "type": "animals",
+    "fact": "Bats always turn left when exiting a cave."
+  },
+  {
+    "type": "animals",
     "fact": "Bats always turn left when they leave their caves."
+  },
+  {
+    "type": "animals",
+    "fact": "Beavers can swim underwater for 15 minutes."
   },
   {
     "type": "animals",
@@ -1534,6 +1622,10 @@
   {
     "type": "animals",
     "fact": "Bees have 5 eyes but do not have any ears."
+  },
+  {
+    "type": "animals",
+    "fact": "Bees have 5 eyes. There are 3 small eyes on the top of a bee's head and 2 larger ones in front."
   },
   {
     "type": "animals",
@@ -1562,6 +1654,18 @@
   {
     "type": "animals",
     "fact": "Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth."
+  },
+  {
+    "type": "animals",
+    "fact": "Between 1902 and 1907 the same tiger killed 436 people in India."
+  },
+  {
+    "type": "animals",
+    "fact": "Between 20,000 and 60,000 bees live in a single hive. The queen bee lays nearly 1,500 eggs a day and lives for up to 2 years. The drone, whose only job is to mate with the queen bee, has a lifespan of around 24 days—he has no sting. Worker bees - all sterile females - usually work themselves to death within 40 days, collecting pollen and nectar. Worker bees will fly p to 9 miles to find pollen and nectar, flying at speeds as fast as 15 mph."
+  },
+  {
+    "type": "animals",
+    "fact": "Billy goats urinate on their own heads to smell more attractive to females."
   },
   {
     "type": "animals",
@@ -2241,6 +2345,10 @@
   },
   {
     "type": "animals",
+    "fact": "Dragonflies are capable of flying sixty miles per hour, making them one of the fastest insects. This is good since they are in a big hurry, as they only live about twenty-four hours."
+  },
+  {
+    "type": "animals",
     "fact": "Dragonflies breathe through gills in their rectum."
   },
   {
@@ -2257,11 +2365,31 @@
   },
   {
     "type": "animals",
+    "fact": "During WWII, Americans tried to train bats to drop bombs."
+  },
+  {
+    "type": "animals",
     "fact": "During it's lifetime an Oyster can repeatedly change sexes."
   },
   {
     "type": "animals",
+    "fact": "During it's lifetime an oyster changes its sex from male to female and back several times."
+  },
+  {
+    "type": "animals",
+    "fact": "Eagles can live in captivity for up to 46 years."
+  },
+  {
+    "type": "animals",
+    "fact": "Earthworms don’t have eyes or ears."
+  },
+  {
+    "type": "animals",
     "fact": "Earthworms have 5 hearts."
+  },
+  {
+    "type": "animals",
+    "fact": "Earthworms have five hearts."
   },
   {
     "type": "animals",
@@ -2270,6 +2398,10 @@
   {
     "type": "animals",
     "fact": "Elephants are covered with hair. Although it is not apparent from a distance, at close range one can discern a thin coat of light hairs covering practically every part of an elephant's body."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants are the only animal that cannot jump. (OK, so that would be a good thing....)"
   },
   {
     "type": "animals",
@@ -2286,6 +2418,14 @@
   {
     "type": "animals",
     "fact": "Elephants have been found swimming miles from shore in the Indian Ocean."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants have the longest pregnancy in the animal kingdom at 22 months. The longest human pregnancy on record is 17 months, 11 days."
+  },
+  {
+    "type": "animals",
+    "fact": "Elephants only sleep for two hours each day."
   },
   {
     "type": "animals",
@@ -2362,6 +2502,18 @@
   {
     "type": "animals",
     "fact": "Female orcas live twice as long as male orcas. The larger numbers of female orcas in a pod are because of the female's longer lifespan, not because the males have collected a harem."
+  },
+  {
+    "type": "animals",
+    "fact": "Ferrets sleep for about 20 hours a day."
+  },
+  {
+    "type": "animals",
+    "fact": "Fireflies light up as a means of sexual attraction."
+  },
+  {
+    "type": "animals",
+    "fact": "Fish can become seasick if kept aboard a ship."
   },
   {
     "type": "animals",
