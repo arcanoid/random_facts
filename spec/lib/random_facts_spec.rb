@@ -5,7 +5,7 @@ describe RandomFacts::Generator do
     it 'should respond with full list when no option is given' do
       output = RandomFacts::Generator.process
       output.should be_kind_of Array
-      output.size.should == 6709
+      output.size.should == 6578
     end
 
     it 'should respond with proper list when size option is given' do
@@ -17,7 +17,7 @@ describe RandomFacts::Generator do
     it 'should respond with proper list when type option is given' do
       output = RandomFacts::Generator.process({:type => 'animals'})
       output.should be_kind_of Array
-      output.size.should == 1156
+      output.size.should == 1284
     end
   end
 
@@ -25,7 +25,7 @@ describe RandomFacts::Generator do
     it 'should respond with proper list' do
       output = RandomFacts::Generator.valid_types
       output.should be_kind_of Array
-      output.size.should == 24
+      output.size.should == 25
       output.should == [
           'animals',
           'cartoon',
@@ -36,9 +36,10 @@ describe RandomFacts::Generator do
           'food',
           'grammar',
           'history',
-          'human anatomy',
+          'human_anatomy',
           'inventions',
           'legal',
+          'literature',
           'math',
           'monetary',
           'movies',
