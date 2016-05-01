@@ -1,6 +1,10 @@
 [
   {
     "type": "food",
+    "fact": "A hard-boiled egg will spin. An uncooked or soft-boiled egg will not."
+  },
+  {
+    "type": "food",
     "fact": "A peanut is not a nut; it is a legume."
   },
   {
@@ -69,7 +73,31 @@
   },
   {
     "type": "food",
+    "fact": "Haggis, a traditional Scottish dish, is made from lungs, heart, and liver of a sheep, chopped with onions, seasonings, suet, and oatmeal, and then boiled in a bag made from the sheep's stomach."
+  },
+  {
+    "type": "food",
+    "fact": "Herring is the most widely eaten fish in the world."
+  },
+  {
+    "type": "food",
+    "fact": "Honey does not spoil."
+  },
+  {
+    "type": "food",
+    "fact": "Honey is the only food that does not spoil. Honey found in the tombs of Egyptian pharaohs has been tasted by archaeologists and found edible."
+  },
+  {
+    "type": "food",
     "fact": "Honey is the only food that doesn't spoil."
+  },
+  {
+    "type": "food",
+    "fact": "Honey is the only natural food that is made without destroying any kind of life. What about milk you say?"
+  },
+  {
+    "type": "food",
+    "fact": "Ice cream was originally made without sugar and eggs."
   },
   {
     "type": "food",

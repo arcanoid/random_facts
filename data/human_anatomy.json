@@ -37,6 +37,10 @@
   },
   {
     "type": "human_anatomy",
+    "fact": "A healthy (non-colorblind) human eye can distinguish between 500 shades of gray."
+  },
+  {
+    "type": "human_anatomy",
     "fact": "A healthy adult can draw in about 200 to 300 cubic inches (3.3 to 4.9 liters) of air at a single breath, but at rest only about 5% of this volume is used."
   },
   {
@@ -329,6 +333,10 @@
   },
   {
     "type": "human_anatomy",
+    "fact": "Hulk Hogan's real name is Terry Bollea."
+  },
+  {
+    "type": "human_anatomy",
     "fact": "Human blood travels 60,000 miles (96,540 km) per day on its journey through the body."
   },
   {
@@ -337,11 +345,27 @@
   },
   {
     "type": "human_anatomy",
+    "fact": "Human eyes are so sensitive that on a clear night when there is no moon, a person sitting on a mountain peak can see a match struck 50 miles a way."
+  },
+  {
+    "type": "human_anatomy",
+    "fact": "Human nails and hair do not grow after death. They are simply the last part of the body to disintegrate."
+  },
+  {
+    "type": "human_anatomy",
+    "fact": "Human saliva has a boiling point three times that of regular water."
+  },
+  {
+    "type": "human_anatomy",
     "fact": "Human thigh bones are stronger than concrete."
   },
   {
     "type": "human_anatomy",
     "fact": "Human thighbones are stronger than concrete."
+  },
+  {
+    "type": "human_anatomy",
+    "fact": "Humans are susceptible to a disease called the “laughing sickness.” People stricken with this disease literally laugh themselves to death. The disease is known in only one place in the world, among the Kuru tribe of New Guinea."
   },
   {
     "type": "human_anatomy",
@@ -354,6 +378,10 @@
   {
     "type": "human_anatomy",
     "fact": "Humans spend a third of their lives sleeping."
+  },
+  {
+    "type": "human_anatomy",
+    "fact": "Humans use a total of 72 different muscles in speech."
   },
   {
     "type": "human_anatomy",
@@ -670,6 +698,10 @@
   {
     "type": "human_anatomy",
     "fact": "The most sensitive finger is the forefinger."
+  },
+  {
+    "type": "human_anatomy",
+    "fact": "The mouth produces a quart of saliva a day."
   },
   {
     "type": "human_anatomy",

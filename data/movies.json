@@ -53,7 +53,23 @@
   },
   {
     "type": "movies",
+    "fact": "In 1939, Hollywood film companies produced an average of two motion pictures every day."
+  },
+  {
+    "type": "movies",
+    "fact": "In Mel Brooks' 'Silent Movie,' mime Marcel Marceau is the only person who has a speaking role."
+  },
+  {
+    "type": "movies",
     "fact": "In Psycho, the color of Mrs. Bates' dress was periwinkle blue."
+  },
+  {
+    "type": "movies",
+    "fact": "In Star Wars when the storm troopers break into the control room where R2-D2 and C-3PO are hiding, one of them smacks his head on the door and falls backwards."
+  },
+  {
+    "type": "movies",
+    "fact": "In The Empire Strikes Back there is a potato hidden in the asteroid field"
   },
   {
     "type": "movies",
@@ -70,6 +86,10 @@
   {
     "type": "movies",
     "fact": "The actor who played Wedge in the original Star Wars trilogy has a famous nephew: actor Ewan McGregor, who plays the young Obi-Wan in the new Star Wars film."
+  },
+  {
+    "type": "movies",
+    "fact": "The average cost of a movie in 1940 was 24¢"
   },
   {
     "type": "movies",

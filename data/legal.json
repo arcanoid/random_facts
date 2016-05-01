@@ -17,6 +17,10 @@
   },
   {
     "type": "legal",
+    "fact": "A judge in Louisville decided a jury went \"a little bit too far\" in recommending a sentence of 5,005 years for a man who was convicted of five robberies and a kidnapping. The judge reduced the sentence to 1,001 years."
+  },
+  {
+    "type": "legal",
     "fact": "According to the National Safety Council, an average of sixty-nine people a day are shot to death with handguns in the United States. Three-quarters of these shootings take place within the inner family circle or among close friends."
   },
   {
@@ -53,6 +57,14 @@
   },
   {
     "type": "legal",
+    "fact": "Christmas was once illegal in England."
+  },
+  {
+    "type": "legal",
+    "fact": "City Ordinance #352 in Pacific Grove, California (USA) makes it illegal, actually a misdemeanor, to kill or threaten to kill a butterfly."
+  },
+  {
+    "type": "legal",
     "fact": "Connecticut and Rhode Island never ratified the 18th Amendment (Prohibition)."
   },
   {
@@ -73,7 +85,43 @@
   },
   {
     "type": "legal",
+    "fact": "Franklin D. Roosevelt's birthday is a legal holiday in the Virgin Islands."
+  },
+  {
+    "type": "legal",
+    "fact": "If you attempted to commit suicide in England in the 1800’s, and were unsuccessful, you would face the death penalty."
+  },
+  {
+    "type": "legal",
+    "fact": "In 1929 in Chicago, gunmen in the suspected employment of organized-crime boss Al Capone murder seven members of the George “Bugs” Moran North Siders gang in a garage on North Clark Street. The so-called St. Valentine’s Day Massacre stirred a media storm centered on Capone and his illegal Prohibition-era activities and motivated federal authorities to redouble their efforts to find evidence incriminating enough to take him off the streets."
+  },
+  {
+    "type": "legal",
+    "fact": "In Alaska it is illegal to shoot at a moose from the window of an airplane or other flying vehicle."
+  },
+  {
+    "type": "legal",
+    "fact": "In Baltimore USA it is illegal to wash or scrub a sink regardless of how dirty it is."
+  },
+  {
+    "type": "legal",
+    "fact": "In Chicago it is illegal to be ugly in public. (Referring to drunkeness.)"
+  },
+  {
+    "type": "legal",
+    "fact": "In Cleveland, Ohio women are not allowed to wear patent-leather shoes."
+  },
+  {
+    "type": "legal",
+    "fact": "In Cleveland, Ohio, it's illegal to catch mice without a hunting license."
+  },
+  {
+    "type": "legal",
     "fact": "In Cleveland, Ohio, it’s illegal to catch mice without a hunting license."
+  },
+  {
+    "type": "legal",
+    "fact": "In Columbus, it is illegal for stores to sell corn flakes on Sunday[/li]"
   },
   {
     "type": "legal",
@@ -85,7 +133,31 @@
   },
   {
     "type": "legal",
+    "fact": "In Italy, it is illegal to make coffins out of anything except nutshells or wood."
+  },
+  {
+    "type": "legal",
+    "fact": "In Jasmine, Saskatchewan, it is illegal for a cow to moo within 300 km of a private home."
+  },
+  {
+    "type": "legal",
+    "fact": "In Kentucky, it is illegal to carry ice-cream in your back pocket."
+  },
+  {
+    "type": "legal",
+    "fact": "In Massachusetts - It is illegal to put tomatoes in clam chowder"
+  },
+  {
+    "type": "legal",
+    "fact": "In New York State, it is illegal to but any alcohol on Sundays before noon."
+  },
+  {
+    "type": "legal",
     "fact": "In New York State, it is still illegal to shoot a rabbit from a moving trolley car."
+  },
+  {
+    "type": "legal",
+    "fact": "In Providence, it is illegal to sell toothpaste and a toothbrush to the same customer on a Sunday"
   },
   {
     "type": "legal",
@@ -93,7 +165,27 @@
   },
   {
     "type": "legal",
+    "fact": "In Texas, it is illegal to curse in front of or indecently expose a corpse."
+  },
+  {
+    "type": "legal",
+    "fact": "In Texas, it’s illegal to put graffiti on someone else’s cow."
+  },
+  {
+    "type": "legal",
     "fact": "In Turkey, in the sixteenth and seventeenth centuries, anyone caught drinking coffee was put to death."
+  },
+  {
+    "type": "legal",
+    "fact": "In Utah, it is illegal to swear in front of a dead person."
+  },
+  {
+    "type": "legal",
+    "fact": "In Vermont, USA, it is illegal for women to wear false teeth without the written permission of their husbands."
+  },
+  {
+    "type": "legal",
+    "fact": "In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)"
   },
   {
     "type": "legal",
@@ -109,11 +201,39 @@
   },
   {
     "type": "legal",
+    "fact": "In the UK, there is no act of parliament making it illegal to commit murder. Murder is only illegal due to legal precedent."
+  },
+  {
+    "type": "legal",
     "fact": "It is against the law to sing out of tune in North Carolina."
   },
   {
     "type": "legal",
+    "fact": "It is illegal to eat oranges while bathing in California."
+  },
+  {
+    "type": "legal",
+    "fact": "It is illegal to frown at cows in Bladworth, Saskatchewan."
+  },
+  {
+    "type": "legal",
+    "fact": "It is illegal to get fish drunk in Oklahoma."
+  },
+  {
+    "type": "legal",
     "fact": "It is illegal to hunt camels in the state of Arizona."
+  },
+  {
+    "type": "legal",
+    "fact": "It is illegal to hunt camels in the state of Arizona."
+  },
+  {
+    "type": "legal",
+    "fact": "It is illegal to swim on dry land in Santa Anna, California."
+  },
+  {
+    "type": "legal",
+    "fact": "It used to be against the law to have a pet dog in Iceland."
   },
   {
     "type": "legal",
@@ -129,11 +249,19 @@
   },
   {
     "type": "legal",
+    "fact": "It's illegal to spit on the sidewalk in Norfolk, Virginia."
+  },
+  {
+    "type": "legal",
     "fact": "It’s illegal in Alabama to wear a fake moustache that causes laughter in church."
   },
   {
     "type": "legal",
     "fact": "Lawn darts are illegal in Canada."
+  },
+  {
+    "type": "legal",
+    "fact": "Mailing an entire building has been illegal in the U.S. since 1916 when a man mailed a 40,000-ton brick house across Utah to avoid high freight rates."
   },
   {
     "type": "legal",
@@ -153,7 +281,23 @@
   },
   {
     "type": "legal",
+    "fact": "Rule of thumb – from old English law which made it illegal for a husband to beat his wife with anything thicker than a thumb"
+  },
+  {
+    "type": "legal",
     "fact": "The United State Supreme Court once ruled Federal income tax unconstitutional. Income tax was first imposed during the Civil War as a temporary revenue-raising measure. In the late 1800's the government attempted to revive the levy again, but the Supreme Court ruled it in violation of the constitutional provision that direct taxes must be apportioned among the states according to their population. In 1913, however, Congress passed the Sixteenth Amendment, making a Federal impost legal once again."
+  },
+  {
+    "type": "legal",
+    "fact": "The dome on Monticello, Thomas Jefferson's home, conceals a billiards room. In Jefferson's day, billiards were illegal in Virginia."
+  },
+  {
+    "type": "legal",
+    "fact": "The earliest known legal text was written by Ur Nammu in 2100 B.C."
+  },
+  {
+    "type": "legal",
+    "fact": "The hammer throw is illegal as a high school sport in all states except Rhode Island."
   },
   {
     "type": "legal",

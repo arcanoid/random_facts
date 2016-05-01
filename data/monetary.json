@@ -29,7 +29,15 @@
   },
   {
     "type": "monetary",
+    "fact": "If a US coin has the letter “S” printed on it, it was minted in San Francisco; a “D” means it was made in Denver; no letter at all means it was minted in Philadelphia."
+  },
+  {
+    "type": "monetary",
     "fact": "If you have three quarters, four dimes, and four pennies, you have $1.19. You also have the largest amount of money in coins without being able to make change for a dollar."
+  },
+  {
+    "type": "monetary",
+    "fact": "In 1060 a coin was minted in England shaped like a clover. The user could break off any of the four leaves and use them as separate pieces of currency."
   },
   {
     "type": "monetary",
