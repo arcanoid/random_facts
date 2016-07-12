@@ -1,6 +1,7 @@
 # RandomFacts
 
 [![Build Status](https://travis-ci.org/arcanoid/random_facts.svg?branch=master)](https://travis-ci.org/arcanoid/random_facts)
+[![Gem Version](https://badge.fury.io/rb/random_facts.svg)](https://badge.fury.io/rb/random_facts)
 
 This is a gem that allows a user to request random facts with optional parameters such as max size of returned results array.
 
