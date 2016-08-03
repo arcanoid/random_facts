@@ -202,9 +202,9 @@
   {
     "type": "statistics",
     "fact": "13 people are killed each year by vending machine's falling on them."
-  }},
+  },
   {
-    "type": "maths",
+    "type": "math",
     "fact": "142857 is a cyclic number, the numbers of which always appear in the same order but rotated around when multipled by any number from 1 to 6. 142857 * 2 = 285714 142857 * 3 = 428571 142857 * 4 = 571428 142857 * 5 = 714285 142857 * 6 = 857142"
   },
   {
