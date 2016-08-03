@@ -40,6 +40,19 @@ module RandomFacts
       data_hash.collect { |fact| fact['type'] }.uniq.sort
     end
 
+    def self.sources
+      file_to_read = "#{ROOT}/data/sources.json"
+      data = []
+      file = File.read(file_to_read)
+      data << JSON.parse(file).flatten
+
+      data.flatten
+    end
+
+    #########
+    protected
+    #########
+
     def self.read_all_hash_files
       files_to_read = Dir["#{ROOT}/data/facts/*.json"]
       data = []

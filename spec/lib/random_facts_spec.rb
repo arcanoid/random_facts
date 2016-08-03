@@ -21,6 +21,15 @@ describe RandomFacts::Generator do
     end
   end
 
+  describe '#sources' do
+    it 'should respond with proper list' do
+      output = RandomFacts::Generator.sources
+      output.should be_kind_of Array
+      output.size.should == 25
+      output.should == []
+    end
+  end
+
   describe '#valid_types' do
     it 'should respond with proper list' do
       output = RandomFacts::Generator.valid_types
