@@ -41,7 +41,7 @@ module RandomFacts
     end
 
     def self.read_all_hash_files
-      files_to_read = Dir["#{ROOT}/data/*.json"]
+      files_to_read = Dir["#{ROOT}/data/facts/*.json"]
       data = []
 
       files_to_read.each do |file_to_read|
