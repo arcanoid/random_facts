@@ -1,6 +1,30 @@
 [
   {
     "type": "trivia",
+    "fact": "\"Lassie\" was played by a group of male dogs; the main one was named Pal."
+  },
+  {
+    "type": "trivia",
+    "fact": "\"Moon\" was Buzz Aldrin's (second man on the moon) mother's maiden name."
+  },
+  {
+    "type": "trivia",
+    "fact": "\"Stewardesses\" is the longest word typed with only the left hand."
+  },
+  {
+    "type": "trivia",
+    "fact": "\"Typewriter\" is the longest word that can be made using only the top row on the keyboard."
+  },
+  {
+    "type": "trivia",
+    "fact": "$26 billion in ransom has been paid out in the U.S. in the past 20 years."
+  },
+  {
+    "type": "trivia",
+    "fact": "$283,200 is the absolute highest amount of money you can win on Jeopardy."
+  },
+  {
+    "type": "trivia",
     "fact": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992."
   },
   {
@@ -9,7 +33,31 @@
   },
   {
     "type": "trivia",
+    "fact": "A 17th-century Swedish philologist claimed that in the Garden of Eden God spoke Swedish, Adam spoke Danish, and the serpent spoke French."
+  },
+  {
+    "type": "trivia",
+    "fact": "A Boeing 747's wingspan is longer than the Wright brother's first flight."
+  },
+  {
+    "type": "trivia",
+    "fact": "A Chinese checkerboard has 121 holes."
+  },
+  {
+    "type": "trivia",
+    "fact": "A Macintosh LC575 has 182 speaker holes."
+  },
+  {
+    "type": "trivia",
+    "fact": "A McDonald’s Big Mac bun has an average of 178 sesame seeds."
+  },
+  {
+    "type": "trivia",
     "fact": "A Rubik’s Cube can make 43,252,003,274,489,856,000 different combinations!"
+  },
+  {
+    "type": "trivia",
+    "fact": "A ball of glass will bounce higher than a ball of rubber. A ball of solid steel will bounce higher than one made entirely of glass."
   },
   {
     "type": "trivia",
@@ -177,6 +225,14 @@
   },
   {
     "type": "trivia",
+    "fact": "An Olympic gold medal must contain 92.5 percent silver"
+  },
+  {
+    "type": "trivia",
+    "fact": "An airplane uses more fuel flying at 25,000 feet than at 30,000 feet. The higher it flies, the thinner the atmosphere and the less atmospheric resistance it must buck."
+  },
+  {
+    "type": "trivia",
     "fact": "An average orange falls just as fast as a skydiver. It's hard to catch in free fall, though - the \"burble\" of disturbed air around the jumper pushes the orange away."
   },
   {
@@ -201,6 +257,10 @@
   },
   {
     "type": "trivia",
+    "fact": "Antarctica is the only continent that does not have land areas below sea level."
+  },
+  {
+    "type": "trivia",
     "fact": "Arabic numerals are not really Arabic; they were created in India."
   },
   {
@@ -210,6 +270,14 @@
   {
     "type": "trivia",
     "fact": "Aristotle stuttered."
+  },
+  {
+    "type": "trivia",
+    "fact": "Arizona was the last of the 48 adjoining continental states to enter the Union."
+  },
+  {
+    "type": "trivia",
+    "fact": "Artist Andy Warhol became famous for his painting of Campbell's Soup cans. Before that - he made his living painting shoes for advertisements."
   },
   {
     "type": "trivia",
@@ -341,6 +409,10 @@
   },
   {
     "type": "trivia",
+    "fact": "In England, corn means wheat. In the Bible, corn means grain."
+  },
+  {
+    "type": "trivia",
     "fact": "It is impossible to lick your elbow."
   },
   {
@@ -350,6 +422,14 @@
   {
     "type": "trivia",
     "fact": "Outside the USA, Ireland is the largest software producing country in the world."
+  },
+  {
+    "type": "trivia",
+    "fact": "Play-doh was first invented as a wallpaper cleaner."
+  },
+  {
+    "type": "trivia",
+    "fact": "Plymouth Rock weighs seven tons."
   },
   {
     "type": "trivia",
@@ -378,6 +458,26 @@
   {
     "type": "trivia",
     "fact": "The side of a hammer is a cheek."
+  },
+  {
+    "type": "trivia",
+    "fact": "The work of an artist cannot be exhibited in the Louvre until he has been dead for at least sixty years. The only exception ever made to this rule was Georges Braque."
+  },
+  {
+    "type": "trivia",
+    "fact": "There are an average of eight peas in a pod."
+  },
+  {
+    "type": "trivia",
+    "fact": "There wasn’t a single pony in the Pony Express, just horses."
+  },
+  {
+    "type": "trivia",
+    "fact": "Trivia is the Roman goddess of sorcery, hounds and the crossroads."
+  },
+  {
+    "type": "trivia",
+    "fact": "Twins are born less frequently in the eastern part of the world than in the western."
   },
   {
     "type": "trivia",

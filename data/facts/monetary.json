@@ -61,11 +61,19 @@
   },
   {
     "type": "monetary",
+    "fact": "Some people consider the $1 bill unlucky because there are so many 13's on it: 13 stars, 13 stripes, 13 steps, 13 arrows and even an olive branch with 13 leaves on it. Of course the $1 bill is unlucky - if it was lucky it would be a $100 bill."
+  },
+  {
+    "type": "monetary",
     "fact": "The Australian $5, $10, $20, $50 and $100 notes are made out of plastic."
   },
   {
     "type": "monetary",
     "fact": "The most money ever paid for a cow in an auction was $1.3 million."
+  },
+  {
+    "type": "monetary",
+    "fact": "The original fifty cent piece in Australian decimal currency had around $2.00 worth of silver in it before it was replaced with a less expensive twelve sided coin."
   },
   {
     "type": "monetary",

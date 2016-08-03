@@ -114,5 +114,21 @@
   {
     "type": "food",
     "fact": "Pearls melt in vinegar."
+  },
+  {
+    "type": "food",
+    "fact": "Pound for pound, hamburgers cost more than new cars."
+  },
+  {
+    "type": "food",
+    "fact": "Some people believe brown eggs are richer than white eggs and more nutritious. There really isn’t correlation of richness of the egg to the color of the shell. Analysis shows eggs are practically the same in chemical composition regardless of the color of the shell and there is no difference in the food or nutrient content of varying shades of the color of egg shells."
+  },
+  {
+    "type": "food",
+    "fact": "The pineapple is a berry."
+  },
+  {
+    "type": "food",
+    "fact": "There are about 450 types of cheese in the world. 240 come from France."
   }
 ]

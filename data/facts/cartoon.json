@@ -1,6 +1,10 @@
 [
   {
     "type": "cartoon",
+    "fact": "\"The Simpsons\" is the longest running animated series on TV."
+  },
+  {
+    "type": "cartoon",
     "fact": "Albert Brooks, voice of Marlin the clownfish in Finding Nemo, was named Albert Einstein."
   },
   {
@@ -14,5 +18,9 @@
   {
     "type": "cartoon",
     "fact": "In an episode of The Simpsons, Sideshow Bob's Criminal Number is 24601, the same as the Criminal number of Jean Valjean in Les Miserables."
+  },
+  {
+    "type": "cartoon",
+    "fact": "The writers of The Simpsons have never revealed what state Springfield is in."
   }
 ]

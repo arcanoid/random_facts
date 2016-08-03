@@ -1,11 +1,23 @@
 [
   {
     "type": "math",
+    "fact": "1 and 2 are the only numbers where they are the values of the numbers of factors they have."
+  },
+  {
+    "type": "math",
     "fact": "111,111,111 * 111,111,111 = 12345678987654321"
   },
   {
     "type": "math",
     "fact": "111,111,111 x 111,111,111 = 12,345,678,987,654,321"
+  },
+  {
+    "type": "math",
+    "fact": "142857 is a cyclic number, the numbers of which always appear in the same order but rotated around when multipled by any number from 1 to 6. 142857 * 2 = 285714 142857 * 3 = 428571 142857 * 4 = 571428 142857 * 5 = 714285 142857 * 6 = 857142"
+  },
+  {
+    "type": "math",
+    "fact": "2 and 5 are the only primes that end in 2 or 5."
   },
   {
     "type": "math",

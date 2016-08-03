@@ -26,7 +26,6 @@ describe RandomFacts::Generator do
       output = RandomFacts::Generator.sources
       output.should be_kind_of Array
       output.size.should == 25
-      output.should == []
     end
   end
 

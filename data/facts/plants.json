@@ -117,6 +117,10 @@
   },
   {
     "type": "plants",
+    "fact": "Poison Oak and Poison Ivy are members of the cashew family."
+  },
+  {
+    "type": "plants",
     "fact": "Poison oak is not oak; poison ivy is not ivy. Both are members of the cashew family (Anacardiaceae)."
   },
   {
@@ -229,7 +233,19 @@
   },
   {
     "type": "plants",
+    "fact": "There are an estimated 285,000 species of flowering plants on Earth compared to 148,000 for all other plants. Flowering plants are very important because they provide food for herbivores - plant-eating animals - and for humans."
+  },
+  {
+    "type": "plants",
     "fact": "Tomatoes are really fruits, not vegetables."
+  },
+  {
+    "type": "plants",
+    "fact": "Trees do not have life expectancies like humans. Some in California are believed to be four-thousand years old or more. How can trees live so long? The simple answer is that they're not as complex as people. So, as long as conditions are right, trees continue to live and grow, until something interrupts it."
+  },
+  {
+    "type": "plants",
+    "fact": "Trees, not whales, are the largest living organisms on Earth today."
   },
   {
     "type": "plants",

@@ -49,6 +49,10 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "A Holstein's spots are like fingerprints -- no two cows have the same pattern of spots."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "A Horse has 18 more bones than a Human."
   },
   {
@@ -3249,6 +3253,10 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "Many houses in the rural districts of Nepal are constructed of cow dung mixed with mud, sand, and clay."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "Many people fear catching a protozoan disease, Toxoplasmosis, from cats. This disease can cause illness in the human, but more seriously, can cause birth defects in the unborn. Toxoplasmosis is a common disease, sometimes spread through the feces of cats. It is caused most often from eating raw or rare beef. Pregnant women and people with a depressed immune system should not touch the cat litter box. Other than that, there is no reason that these people have to avoid cats."
   },
   {
@@ -3286,6 +3294,10 @@
   {
     "type": "animal kingdom",
     "fact": "Montana mountain goats will butt heads so hard their hooves fall off."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "More people are allergic to cow's milk than any other food."
   },
   {
     "type": "animal kingdom",
@@ -3621,11 +3633,23 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "Polar bears are left-handed!"
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "Polar bears can eat as many as 86 penguins in a single sitting."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "Police dogs are trained to react to commands in a foreign language; commonly German but more recently Hungarian."
   },
   {
     "type": "animal kingdom",
     "fact": "Porcupines float in water."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "Possums have one of the shortest pregnancies at 16 days. The shortest human pregnancy to produce a healthy baby was 22 weeks, 6 days; the baby was the length of a ballpoint pen."
   },
   {
     "type": "animal kingdom",
@@ -3714,6 +3738,10 @@
   {
     "type": "animal kingdom",
     "fact": "Scientists found a whole new phylum of animal on a lobster's lip."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "Scientists have tracked butterflies travelling over 3,000 miles."
   },
   {
     "type": "animal kingdom",
@@ -3833,6 +3861,10 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "Some crickets burrow megaphone-like tunnels that help transport the sound of their chirps as far as 2,000 feet away."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "Some dinosaurs lived to be more than a hundred years old."
   },
   {
@@ -3857,7 +3889,15 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "Some lions mate over 50 times a day."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "Some male spiders pluck their cobwebs like a guitar, to attract female spiders."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "Some moths never eat anything as adults because they don't have mouths. They must live on the energy they stored as caterpillars."
   },
   {
     "type": "animal kingdom",
@@ -4090,6 +4130,10 @@
   {
     "type": "animal kingdom",
     "fact": "The Whale has the slowest metabolism of all animals. Despite its great size, it lives on one of the smallest of all creatures, the microscopic plankton found throughout the sea."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "The address where Mrs. O’Leary’s cow presumably kicked over a lantern, starting the Chicago fire in 1871, is now the address of the Chicago Fire Academy."
   },
   {
     "type": "animal kingdom",
@@ -4857,11 +4901,19 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "The opening to the cave in which a bear hibernates is always on the North Slope."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "The optimum depth of birdbath water, says the Audubon Society of America, is 2 and a half inches. Less water makes it difficult for birds to take a bath; more makes them afraid."
   },
   {
     "type": "animal kingdom",
     "fact": "The orca is the largest member of the dolphin family, and is not really a whale. Due to its size, however, the orca is frequently included in discussions of whales."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "The original name for butterfly was flutterby."
   },
   {
     "type": "animal kingdom",
@@ -4877,11 +4929,19 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "The peregrine falcon dives at more than 200 miles an hour."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "The pet ferret (Mustela putorias furo) was domesticated more than 500 years before the house cat."
   },
   {
     "type": "animal kingdom",
     "fact": "The pet food company Ralston Purina recently introduced, from its subsidiary Purina Philippines, power chicken feed designed to help roosters build muscles for cockfighting, which is popular in many areas of the world."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "The placement of a donkey's eyes in its' heads enables it to see all four feet at all times!"
   },
   {
     "type": "animal kingdom",
@@ -5073,6 +5133,18 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "The world’s horse population is estimated at 75,000,000.  The oldest horse recorded was Old Billy who was foaled in 1760 and died in 1822 at the age of 62."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "The world’s smallest mammal is the bumblebee bat of Thailand, weighing less than a penny."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "The world’s termites outweigh the world’s humans 10 to 1."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "The worm has several sets of vital organs throughout its body, which is why it can be cut in half and still survive. If it is cut in the middle, its two ends will usually regenerate; if it is not cut in the middle one segment will live. However, if it is cut in too many places the whole worm will die."
   },
   {
@@ -5093,6 +5165,14 @@
   },
   {
     "type": "animal kingdom",
+    "fact": "There are 10 times more sheep in Australia than people."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "There are 4,300 known species of ladybugs in the world."
+  },
+  {
+    "type": "animal kingdom",
     "fact": "There are 5 million different species of insects in the world. The insect population of the world is at least 1,000,000,000,000,000,000. The weight of the world's insect population exceeds that of man by a factor of twelve."
   },
   {
@@ -5102,6 +5182,10 @@
   {
     "type": "animal kingdom",
     "fact": "There are about 100 billion birds in the world, and about 6 billion of them make their homes in the United States."
+  },
+  {
+    "type": "animal kingdom",
+    "fact": "There are about 24,000 species of butterflies. The moths are even more numerous: about 140,000 species of them were counted all over the world."
   },
   {
     "type": "animal kingdom",

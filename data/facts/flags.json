@@ -90,5 +90,9 @@
   {
     "type": "flags",
     "fact": "The flag's of the Netherlands and Luxembourg are identical."
+  },
+  {
+    "type": "flags",
+    "fact": "There are 11 points on the Canadian flag."
   }
 ]

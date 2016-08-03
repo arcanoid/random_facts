@@ -5,6 +5,10 @@
   },
   {
     "type": "grammar",
+    "fact": "\"ADCOMSUBORDCOMPHIBSPAC\" is the longest acronym. It is a Navy term standing for \"Administrative Command, Amphibious Forces, Pacific Fleet Subordinate Command.\""
+  },
+  {
+    "type": "grammar",
     "fact": "\"Almost\" is the longest word in the English language with all the letters in alphabetical order."
   },
   {
@@ -17,6 +21,10 @@
   },
   {
     "type": "grammar",
+    "fact": "\"Canada\" is an Indian word meaning \"Big Village\"."
+  },
+  {
+    "type": "grammar",
     "fact": "\"Capnomancy\" is the observation of smoke to tell the future. Often the smoke is from the burning of poppy seeds."
   },
   {
@@ -25,7 +33,19 @@
   },
   {
     "type": "grammar",
+    "fact": "\"Dreamt\" is the only English word that ends in the letters \"mt\"."
+  },
+  {
+    "type": "grammar",
     "fact": "\"Evian\" spelled backvards is naive."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Floccinaucinihilipilification\" which means \"the act of estimating as worthless\" is the longest non-medical word in the English language; it's 29 letters long."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Go.\" is the shortest complete sentence in the English language."
   },
   {
     "type": "grammar",
@@ -37,11 +57,43 @@
   },
   {
     "type": "grammar",
+    "fact": "\"Q\" is the only letter in the alphabet that does not appear in the name of any of the United States."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Quisling\" is the only word in the English language to start with \"quis.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Racecar\" is the longest single-word palindrome in the English language."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Rhythm\" and \"syzygy\" are the longest English words without vowels"
+  },
+  {
+    "type": "grammar",
     "fact": "\"Rhythm\" is the longest English word without a vowel."
   },
   {
     "type": "grammar",
+    "fact": "\"Skepticism\" - 10 letters - is the longest typed word that alternates hands."
+  },
+  {
+    "type": "grammar",
+    "fact": "\"Underground\" is the only word in the English language that begins and ends with the letters \"und.\""
+  },
+  {
+    "type": "grammar",
     "fact": "\"Xmas\" does not begin with the Roman letter X. It begins with the Greek letter \"chi,\" which was used in medieval manuscripts as an abbreviation for the word \"Christ\" (xus = christus, etc.)"
+  },
+  {
+    "type": "grammar",
+    "fact": "\"two plus eleven\" and \"one plus twelve\" not only give the same result but use the same letters"
+  },
+  {
+    "type": "grammar",
+    "fact": "'Almost' is the longest word in the English language with all the letters in alphabetical order."
   },
   {
     "type": "grammar",
@@ -50,6 +102,18 @@
   {
     "type": "grammar",
     "fact": "'I am' is the shortest complete sentence in the English language."
+  },
+  {
+    "type": "grammar",
+    "fact": "'Stewardesses' is the longest word that is typed with only the left hand."
+  },
+  {
+    "type": "grammar",
+    "fact": "'Strengths' is the longest word in the English language with just one vowel."
+  },
+  {
+    "type": "grammar",
+    "fact": "A H I M O T U V W X Y are the symmetric capital letters in the Roman alphabet. i l o t u v w x are the symmetric lower case letters in the Roman alphabet"
   },
   {
     "type": "grammar",

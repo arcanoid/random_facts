@@ -1,6 +1,10 @@
 [
   {
     "type": "movies",
+    "fact": "'Some Like it Hot' (1959) was originally called 'Not Tonight Josephine'."
+  },
+  {
+    "type": "movies",
     "fact": "About 55% of all movies are rated R."
   },
   {
@@ -85,6 +89,10 @@
   },
   {
     "type": "movies",
+    "fact": "Some famous robots that appeared in the movies Ash - Alien, Gort - The Day the Earth Stood Still, Maria - Metropolis, Sonny - I-Robot, Huet, Duey and Luey - Silent Running"
+  },
+  {
+    "type": "movies",
     "fact": "The actor who played Wedge in the original Star Wars trilogy has a famous nephew: actor Ewan McGregor, who plays the young Obi-Wan in the new Star Wars film."
   },
   {
@@ -102,6 +110,10 @@
   {
     "type": "movies",
     "fact": "The name of the dog from The Grinch Who Stole Christmas is Max."
+  },
+  {
+    "type": "movies",
+    "fact": "There are 22 stars in the Paramount movie studio logo."
   },
   {
     "type": "movies",

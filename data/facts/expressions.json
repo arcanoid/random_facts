@@ -1,7 +1,43 @@
 [
   {
     "type": "expressions",
+    "fact": "\"Ever think you're hearing something in a song, but they're really singing something else? The word for mis-heard lyrics is 'mondegreen,' and it comes from a folk song in the '50's. The singer was actually singing \"They slew the Earl of Morray and laid him on the green,\" but this came off sounding like 'They slew the Earl of Morray and Lady Mondegreen.'\""
+  },
+  {
+    "type": "expressions",
+    "fact": "\"Freelance\" comes from a knight whose lance was free for hire, i.e. not pledged to one master"
+  },
+  {
+    "type": "expressions",
+    "fact": "\"Goodbye\" came from \"God bye\" which came from \"God be with you.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "\"So long\" came from the Arabic \"salaam\" and the Hebrew \"shalom.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "\"Speak of the Devil\" is short for \"Speak of the Devil and he shall come\". It was believed that if you spoke about the Devil it would attract his attention. That's why when your talking about someone and they show up people say \"Speak of the Devil\""
+  },
+  {
+    "type": "expressions",
     "fact": "\"Speak of the Devil\" is short for \"Speak of the Devil and he shall come.\" It was believed that if you spoke about the Devil it would attract his attention. That's why when you are talking about someone and they show up people say \"Speak of the Devil.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "\"Toki doki kuruma de kayotte imasu\" means \"Sometimes I commute by car\" in Japanese."
+  },
+  {
+    "type": "expressions",
+    "fact": "\"Zorro\" means \"fox\" in Spanish."
+  },
+  {
+    "type": "expressions",
+    "fact": "'Crack' gets it name because it crackles when you smoke it."
+  },
+  {
+    "type": "expressions",
+    "fact": "A \"clue\" originally meant a ball of thread. This is why one is said to \"unravel\" the clues of a mystery"
   },
   {
     "type": "expressions",
@@ -41,10 +77,190 @@
   },
   {
     "type": "expressions",
+    "fact": "The phrase \"rule of thumb\" is derived from an old English law which stated that  you couldn't beat your wife with anything wider than your thumb."
+  },
+  {
+    "type": "expressions",
+    "fact": "The phrase \"sleep tight\" originated when mattresses were set upon ropes woven through the bed frame. To remedy sagging ropes, one would use a bed key to tighten the rope."
+  },
+  {
+    "type": "expressions",
+    "fact": "The popular phrase \"The blind leading the blind\" comes from the New Testament, Matthew 15:14."
+  },
+  {
+    "type": "expressions",
     "fact": "The term \"Mayday\" used for signaling for help (after SOS), it comes from the French term \"M'aidez\" which is pronounced \"MayDay\" and means, \"Help Me\""
   },
   {
     "type": "expressions",
     "fact": "The term \"devil's advocate\" comes from the Roman Catholic church. When deciding if someone should be sainted, a devil's advocate is always appointed to give an alternative view."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"Checkmate\" in chess comes from the Persian phrase \"Shah Mat,\" which means \"the king is dead\"."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"boondocks\" comes from the Tagalog (Filipino) word \"Bundok,\" which means mountain."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"curfew\" is derived from an old French word that means \"cover fire.\" In Europe during the Middle Ages, a curfew was a metal cone or shield that was used to put out the hearth fire in the evening. The word \"curfew\" came to mean the end of the day's activities."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"dude\" was coined by Oscar Wilde and his friends. It is a combination of the words duds and attitude."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"fiscal\" is derived from a Latin word meaning \"moneybag.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"gas,\" coined by the chemist J.B. van Helmont, is taken from the word \"chaos,\" which means \"unformed\" in Greek."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"gazelle\" comes from the Arabian term for \"affectionate,\" and it is believed to be inspired by the creature's large, gentle eyes."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"grease monkey\" comes from the person (usually a young boy) that would crawl up in the rafters to grease all of the pulleys and belts that ran all of the equipment in a blacksmith shop or machine shop"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"hangnail\" comes from Middle English: ang- (painful) + nail. Nothing to do with hanging."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"idiot\" is derived from a Greek word that originally meant merely a private citizen or layman."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"karate\" means \"empty hand.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"lethologica\" describes the state of not being able to remember the word you want."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"modem\" is a contraction of the words \"modulate, demodulate.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"monosyllable\" actually has five syllables in it."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"nerd\" was first coined by Dr. Seuss in \"If I Ran the Zoo.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"racecar\" and \"kayak\" are the same whether they are read left to right or right to left."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"set\" has more definitions than any other word in the English language"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word \"trivia\" comes from the Latin \"trivium\" which is the place where three roads meet, a public square. People would gather and talk about all sorts of matters, most of which were trivial."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word 'byte' is a contraction of 'by eight.'"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word 'queue' is the only word in the English language that is still pronounced the same way when the last four letters are removed."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word 'samba' means 'to rub navels together.'"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word February comes from Latin, meaning \"to cleanse.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word denim comes from 'deNimes', or from Nimes, a place in France."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word dinosaur means terrible lizard."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word encyclopedia is derived from the Greek enkuklios paideia, meaning \"general education.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word for \"name\" in Japanese is \"na-ma-e,\" in Mongolian \"nameg.\""
+  },
+  {
+    "type": "expressions",
+    "fact": "The word rodent comes from the Latin word 'rodere' meaning to gnaw."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word ‘pixel’ is a contraction of either ‘picture cell’ or ‘picture element’."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “Nazi” was actually an abbreviation. The party's full name was the Nazionalsozialistische Deutsche Arbeiterpartei."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “bamboo” has contributed two colloquialisms to the English language. First, we owe to it the word “joint,” meaning a disreputable gathering place, a dive. This is because the pipes used in opium dens were crafted of bamboo and had many “joints.” (It has been suggested that marijuana cigarettes are also know as “joints” because of their association with opium dens.) Second, there is the word “bamboozle,” which means to fool or cheat. This traces back to the Chinese custom of punishing swindlers by whacking them on the hands and back with bamboo poles. Any smart aleck so treated was a “bamboozler,” that is, one worthy of being tanned with bamboo."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “clodhopper” originated in early England as a term of derision for the peasantry. In those days farmers traveled by foot, and had to step or jump across clods of plowed Earth. Unlike the gentry, who traveled by carriage or by steed, the peasants were therefore “clodhoppers” --those who had to hop over clods."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “geriatrics” was not coined until 1951."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “live” spelled backward is “evil.”"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “queue” is the only word in the English language that is still pronounced the same way when the last four letters are removed."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “robot” was coined in 1920 in a play, R.U.R. (the initals stood for Rossum's Universal Robots), written by the Czech dramatist Karel Capek."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “tip,” meaning a gratuity, was originally an acronym standing for “To Insure Promptness.”"
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “toady” originally referred to a magician's assistant who literally ate toads as part of the show. Toads, at one time, were thought to be poisonous; when the “toady” recovered from eating one of them, it was considered an indication of the magician's great power."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “toast,” meaning a proposal of health, originated in Rome, where an actual bit of spiced, burned bread was dropped into wine to improve the drink's flavor, absorb its sediment, and thus make it more healthful."
+  },
+  {
+    "type": "expressions",
+    "fact": "The word “turnpike” originated in the days when toll collectors were armed with pikes, long-handled weapons to prevent travelers who refused to pay the tariff from using their roads."
+  },
+  {
+    "type": "expressions",
+    "fact": "The words CHOICE COD read the same when held in front of a mirror upside-down. This also applies to the word DIOXIDE."
+  },
+  {
+    "type": "expressions",
+    "fact": "The words “naked” and “nude” are not the same. Naked implies unprotected. Nude means unclothed."
+  },
+  {
+    "type": "expressions",
+    "fact": "The “D” in D-Day stands for “Day” to reiterate its military importance."
   }
 ]

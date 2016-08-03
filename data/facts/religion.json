@@ -1,6 +1,10 @@
 [
   {
     "type": "religion",
+    "fact": "\"Bible\" comes from Latin biblia, meaning \"books\""
+  },
+  {
+    "type": "religion",
     "fact": "A Bible published in England in 1632 missed out the word 'not' in the seventh Commandment, making it 'Thou shalt commit adultery'. It became known as 'The Wicked Bible'."
   },
   {
@@ -49,11 +53,19 @@
   },
   {
     "type": "religion",
+    "fact": "Gabriel, Michael, and Lucifer are the only angels named in the Bible."
+  },
+  {
+    "type": "religion",
     "fact": "In a century's time, Islam had converted 1/3 of the world."
   },
   {
     "type": "religion",
     "fact": "In addition to the animals there were eight people on Noah's Ark. Noah, his wife, his sons Shem, Ham and Japheth, and their wives."
+  },
+  {
+    "type": "religion",
+    "fact": "In the bible the word girl appears only once."
   },
   {
     "type": "religion",
@@ -278,6 +290,10 @@
   {
     "type": "religion",
     "fact": "Two chapters in the Bible, 2 Kings and Isaiah 37, are alike almost word for word."
+  },
+  {
+    "type": "religion",
+    "fact": "Two chapters in the Bible, 2 kings 19 and Isaiah 37, are alike almost word for word."
   },
   {
     "type": "religion",

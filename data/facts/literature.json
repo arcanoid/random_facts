@@ -1,6 +1,14 @@
 [
   {
     "type": "literature",
+    "fact": "\"The Siege Of Belgrade\" was a poem written by Alaric Watts in 1817. It was a poem where each line (of 27) had only words beginning with each letter of the alphabet: Line 1: A-words. Line 2:B-Words. Line 26: Z-words"
+  },
+  {
+    "type": "literature",
+    "fact": "\"The Tale of Genji\", a Japanese work from the early eleventh century, is considered by many scholars to be the world's first full novel. The novel was written by a woman: Murasaki Shikibu, or Lady Murasaki."
+  },
+  {
+    "type": "literature",
     "fact": "After completing his book on the French revolution, the great English historian Thomas Carlyle gave the manuscript to his friend John Stuart Mill to proofread. By mistake Mill's housemaid used the papers to kindle a fire and destroyed the entire manuscript. Undaunted, Carlyle sat down and, without benefit of notes (he had destroyed these himself), completely reconstructed and rewrote the book."
   },
   {
@@ -81,6 +89,34 @@
   },
   {
     "type": "literature",
+    "fact": "Gutenburg invented the printing press in the 1450's, and the first book to ever be printed was the Bible. It was, however, in Latin rather than English."
+  },
+  {
+    "type": "literature",
     "fact": "Hans Christian Andersen, creator of fairy tales, was word-blind. He never learned to spell correctly, and his publishers always had the spelling errors corrected."
+  },
+  {
+    "type": "literature",
+    "fact": "Some biblical scholars believe that Aramaic (the language of the ancient Bible) did not contain an easy way to say \"many things\" and used a term which has come down to us as 40. This means that when the bible - in many places - refers to \"40 days,\" they meant many days."
+  },
+  {
+    "type": "literature",
+    "fact": "The original story from \"Tales of 1001 Arabian Nights\" begins, \"Aladdin was a little Chinese boy.\""
+  },
+  {
+    "type": "literature",
+    "fact": "The original story of Alice in Wonderland was not known as Alice in Wonderland at all. It was called Alice's Adventures Under Ground and was illustrated by the author himself, Lewis Carroll—whose name was not Lewis Carroll, but Charles Lutwidge Dodgson. Dodgson was a mathematics professor at Christ's Church, Oxford."
+  },
+  {
+    "type": "literature",
+    "fact": "The original title of Jane Austen's novel Pride and Prejudice was First Impressions."
+  },
+  {
+    "type": "literature",
+    "fact": "The original title of the musical \"Hello Dolly!\" was \"Dolly: A Damned Exasperating Woman.\" Why did they change it? The original had such music, poetry, and pizzazz."
+  },
+  {
+    "type": "literature",
+    "fact": "The word ‘nerd’ was first coined by Dr. Seuss in ‘If I ran the Zoo’"
   }
 ]
