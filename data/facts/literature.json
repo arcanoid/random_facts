@@ -65,6 +65,10 @@
   },
   {
     "type": "literature",
+    "fact": "Emily Dickinson wrote more than nine hundred poems, only four of which were published during her lifetime."
+  },
+  {
+    "type": "literature",
     "fact": "English writer Ben Johnson was buried standing up in Westminister Abbey because he couldn’t afford normal grave space."
   },
   {
@@ -97,7 +101,39 @@
   },
   {
     "type": "literature",
+    "fact": "Henry Wadsworth Longfellow, who made John and Priscilla Alden famous in his poem “The Courtship of Miles Standish,” was related to both these actual historical personages."
+  },
+  {
+    "type": "literature",
+    "fact": "Isaac Asimov is the only author to have a book in every Dewey-decimal category."
+  },
+  {
+    "type": "literature",
+    "fact": "John Milton used 8,000 different words in his poem, \"Paradise Lost.\""
+  },
+  {
+    "type": "literature",
+    "fact": "John Milton went blind at the age of 46, which meant his greatest poem Paradise Lost could only be writeen with the help of his 3 daughters, doubled as secretaries."
+  },
+  {
+    "type": "literature",
+    "fact": "Samuel Taylor Coleridge wrote his famous poem “Kubla Khan” directly from a dream. Coleridge was in the midst of writing down the visions he had seen in his dream when someone knocked on the door and he rose to let him in. On returning to his work, Coleridge found that he could not remember the rest of the dream. That is why “Kubla Khan” remains unfinished."
+  },
+  {
+    "type": "literature",
     "fact": "Some biblical scholars believe that Aramaic (the language of the ancient Bible) did not contain an easy way to say \"many things\" and used a term which has come down to us as 40. This means that when the bible - in many places - refers to \"40 days,\" they meant many days."
+  },
+  {
+    "type": "literature",
+    "fact": "The Indian epic poem the Mahabharata is 8 times longer than the Greek epic poems The Iliad and The Odyssey combined."
+  },
+  {
+    "type": "literature",
+    "fact": "The fairy tales “Puss in Boots,” “Little Red Ridinghood,” “Cinderella,” and many others were first written down by Charles Perrault, who also helped design part of the Louvre."
+  },
+  {
+    "type": "literature",
+    "fact": "The oldest surviving love poem is written in a clay tablet from the times of the Sumerians, inventors of writing, around 3500 B.C. It was unromantically named Istanbul #2461 by the archeologists who unearthed it."
   },
   {
     "type": "literature",
@@ -117,6 +153,18 @@
   },
   {
     "type": "literature",
+    "fact": "The tam o' shanter is named for the hero of Robert Burns's poem of the same name."
+  },
+  {
+    "type": "literature",
     "fact": "The word ‘nerd’ was first coined by Dr. Seuss in ‘If I ran the Zoo’"
+  },
+  {
+    "type": "literature",
+    "fact": "William Cullen Bryant, famous American critic, biographer, and civic leader, published a well-known satire on Thomas Jefferson at the age of thirteen. Before he was eighteen he had written his most famous poem, “To a Waterfowl.”"
+  },
+  {
+    "type": "literature",
+    "fact": "“The Washington Post March” by John Philip Susa was named after a newspaper, the Washington Post."
   }
 ]

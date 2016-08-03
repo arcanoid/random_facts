@@ -277,7 +277,31 @@
   },
   {
     "type": "grammar",
+    "fact": "The language of Taki, spoken in parts of French Guinea, consists of only 340 words."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter \"I\" is used exactly 109 times in Act IV of Shakespeare's \"Macbeth.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter B took its present form from a symbol used by Egyptian hieroglyphics to represent a house. Its original Egyptian form looked very much like its modern one."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter J does not appear anywhere on the periodic table of the elements."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter W is the only letter in the alphabet that doesn't have 1 syllable... it has three."
+  },
+  {
+    "type": "grammar",
     "fact": "The letter W is the only letter in the alphabet that doesn't have one syllable, it has three."
+  },
+  {
+    "type": "grammar",
+    "fact": "The letter Y was invented by Palamedes, one of the heroes of the Trojan War. He made its shape from the flight formation of cranes which he observed"
   },
   {
     "type": "grammar",
@@ -285,7 +309,15 @@
   },
   {
     "type": "grammar",
+    "fact": "The letters H I O X in the Latin alphabet is the only ones that look the same if you turn them upside down or see them from behind."
+  },
+  {
+    "type": "grammar",
     "fact": "The letters in the abbreviation e.g. stand for exempli gratia a Latin term meaning \"for example.\""
+  },
+  {
+    "type": "grammar",
+    "fact": "The letters “M.G.” on the British sportscar actually stand for “Morris Garage.”"
   },
   {
     "type": "grammar",
@@ -326,6 +358,10 @@
   {
     "type": "grammar",
     "fact": "The only 15 letter word that can be spelled without repeating a letter is uncopyrightable."
+  },
+  {
+    "type": "grammar",
+    "fact": "The only 15 letter word that can be spelled without repeating a letter is\"uncopyrightable\"."
   },
   {
     "type": "grammar",
@@ -450,6 +486,10 @@
   {
     "type": "grammar",
     "fact": "i l o t u v w x are the symmetric lower case letters in the Roman alphabet."
+  },
+  {
+    "type": "grammar",
+    "fact": "“Dreamt” is the only English word that ends in the letters “mt”."
   },
   {
     "type": "grammar",
