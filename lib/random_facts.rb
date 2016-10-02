@@ -64,5 +64,7 @@ module RandomFacts
 
       data.flatten
     end
+
+    private_class_method :read_all_hash_files
   end
 end
